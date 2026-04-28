@@ -1,0 +1,8 @@
+{
+  "name": "daily-lectio",
+  "version": "1.0.0",
+  "description": "Daily spiritual feed — Henri Nouwen & Raiati",
+  "dependencies": {
+    "@mendable/firecrawl-js": "^1.4.0"
+  }
+}
