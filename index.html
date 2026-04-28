@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Daily Light" />
+  <meta name="theme-color" content="#0e0c14" />
+  <title>Daily Light</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,600&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+    :root { --sans: 'DM Sans', sans-serif; --serif: 'Lora', Georgia, serif; --bg: #0e0c14; }
+    html, body { height: 100%; background: var(--bg); overflow: hidden; font-family: var(--sans); color: white; -webkit-font-smoothing: antialiased; }
+
+    #app { height: 100dvh; display: flex; flex-direction: column; position: relative; overflow: hidden; }
+
+    /* LOADING SCREEN */
+    #loading {
+      position: absolute; inset: 0; z-index: 100;
+      background: var(--bg); display: flex; flex-direction: column;
+      align-items: center; justify-content: center; gap: 20px;
+      transition: opacity 0.5s ease;
+    }
+    #loading.fade { opacity: 0; pointer-events: none; }
+    .loading-icon { font-size: 32px; animation: pulse 2s ease-in-out infinite; }
+    @keyframes pulse { 0%,100%{opacity:.4} 50%{opacity:1} }
+    .loading-title { font-family: var(--serif); font-size: 22px; font-style: italic; color: rgba(255,255,255,.7); }
+    .loading-sub { font-size: 13px; color: rgba(255,255,255,.35); text-align: center; padding: 0 40px; line-height: 1.6; }
+    .spinner { width: 24px; height: 24px; border: 1.5px solid rgba(255,255,255,.1); border-top-color: rgba(255,255,255,.6); border-radius: 50%; animation: spin .8s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ERROR SCREEN */
+    #error {
+      position: absolute; inset: 0; z-index: 99;
+      background: var(--bg); display: none; flex-direction: column;
+      align-items: center; justify-content: center; gap: 14px; padding: 40px;
+    }
+    #error.show { display: flex; }
+    .err-icon { font-size: 28px; }
+    .err-msg { font-size: 14px; color: rgba(255,255,255,.5); text-align: center; line-height: 1.7; }
+    .retry-btn { margin-top: 8px; padding: 10px 28px; background: rgba(255,255,255,.1); border: .5px solid rgba(255,255,255,.2); border-radius: 10px; color: rgba(255,255,255,.8); font-size: 13px; cursor: pointer; font-family: var(--sans); }
+
+    /* TOP BAR */
+    #topbar {
+      position: absolute; top: 0; left: 0; right: 0;
+      padding: max(env(safe-area-inset-top), 14px) 18px 10px;
+      display: flex; justify-content: space-between; align-items: center;
+      z-index: 20; background: linear-gradient(to bottom, rgba(14,12,20,.97) 55%, transparent);
+    }
+    .topbar-title { font-size: 11px; font-weight: 500; letter-spacing: .13em; text-transform: uppercase; color: rgba(255,255,255,.32); }
+    .filter-row { display: flex; gap: 5px; }
+    .filter-btn { font-size: 11px; padding: 4px 10px; border-radius: 20px; border: .5px solid rgba(255,255,255,.18); background: transparent; color: rgba(255,255,255,.4); cursor: pointer; font-family: var(--sans); transition: all .18s; }
+    .filter-btn.active { background: rgba(255,255,255,.12); color: rgba(255,255,255,.9); border-color: rgba(255,255,255,.35); }
+
+    /* FEED */
+    #feed { flex: 1; overflow-y: scroll; scroll-snap-type: y mandatory; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+    #feed::-webkit-scrollbar { display: none; }
+
+    .card { height: 100dvh; scroll-snap-align: start; display: flex; flex-direction: column; justify-content: center; padding: 80px 28px 110px; position: relative; }
+    .card-glow { position: absolute; inset: 0; pointer-events: none; }
+    .card-inner { position: relative; z-index: 2; display: flex; flex-direction: column; justify-content: center; max-height: 440px; overflow: hidden; }
+    .card-inner.rtl { direction: rtl; text-align: right; }
+
+    .source-label { font-size: 11px; font-weight: 500; letter-spacing: .12em; text-transform: uppercase; margin-bottom: 16px; display: flex; align-items: center; gap: 7px; flex-shrink: 0; }
+    .card-inner.rtl .source-label { flex-direction: row-reverse; letter-spacing: 0; }
+    .source-dot { width: 5px; height: 5px; border-radius: 50%; flex-shrink: 0; }
+
+    .quote-title { font-size: 11px; font-weight: 400; letter-spacing: .07em; text-transform: uppercase; margin-bottom: 13px; color: rgba(255,255,255,.38); flex-shrink: 0; }
+    .card-inner.rtl .quote-title { font-size: 14px; letter-spacing: 0; text-transform: none; }
+
+    .quote-body { font-family: var(--serif); font-style: italic; line-height: 1.65; color: rgba(255,255,255,.93); margin-bottom: 20px; }
+    .card-inner.rtl .quote-body { font-style: normal; line-height: 1.95; font-family: Georgia, serif; }
+
+    .quote-meta { font-size: 11px; color: rgba(255,255,255,.26); letter-spacing: .04em; flex-shrink: 0; }
+    .card-inner.rtl .quote-meta { letter-spacing: 0; font-size: 12px; }
+
+    /* SIDE ACTIONS */
+    .side-actions { position: absolute; right: 14px; bottom: 108px; display: flex; flex-direction: column; gap: 14px; z-index: 5; }
+    .side-btn { display: flex; flex-direction: column; align-items: center; gap: 3px; background: none; border: none; cursor: pointer; padding: 0; }
+    .side-icon { width: 40px; height: 40px; border-radius: 50%; background: rgba(255,255,255,.08); border: .5px solid rgba(255,255,255,.13); display: flex; align-items: center; justify-content: center; font-size: 15px; color: rgba(255,255,255,.75); transition: background .18s; }
+    .side-icon:active { background: rgba(255,255,255,.18); }
+    .side-label { font-size: 10px; color: rgba(255,255,255,.32); }
+
+    /* BOTTOM BAR */
+    #bottombar {
+      position: absolute; bottom: 0; left: 0; right: 0;
+      padding: 8px 18px max(env(safe-area-inset-bottom), 18px);
+      z-index: 20; background: linear-gradient(to top, rgba(14,12,20,.98) 65%, transparent);
+      display: flex; flex-direction: column; gap: 8px;
+    }
+    .dots { display: flex; gap: 4px; justify-content: center; }
+    .dot { height: 3px; border-radius: 2px; background: rgba(255,255,255,.18); transition: all .3s; width: 12px; }
+    .dot.active { background: rgba(255,255,255,.72); width: 20px; }
+    .btn-row { display: flex; gap: 8px; }
+    .btn { flex: 1; padding: 12px; border-radius: 12px; font-size: 14px; font-weight: 500; cursor: pointer; font-family: var(--sans); border: .5px solid rgba(255,255,255,.15); background: rgba(255,255,255,.07); color: rgba(255,255,255,.6); transition: all .18s; }
+    .btn:active { background: rgba(255,255,255,.14); color: white; }
+    .btn-primary { background: rgba(255,255,255,.9); color: #111; border-color: transparent; }
+    .btn-primary:active { background: white; }
+
+    /* TOAST */
+    #toast { position: absolute; bottom: 115px; left: 50%; transform: translateX(-50%) translateY(8px); background: rgba(30,28,40,.95); border: .5px solid rgba(255,255,255,.2); color: rgba(255,255,255,.85); font-size: 13px; padding: 8px 18px; border-radius: 20px; opacity: 0; transition: all .25s; z-index: 30; white-space: nowrap; pointer-events: none; }
+    #toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+    /* LAST UPDATED BADGE */
+    #updated { position: absolute; top: 6px; left: 50%; transform: translateX(-50%); font-size: 10px; color: rgba(255,255,255,.2); z-index: 25; white-space: nowrap; }
+  </style>
+</head>
+<body>
+<div id="app">
+
+  <!-- LOADING -->
+  <div id="loading">
+    <div class="loading-icon">✦</div>
+    <div class="loading-title">Daily Light</div>
+    <div class="loading-sub" id="loading-msg">Fetching today's meditations…</div>
+    <div class="spinner"></div>
+  </div>
+
+  <!-- ERROR -->
+  <div id="error">
+    <div class="err-icon">✦</div>
+    <div class="err-msg" id="error-msg">Could not load meditations. Check your connection and try again.</div>
+    <button class="retry-btn" onclick="init()">Try again</button>
+  </div>
+
+  <div id="updated"></div>
+
+  <div id="topbar">
+    <span class="topbar-title">Daily Light</span>
+    <div class="filter-row">
+      <button class="filter-btn active" onclick="setFilter('all',this)">All</button>
+      <button class="filter-btn" onclick="setFilter('nouwen',this)">Nouwen</button>
+      <button class="filter-btn" onclick="setFilter('raiati',this)">رعيتي</button>
+    </div>
+  </div>
+
+  <div id="feed"></div>
+
+  <div id="bottombar">
+    <div class="dots" id="dots"></div>
+    <div class="btn-row">
+      <button class="btn" onclick="copyCard()">Copy quote</button>
+      <button class="btn btn-primary" onclick="shareCard()">Share ↗</button>
+    </div>
+  </div>
+
+  <div id="toast" id="toast"></div>
+</div>
+
+<script>
+const CORS = 'https://corsproxy.io/?';
+const NOUWEN_URL = 'https://www.henrinouwen.org/daily-meditations';
+const RAIATI_URL = 'https://georgeskhodr.org/category/articles-ar/raiati-ar/';
+
+const PAL = {
+  nouwen: {
+    glow: 'radial-gradient(ellipse at 20% 50%,rgba(127,119,221,.2),transparent 65%),radial-gradient(ellipse at 80% 20%,rgba(83,74,183,.12),transparent 55%)',
+    accent: '#a78bfa', dot: '#7c3aed', label: 'Henri Nouwen Society'
+  },
+  raiati: {
+    glow: 'radial-gradient(ellipse at 25% 45%,rgba(29,158,117,.17),transparent 65%),radial-gradient(ellipse at 75% 25%,rgba(15,110,86,.1),transparent 55%)',
+    accent: '#5eead4', dot: '#0d9488', label: 'نشرة رعيتي — المطران جورج خضر'
+  }
+};
+
+// Fallback quotes in case fetch fails
+const FALLBACK = [
+  { src:'nouwen', title:'Already Found', body:'The spiritual life is a long and often arduous search for what you have already found. You are looking for the love that has already claimed you before you could look.', date:'Henri Nouwen' },
+  { src:'raiati', title:'ضعف الله', body:'المسيح تنازل عن مجده وقوته ليموت. الموت شيء ضعيف. ثم تسطع قوته من هذا الشيء الضعيف لينتصر بالمجد. كل منا ميت والمسيح يقول لكل منا باسمه: يا فلان قم.', date:'رعيتي — المطران جورج خضر' },
+  { src:'nouwen', title:'Giving and Multiplying', body:'What we hold on to always diminishes. What we give away always multiplies. It is the great illogic. The logic of the Gospel defies the logic of the world.', date:'Henri Nouwen' },
+  { src:'raiati', title:'وحدة العائلة', body:'اتحاد كل انسان بالرب هو وحده سر اتحاده بالآخرين. من صار مع الرب روحا واحدا يكون مع الكل روحا واحدا.', date:'رعيتي — المطران جورج خضر' },
+];
+
+let allQuotes = [];
+let visible = [];
+let curIdx = 0;
+let activeFilter = 'all';
+
+// ── CACHE ──────────────────────────────────────────────
+const CACHE_KEY = 'daily_light_cache';
+const CACHE_TTL = 12 * 60 * 60 * 1000; // 12 hours
+
+function saveCache(quotes) {
+  try {
+    localStorage.setItem(CACHE_KEY, JSON.stringify({ ts: Date.now(), quotes }));
+  } catch(e) {}
+}
+
+function loadCache() {
+  try {
+    const raw = localStorage.getItem(CACHE_KEY);
+    if (!raw) return null;
+    const { ts, quotes } = JSON.parse(raw);
+    if (Date.now() - ts < CACHE_TTL) return quotes;
+  } catch(e) {}
+  return null;
+}
+
+// ── FETCH NOUWEN ───────────────────────────────────────
+async function fetchNouwen() {
+  const res = await fetch(CORS + encodeURIComponent(NOUWEN_URL));
+  const html = await res.text();
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(html, 'text/html');
+  const quotes = [];
+
+  // Each meditation entry on the listing page
+  const entries = doc.querySelectorAll('h1 a, h2 a');
+  const links = [];
+  entries.forEach(a => {
+    const href = a.href || a.getAttribute('href');
+    if (href && href.includes('daily-meditations') && !href.endsWith('daily-meditations') && !href.endsWith('daily-meditations/')) {
+      links.push(href);
+    }
+  });
+
+  // Grab up to 6 recent ones - fetch first 3 for full text
+  const toFetch = links.slice(0, 4);
+  for (const link of toFetch) {
+    try {
+      const r2 = await fetch(CORS + encodeURIComponent(link));
+      const h2 = await r2.text();
+      const d2 = parser.parseFromString(h2, 'text/html');
+
+      // Title (the heading after the date)
+      const heading = d2.querySelector('h3, h4');
+      const title = heading ? heading.textContent.trim() : '';
+
+      // Body paragraphs — the main meditation text
+      const paras = d2.querySelectorAll('p');
+      let body = '';
+      paras.forEach(p => {
+        const txt = p.textContent.trim();
+        if (txt.length > 60 && !txt.startsWith('When you give') && !txt.startsWith('We use cookies')) {
+          if (!body) body = txt;
+        }
+      });
+
+      // Date
+      const dateEl = d2.querySelector('time, .entry-date, [class*="date"]');
+      const date = dateEl ? dateEl.textContent.trim() : '';
+
+      if (title && body) {
+        quotes.push({ src: 'nouwen', title, body, date: date || 'Henri Nouwen Society' });
+      }
+    } catch(e) { /* skip failed individual fetch */ }
+  }
+
+  return quotes;
+}
+
+// ── FETCH RAIATI ───────────────────────────────────────
+async function fetchRaiati() {
+  const res = await fetch(CORS + encodeURIComponent(RAIATI_URL));
+  const html = await res.text();
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(html, 'text/html');
+  const quotes = [];
+
+  // Each article on the listing page has a title + excerpt
+  const articles = doc.querySelectorAll('article, .post');
+  const processed = [];
+
+  articles.forEach(art => {
+    const titleEl = art.querySelector('h1, h2, h3');
+    const title = titleEl ? titleEl.textContent.trim().split('/')[0].trim() : '';
+
+    // Get paragraphs from the excerpt or content
+    const paras = art.querySelectorAll('p');
+    let body = '';
+    paras.forEach(p => {
+      const txt = p.textContent.trim();
+      if (txt.length > 80 && !body) body = txt;
+    });
+
+    const dateEl = art.querySelector('time, .entry-date, .post-date');
+    const date = dateEl ? dateEl.textContent.trim() : '';
+
+    if (title && body) {
+      processed.push({ src: 'raiati', title, body, date: date || 'نشرة رعيتي' });
+    }
+  });
+
+  // If no articles found via article tags, try heading + paragraph combos
+  if (processed.length === 0) {
+    const headings = doc.querySelectorAll('h2');
+    headings.forEach(h => {
+      const title = h.textContent.trim().split('/')[0].trim();
+      let next = h.nextElementSibling;
+      let body = '';
+      while (next && !body) {
+        if (next.tagName === 'P' && next.textContent.trim().length > 60) {
+          body = next.textContent.trim();
+        }
+        next = next.nextElementSibling;
+      }
+      if (title && body && title.length < 100) {
+        processed.push({ src: 'raiati', title, body, date: 'رعيتي — المطران جورج خضر' });
+      }
+    });
+  }
+
+  return processed.slice(0, 6);
+}
+
+// ── INIT ───────────────────────────────────────────────
+async function init() {
+  document.getElementById('error').classList.remove('show');
+  document.getElementById('loading').style.display = 'flex';
+  document.getElementById('loading').classList.remove('fade');
+
+  // Try cache first
+  const cached = loadCache();
+  if (cached && cached.length > 0) {
+    allQuotes = cached;
+    showApp(true);
+    // Refresh in background
+    refreshInBackground();
+    return;
+  }
+
+  await fetchAndShow();
+}
+
+async function fetchAndShow() {
+  setLoadingMsg('Fetching Henri Nouwen meditation…');
+  try {
+    let nouwen = [], raiati = [];
+
+    try {
+      nouwen = await fetchNouwen();
+      setLoadingMsg('Fetching Raiati bulletin…');
+    } catch(e) {
+      console.warn('Nouwen fetch failed', e);
+    }
+
+    try {
+      raiati = await fetchRaiati();
+    } catch(e) {
+      console.warn('Raiati fetch failed', e);
+    }
+
+    // Interleave the two sources
+    const maxLen = Math.max(nouwen.length, raiati.length);
+    const interleaved = [];
+    for (let i = 0; i < maxLen; i++) {
+      if (nouwen[i]) interleaved.push(nouwen[i]);
+      if (raiati[i]) interleaved.push(raiati[i]);
+    }
+
+    allQuotes = interleaved.length > 0 ? interleaved : FALLBACK;
+    saveCache(allQuotes);
+    showApp(false);
+  } catch(e) {
+    console.error(e);
+    allQuotes = FALLBACK;
+    showApp(false);
+    showError('Could not fetch live content — showing saved quotes instead.');
+  }
+}
+
+async function refreshInBackground() {
+  try {
+    const nouwen = await fetchNouwen();
+    const raiati = await fetchRaiati();
+    const maxLen = Math.max(nouwen.length, raiati.length);
+    const interleaved = [];
+    for (let i = 0; i < maxLen; i++) {
+      if (nouwen[i]) interleaved.push(nouwen[i]);
+      if (raiati[i]) interleaved.push(raiati[i]);
+    }
+    if (interleaved.length > 0) {
+      allQuotes = interleaved;
+      saveCache(allQuotes);
+    }
+  } catch(e) { /* silent fail */ }
+}
+
+function setLoadingMsg(msg) {
+  document.getElementById('loading-msg').textContent = msg;
+}
+
+function showApp(fromCache) {
+  applyFilter(activeFilter);
+  renderFeed();
+
+  // Update timestamp
+  const now = new Date();
+  const ts = now.toLocaleDateString('en-GB', { day:'numeric', month:'short' }) + (fromCache ? ' (cached)' : '');
+  document.getElementById('updated').textContent = ts;
+
+  // Fade out loading
+  const loading = document.getElementById('loading');
+  loading.classList.add('fade');
+  setTimeout(() => { loading.style.display = 'none'; }, 500);
+}
+
+function showError(msg) {
+  const err = document.getElementById('error');
+  document.getElementById('error-msg').textContent = msg;
+  err.classList.add('show');
+  document.getElementById('loading').style.display = 'none';
+}
+
+// ── FILTER ─────────────────────────────────────────────
+function applyFilter(src) {
+  activeFilter = src;
+  visible = src === 'all' ? [...allQuotes] : allQuotes.filter(q => q.src === src);
+  if (visible.length === 0) visible = [...allQuotes];
+  curIdx = 0;
+}
+
+function setFilter(src, btn) {
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  applyFilter(src);
+  renderFeed();
+}
+
+// ── RENDER ─────────────────────────────────────────────
+function fitText(card) {
+  const body = card.querySelector('.quote-body');
+  const container = card.querySelector('.card-inner');
+  let size = 21;
+  body.style.fontSize = size + 'px';
+  while (container.scrollHeight > container.clientHeight && size > 12) {
+    size -= 0.5;
+    body.style.fontSize = size + 'px';
+  }
+}
+
+function renderFeed() {
+  const feed = document.getElementById('feed');
+  const dots = document.getElementById('dots');
+  feed.innerHTML = '';
+  dots.innerHTML = visible.map((_, i) => `<div class="dot${i === 0 ? ' active' : ''}" id="dot-${i}"></div>`).join('');
+
+  visible.forEach((q, i) => {
+    const p = PAL[q.src];
+    const isAr = q.src === 'raiati';
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.innerHTML = `
+      <div class="card-glow" style="background:${p.glow};"></div>
+      <div class="card-inner${isAr ? ' rtl' : ''}">
+        <div class="source-label" style="color:${p.accent};">
+          <div class="source-dot" style="background:${p.dot};"></div>
+          ${p.label}
+        </div>
+        <div class="quote-title">${q.title}</div>
+        <div class="quote-body">${q.body}</div>
+        <div class="quote-meta">${q.date}</div>
+      </div>
+      <div class="side-actions">
+        <button class="side-btn" onclick="copyIdx(${i})">
+          <div class="side-icon">⎘</div>
+          <div class="side-label">Copy</div>
+        </button>
+        <button class="side-btn" onclick="shareIdx(${i})">
+          <div class="side-icon">↑</div>
+          <div class="side-label">Share</div>
+        </button>
+      </div>
+    `;
+    feed.appendChild(card);
+    fitText(card);
+  });
+
+  const obs = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        curIdx = parseInt(e.target.dataset.i);
+        document.querySelectorAll('.dot').forEach((d, j) => d.classList.toggle('active', j === curIdx));
+      }
+    });
+  }, { threshold: 0.6, root: feed });
+
+  feed.querySelectorAll('.card').forEach((c, i) => { c.dataset.i = i; obs.observe(c); });
+}
+
+// ── ACTIONS ────────────────────────────────────────────
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2200);
+}
+
+function copyIdx(i) {
+  const q = visible[i];
+  const text = `"${q.body}"\n— ${PAL[q.src].label} (${q.title})`;
+  if (navigator.clipboard) {
+    navigator.clipboard.writeText(text).then(() => showToast('Copied!'));
+  } else {
+    const ta = document.createElement('textarea');
+    ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0';
+    document.body.appendChild(ta); ta.select();
+    document.execCommand('copy'); document.body.removeChild(ta);
+    showToast('Copied!');
+  }
+}
+
+function shareIdx(i) {
+  const q = visible[i];
+  const text = `"${q.body}"\n— ${PAL[q.src].label} (${q.title})`;
+  if (navigator.share) {
+    navigator.share({ text });
+  } else {
+    copyIdx(i);
+    showToast('Copied to clipboard!');
+  }
+}
+
+function copyCard() { copyIdx(curIdx); }
+function shareCard() { shareIdx(curIdx); }
+
+// ── START ──────────────────────────────────────────────
+init();
+</script>
+</body>
+</html>
