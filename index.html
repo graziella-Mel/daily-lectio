@@ -17,43 +17,34 @@
     html, body { height: 100%; background: var(--bg); overflow: hidden; font-family: var(--sans); color: white; -webkit-font-smoothing: antialiased; }
     #app { height: 100dvh; display: flex; flex-direction: column; position: relative; overflow: hidden; }
 
-    /* ── LOADING ── */
-    #loading {
-      position: absolute; inset: 0; z-index: 100; background: var(--bg);
-      display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 18px;
-      transition: opacity 0.5s ease;
-    }
+    /* LOADING */
+    #loading { position: absolute; inset: 0; z-index: 100; background: var(--bg); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 18px; transition: opacity 0.5s ease; }
     #loading.fade { opacity: 0; pointer-events: none; }
     .loading-icon { font-size: 28px; animation: breathe 2.4s ease-in-out infinite; }
     @keyframes breathe { 0%,100%{opacity:.3;transform:scale(.95)} 50%{opacity:1;transform:scale(1.05)} }
-    .loading-title { font-family: var(--serif); font-size: 20px; font-style: italic; color: rgba(255,255,255,.65); }
-    .loading-sub { font-size: 12px; color: rgba(255,255,255,.3); text-align: center; padding: 0 40px; line-height: 1.7; }
-    .spinner { width: 22px; height: 22px; border: 1.5px solid rgba(255,255,255,.1); border-top-color: rgba(255,255,255,.55); border-radius: 50%; animation: spin .9s linear infinite; }
+    .loading-title { font-family: var(--serif); font-size: 20px; font-style: italic; color: rgba(255,255,255,.6); }
+    .loading-sub { font-size: 12px; color: rgba(255,255,255,.28); text-align: center; padding: 0 40px; line-height: 1.7; }
+    .spinner { width: 22px; height: 22px; border: 1.5px solid rgba(255,255,255,.1); border-top-color: rgba(255,255,255,.5); border-radius: 50%; animation: spin .9s linear infinite; }
     @keyframes spin { to { transform: rotate(360deg); } }
 
-    /* ── ERROR ── */
+    /* ERROR */
     #error { position: absolute; inset: 0; z-index: 99; background: var(--bg); display: none; flex-direction: column; align-items: center; justify-content: center; gap: 14px; padding: 40px; }
     #error.show { display: flex; }
-    .err-msg { font-size: 14px; color: rgba(255,255,255,.45); text-align: center; line-height: 1.7; }
-    .retry-btn { margin-top: 6px; padding: 10px 28px; background: rgba(255,255,255,.08); border: .5px solid rgba(255,255,255,.2); border-radius: 10px; color: rgba(255,255,255,.7); font-size: 13px; cursor: pointer; font-family: var(--sans); }
+    .err-msg { font-size: 14px; color: rgba(255,255,255,.4); text-align: center; line-height: 1.7; }
+    .retry-btn { margin-top: 6px; padding: 10px 28px; background: rgba(255,255,255,.08); border: .5px solid rgba(255,255,255,.2); border-radius: 10px; color: rgba(255,255,255,.65); font-size: 13px; cursor: pointer; font-family: var(--sans); }
 
-    /* ── TOP BAR ── */
-    #topbar {
-      position: absolute; top: 0; left: 0; right: 0; z-index: 20;
-      padding: max(env(safe-area-inset-top), 14px) 18px 10px;
-      display: flex; justify-content: space-between; align-items: center;
-      background: linear-gradient(to bottom, rgba(14,12,20,.97) 55%, transparent);
-    }
-    .topbar-title { font-size: 11px; font-weight: 500; letter-spacing: .14em; text-transform: uppercase; color: rgba(255,255,255,.3); }
+    /* TOP BAR */
+    #topbar { position: absolute; top: 0; left: 0; right: 0; z-index: 20; padding: max(env(safe-area-inset-top), 14px) 18px 10px; display: flex; justify-content: space-between; align-items: center; background: linear-gradient(to bottom, rgba(14,12,20,.97) 55%, transparent); }
+    .topbar-title { font-size: 11px; font-weight: 500; letter-spacing: .14em; text-transform: uppercase; color: rgba(255,255,255,.28); }
     .filter-row { display: flex; gap: 5px; }
     .filter-btn { font-size: 11px; padding: 4px 10px; border-radius: 20px; border: .5px solid rgba(255,255,255,.18); background: transparent; color: rgba(255,255,255,.38); cursor: pointer; font-family: var(--sans); transition: all .18s; }
     .filter-btn.active { background: rgba(255,255,255,.12); color: rgba(255,255,255,.9); border-color: rgba(255,255,255,.35); }
 
-    /* ── FEED ── */
+    /* FEED */
     #feed { flex: 1; overflow-y: scroll; scroll-snap-type: y mandatory; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
     #feed::-webkit-scrollbar { display: none; }
 
-    /* ── CARD ── */
+    /* CARD */
     .card { height: 100dvh; scroll-snap-align: start; display: flex; flex-direction: column; justify-content: center; padding: 80px 28px 110px; position: relative; }
     .card-glow { position: absolute; inset: 0; pointer-events: none; }
     .card-inner { position: relative; z-index: 2; display: flex; flex-direction: column; justify-content: center; max-height: 450px; overflow: hidden; }
@@ -72,20 +63,15 @@
     .quote-meta { font-size: 11px; color: rgba(255,255,255,.24); letter-spacing: .04em; flex-shrink: 0; }
     .card-inner.rtl .quote-meta { letter-spacing: 0; font-size: 12px; }
 
-    /* ── SIDE ACTIONS ── */
+    /* SIDE ACTIONS */
     .side-actions { position: absolute; right: 14px; bottom: 108px; display: flex; flex-direction: column; gap: 14px; z-index: 5; }
     .side-btn { display: flex; flex-direction: column; align-items: center; gap: 3px; background: none; border: none; cursor: pointer; padding: 0; }
     .side-icon { width: 40px; height: 40px; border-radius: 50%; background: rgba(255,255,255,.07); border: .5px solid rgba(255,255,255,.12); display: flex; align-items: center; justify-content: center; font-size: 15px; color: rgba(255,255,255,.7); transition: background .18s; }
     .side-icon:active { background: rgba(255,255,255,.18); }
     .side-label { font-size: 10px; color: rgba(255,255,255,.3); }
 
-    /* ── BOTTOM BAR ── */
-    #bottombar {
-      position: absolute; bottom: 0; left: 0; right: 0; z-index: 20;
-      padding: 8px 18px max(env(safe-area-inset-bottom), 18px);
-      background: linear-gradient(to top, rgba(14,12,20,.98) 65%, transparent);
-      display: flex; flex-direction: column; gap: 8px;
-    }
+    /* BOTTOM BAR */
+    #bottombar { position: absolute; bottom: 0; left: 0; right: 0; z-index: 20; padding: 8px 18px max(env(safe-area-inset-bottom), 18px); background: linear-gradient(to top, rgba(14,12,20,.98) 65%, transparent); display: flex; flex-direction: column; gap: 8px; }
     .dots { display: flex; gap: 4px; justify-content: center; }
     .dot { height: 3px; border-radius: 2px; background: rgba(255,255,255,.16); transition: all .3s; width: 12px; }
     .dot.active { background: rgba(255,255,255,.7); width: 20px; }
@@ -95,12 +81,12 @@
     .btn-primary { background: rgba(255,255,255,.88); color: #111; border-color: transparent; }
     .btn-primary:active { background: white; }
 
-    /* ── TOAST ── */
+    /* TOAST */
     #toast { position: absolute; bottom: 115px; left: 50%; transform: translateX(-50%) translateY(8px); background: rgba(30,28,40,.96); border: .5px solid rgba(255,255,255,.18); color: rgba(255,255,255,.82); font-size: 13px; padding: 8px 18px; border-radius: 20px; opacity: 0; transition: all .25s; z-index: 30; white-space: nowrap; pointer-events: none; }
     #toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
 
-    /* ── FRESHNESS BADGE ── */
-    #freshness { position: absolute; top: 8px; left: 50%; transform: translateX(-50%); font-size: 10px; color: rgba(255,255,255,.18); z-index: 25; white-space: nowrap; letter-spacing: .04em; }
+    /* FRESHNESS */
+    #freshness { position: absolute; top: 8px; left: 50%; transform: translateX(-50%); font-size: 10px; color: rgba(255,255,255,.18); z-index: 25; white-space: nowrap; }
   </style>
 </head>
 <body>
@@ -109,7 +95,7 @@
   <div id="loading">
     <div class="loading-icon">✦</div>
     <div class="loading-title">Daily Lectio</div>
-    <div class="loading-sub" id="loading-msg">Gathering today's meditations…</div>
+    <div class="loading-sub" id="loading-msg">Loading today's meditations…</div>
     <div class="spinner"></div>
   </div>
 
@@ -143,8 +129,8 @@
 </div>
 
 <script>
-  // ── Replace this with your actual Vercel URL once deployed ──
-  const API_URL = '/api/quotes';
+  // quotes.json lives in the same repo, served by GitHub Pages
+  const QUOTES_URL = './quotes.json';
 
   const PAL = {
     nouwen: {
@@ -157,81 +143,40 @@
     }
   };
 
-  const LOCAL_CACHE_KEY = 'daily_lectio_v1';
-  const LOCAL_CACHE_TTL = 12 * 60 * 60 * 1000; // 12h
-
   let allQuotes = [];
   let visible = [];
   let curIdx = 0;
   let activeFilter = 'all';
 
-  // ── LOCAL CACHE ──────────────────────────────────────
-  function saveLocal(data) {
-    try { localStorage.setItem(LOCAL_CACHE_KEY, JSON.stringify({ ts: Date.now(), data })); } catch(e) {}
-  }
-  function loadLocal() {
-    try {
-      const raw = localStorage.getItem(LOCAL_CACHE_KEY);
-      if (!raw) return null;
-      const { ts, data } = JSON.parse(raw);
-      if (Date.now() - ts < LOCAL_CACHE_TTL) return data;
-    } catch(e) {}
-    return null;
-  }
-
-  // ── INIT ─────────────────────────────────────────────
   async function init() {
     document.getElementById('error').classList.remove('show');
     document.getElementById('loading').style.display = 'flex';
     document.getElementById('loading').classList.remove('fade');
 
-    // Show local cache instantly while we fetch
-    const local = loadLocal();
-    if (local && local.length > 0) {
-      allQuotes = local;
-      showApp('From cache — refreshing…');
-      fetchAndUpdate(); // update in background
-      return;
-    }
-
-    await fetchAndUpdate();
-  }
-
-  async function fetchAndUpdate() {
-    setMsg('Fetching today\'s meditations…');
     try {
-      const res = await fetch(API_URL);
-      if (!res.ok) throw new Error('API returned ' + res.status);
+      // Add cache-busting so we always get the latest quotes.json
+      const res = await fetch(QUOTES_URL + '?t=' + Date.now());
+      if (!res.ok) throw new Error('Could not load quotes.json');
       const json = await res.json();
-      if (!json.quotes || json.quotes.length === 0) throw new Error('No quotes returned');
+      if (!json.quotes || json.quotes.length === 0) throw new Error('No quotes found');
 
       allQuotes = json.quotes;
-      saveLocal(allQuotes);
 
-      const ts = new Date(json.cachedAt).toLocaleDateString('en-GB', { day:'numeric', month:'short', hour:'2-digit', minute:'2-digit' });
-      showApp('Updated ' + ts);
-    } catch(e) {
+      const updated = new Date(json.updatedAt);
+      const label = updated.toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
+      document.getElementById('freshness').textContent = 'Updated ' + label;
+
+      applyFilter(activeFilter);
+      renderFeed();
+      hideLoading();
+
+    } catch (e) {
       console.error(e);
-      if (allQuotes.length > 0) {
-        // Already showing stale cache — just update badge
-        document.getElementById('freshness').textContent = 'Offline — showing cached';
-        hideLoding();
-      } else {
-        showError('Could not load meditations.\n' + e.message);
-      }
+      showError('Could not load meditations.\n' + e.message);
     }
   }
 
-  function setMsg(m) { document.getElementById('loading-msg').textContent = m; }
-
-  function showApp(freshnessText) {
-    applyFilter(activeFilter);
-    renderFeed();
-    document.getElementById('freshness').textContent = freshnessText || '';
-    hideLoding();
-  }
-
-  function hideLoding() {
+  function hideLoading() {
     const l = document.getElementById('loading');
     l.classList.add('fade');
     setTimeout(() => l.style.display = 'none', 500);
@@ -243,7 +188,6 @@
     document.getElementById('loading').style.display = 'none';
   }
 
-  // ── FILTER ───────────────────────────────────────────
   function applyFilter(src) {
     activeFilter = src;
     visible = src === 'all' ? [...allQuotes] : allQuotes.filter(q => q.src === src);
@@ -258,7 +202,6 @@
     renderFeed();
   }
 
-  // ── RENDER ───────────────────────────────────────────
   function fitText(card) {
     const body = card.querySelector('.quote-body');
     const container = card.querySelector('.card-inner');
@@ -322,7 +265,6 @@
     feed.querySelectorAll('.card').forEach((c, i) => { c.dataset.i = i; obs.observe(c); });
   }
 
-  // ── ACTIONS ──────────────────────────────────────────
   function showToast(msg) {
     const t = document.getElementById('toast');
     t.textContent = msg;
