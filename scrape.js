@@ -36,7 +36,7 @@ async function scrapeNouwen() {
     const listing = await app.scrapeUrl(NOUWEN_URL, { formats: ['links'] });
     const links = (listing.links || [])
       .filter(l => l.includes('/daily-meditations/') && l.length > 60)
-      .slice(0, 6);
+      .slice(0, 15);
 
     console.log(`Found ${links.length} Nouwen meditation links`);
 
@@ -135,7 +135,7 @@ async function scrapeRaiati() {
     console.error('Raiati scrape failed:', e.message);
   }
 
-  return quotes.slice(0, 6);
+  return quotes.slice(0, 15);
 }
 
 // ── Main ──────────────────────────────────────────────
