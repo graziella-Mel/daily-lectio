@@ -1,14 +1,81 @@
 {
-  "updatedAt": "2026-04-28T05:00:00.000Z",
-  "counts": { "nouwen": 4, "raiati": 4 },
+  "updatedAt": "2026-04-28T16:29:46.836Z",
+  "counts": {
+    "nouwen": 6,
+    "raiati": 6
+  },
   "quotes": [
-    { "src": "nouwen", "title": "Called to Inner Unity", "body": "Right now you experience an inner duality; your emotions, passions, and feelings seem separate from your heart. Your thoughts and dreams seem separate from your spiritual longing. You are called to unity. The word becomes flesh, and thus a new place is made where all of you and all of God can dwell. When you have found that unity, you will be truly free.", "date": "April 16, 2026" },
-    { "src": "raiati", "title": "السلوك الفصحيّ", "body": "كل منا آلامه فيه بادية أو غير بادية، جسديّة أو نفسيّة. يكلّمه يسوع، ولمجرد انعطافه عليه يعطيه سلامًا. يدخل عليك المسيح والأبواب مغلقة. إذا قرع يسوع باب نفسك افتح له، إذ ذاك يدخل ويتعشى معك ويُجلسك على مائدة حبه.", "date": "رعيتي — أيار ١٩٩٧" },
-    { "src": "nouwen", "title": "Already Found", "body": "The spiritual life is a long and often arduous search for what you have already found. You are looking for the love that has already claimed you before you could look.", "date": "April 8, 2026" },
-    { "src": "raiati", "title": "وحدة العائلة", "body": "اتحاد كل انسان بالرب هو وحده سر اتحاده بالآخرين. من صار مع الرب روحا واحدا يكون مع الكل روحا واحدا. عنصر الوحدة في العائلة ليست العواطف وهي هشة. الله وحده عنصر الوحدة.", "date": "رعيتي — تشرين الثاني ٢٠١٣" },
-    { "src": "nouwen", "title": "Your Heart is Greater Than Your Wounds", "body": "It is better to cry than to worry, better to feel your wounds deeply than to understand them, better to let them enter into your silence than to talk about them. A wound that is touched and held can become a source of healing.", "date": "April 7, 2026" },
-    { "src": "raiati", "title": "ضعف الله", "body": "المسيح تنازل عن مجده وقوته ليموت. الموت شيء ضعيف. ثم تسطع قوته من هذا الشيء الضعيف لينتصر بالمجد. كل منا ميت والمسيح يقول لكل منا باسمه: يا فلان قم.", "date": "رعيتي — تشرين الأول ٢٠١٣" },
-    { "src": "nouwen", "title": "Giving and Multiplying", "body": "What we hold on to always diminishes. What we give away always multiplies. It is the great illogic. The logic of the Gospel defies the logic of the world.", "date": "March 30, 2026" },
-    { "src": "raiati", "title": "اللبّ والقشور", "body": "المهم أن تكون علاقتنا مع الله علاقة الروح مع الروح، علاقة القلب الانساني مع القلب الإلهي. المهم ان نُحوّل الوصية من شريعة مفروضة الى شريعة محبوبة. المهم أن نحبّ الوصية.", "date": "رعيتي — كانون الأول ٢٠١٣" }
+    {
+      "src": "nouwen",
+      "title": "Absence is Not Destructive",
+      "body": "When the place where God dwells in you is intimately connected with the place where God dwells in the other, the absence of the other person is not destructive. On the contrary, it will challenge you to enter more deeply into communion with God, the source of all unity and communion among people.",
+      "date": "April 28, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[السلوك الفصحيّ",
+      "body": "يوم الفصح ظـهر السيد للتلاميذ مجتمعين “وقال لهم: السلام لكم. ولما قال هـذا أراهم يديه وجنبه فـفرح التلاميذ حين أبـصروا الرب”. وكان توما غائـبًا فلم يؤمن. ولكن في الأحـد اللاحـق للـقـيامة ظـهـر السيد لهم ثانية وتوما معهم. وتكـرر المـشهد نفسه عند دخول الرب: السلام لكم، والرب مشـرق بالـنور الفـصحي وآثار آلامه عليه.",
+      "date": "رعيتي — 4 أيار 1997"
+    },
+    {
+      "src": "nouwen",
+      "title": "Going Deeper",
+      "body": "There are many doors…. that give you chances to leave the journey. But you have been closing these doors one after the other, making yourself go deeper and deeper into your center. You know that Jesus is waiting for you at the end, just as you know that he is guiding you as you move in that direction. Every time you close another - be it the door of immediate satisfaction, the door of distracting entertainment, the door of busyness, the door of guilt and worry, or the door of self rejection - you commit yourself to go deeper into your heart and thus deeper into the heart of God.",
+      "date": "April 27, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[نشوء الزواج",
+      "body": "الزواج عهد مؤسس على الطبيعة. ينشأ بالحب الذي يجمع رجلًا وامرأة. ولكن هناك مجتمعات قديمة لا تطلب الحب شرطًا ولكن لا بدّ له ان يتكوّن قبل الزواج أو بعده. هناك جاذب يكشفه القول الإلهي منذ التكوين: «ليس جيدًا أن يكون الإنسان وحده على الأرض. فلنصنعنَّ له مُعينًا على شبهه». فاللقاء بين شخصين من الجنسين يضع مبدئيًّا حدًّا لهذه الوحدة.",
+      "date": "رعيتي — 9 آب 1992"
+    },
+    {
+      "src": "nouwen",
+      "title": "Seeing Jesus in Your True Self",
+      "body": "You complain that it is hard for you to pray, to experience the love of Jesus. But Jesus dwells in your fearful, never fully received self. When you befriend your true self and discover that it is good and beautiful, you will see Jesus there. Where you are most human, most yourself, weakest, there Jesus lives. Bringing your fearful self home is bringing Jesus home.",
+      "date": "April 26, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Receiving the Affection of Jesus",
+      "body": "Do not despair, thinking that you cannot change yourself after so many years. Simply enter into the presence of Jesus as you are and ask him to give you a fearless heart where he can be with you. You cannot make yourself different. Jesus came to give you a new heart, a new spirit, a new mind, and a new body. Let him transform you by his love and so enable you to receive his affection in your whole being.",
+      "date": "April 25, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Breaking Down Hierarchy",
+      "body": "Think about Jesus. He was totally free before the authorities of his time. He told people not to be guided by the behaviour of the Scribes and Pharisees. Jesus came among us as an equal, a brother. He broke down the pyramidal structures of relationship between God and people, as well as those among people and offered a new model: the circle where God lives in full solidarity with the people and the people with one another.",
+      "date": "April 24, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "A Task of the Heart",
+      "body": "The spiritual task is not to escape your loneliness, not to let yourself drown in it, but to find its source. This is not so easy to do, but when you can somehow identify the place from which these feelings emerge, they will lose some of their power over you. This identification is not an intellectual task; it is a task of the heart. With your heart, you must search for that place without fear. This is an important search because it leads you to discern something good about yourself.",
+      "date": "April 23, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "date": "رعيتي — المطران جورج خضر"
+    }
   ]
 }
