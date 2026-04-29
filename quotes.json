@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-04-28T16:29:46.836Z",
+  "updatedAt": "2026-04-29T07:21:56.912Z",
   "counts": {
-    "nouwen": 6,
-    "raiati": 6
+    "nouwen": 15,
+    "raiati": 8
   },
   "quotes": [
     {
@@ -76,6 +76,72 @@
       "title": "[صوم الميلاد",
       "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Your Unique Call",
+      "body": "A new spirituality is being born in you. Not body denying or body indulging but truly incarnation. You have to trust that this spirituality can find shape within you and that it can find articulation through you. You will discover that many other spiritualities you have admired and try to practice no longer completely fit your unique call. You will begin sensing when other people’s experiences and ideas no longer match your own. You have to start trusting your unique vocation and allow it to grow deeper and stronger in you so it can blossom in your community.",
+      "date": "April 22, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Just Stay There",
+      "body": "A seed only flourishes by staying in the ground in which it is sown. When you keep digging the seed up to check whether it is growing, it will never bear fruit. Think about yourself as a little seed planted in rich soil. All you have to do is stay there and trust that the soil contains everything you need to grow. This growth takes place even when you do not feel it. Be quiet, acknowledge your powerlessness, and have faith that one day you will know how much you have received.",
+      "date": "April 21, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "A Beautiful Self",
+      "body": "God has given you a beautiful self. There God dwells and loves you with the first love, which precedes all human love. You carry your own beautiful, deeply loved self in your heart. You can and must hold onto the truth of the love you were given and recognize that same love in others who see your goodness and love you. So stop trying to die to the particular real love you have received. Be grateful for it and see it as what enabled you to open yourself to God’s first love.",
+      "date": "April 20, 2026"
+    },
+    {
+      "src": "nouwen",
+      "title": "The New Place",
+      "body": "You have to begin to trust that your experience of emptiness is not the final experience, that beyond it is a place where you are being held in love. As long as you do not trust that place beyond your emptiness, you cannot safely re-enter the place of pain. So you have to go into the place of your pain with the knowledge in your heart that you have already found the new place. You have already tasted some of its fruits. The more roots you have in the new place, the more capable you are of mourning the loss of the old place and letting go of the pain that lies there. You cannot mourn something that has not died. Still, the old pains, attachments, and desires that once meant so much to you need to be buried. You have to weep over your lost pain so that they can gradually leave you and you can become free to live fully in the new place without melancholy or home sickness.",
+      "date": "April 19, 2026"
+    },
+    {
+      "src": "nouwen",
+      "title": "Rest in God’s Peace",
+      "body": "Your main question should always be whether something is lived with or without God. You have your own inner knowledge to answer that question. Every time you do something that comes from your needs for acceptance, affirmation, or affection, and every time you do something that makes these needs grow, you know that you are not with God. These needs will never be satisfied; they will only increase when you yield to them. But every time you do something for the glory of God, you will know God’s peace in your heart and find rest there.",
+      "date": "April 18, 2026"
+    },
+    {
+      "src": "nouwen",
+      "title": "Bring Your Body Home",
+      "body": "In Jesus, God took on human flesh. The Spirit of God overshadowed Mary, and in her all enmity between spirit and body was overcome. God’s Spirit was united with the human spirit, and the human body became the temple destined to be lifted up into the intimacy of God through the resurrection. Every human body has been given a new hope of belonging eternally to the God who created it. Thanks to the Incarnation, you can bring your body home.",
+      "date": "April 17, 2026"
+    },
+    {
+      "src": "nouwen",
+      "title": "Called to Inner Unity",
+      "body": "Right now you experience an inner duality; your emotions, passions, and feelings seem separate from your heart. The needs of your body seem separate from your deeper self. Your thoughts and dreams seem separate from your spiritual longing. You are called to unity. That is the good news of the Incarnation. The word becomes flesh, and thus a new place is made where all of you and all of God can dwell. When you have found that unity, you will be truly free.",
+      "date": "April 16, 2026"
+    },
+    {
+      "src": "nouwen",
+      "title": "Safe at Home",
+      "body": "Home is where you are truly safe. It is where you can receive what you desire. You need human hands to hold you there so you don’t run away again. But when you come home and stay home, you will find the love that will bring rest to your heart.",
+      "date": "April 15, 2026"
+    },
+    {
+      "src": "nouwen",
+      "title": "God’s Love is Enough",
+      "body": "You have to trust the place that is solid, the place where you can say yes to God’s love even when you do not feel it. Right now you feel nothing except emptiness and the lack of strength to choose. But keep saying, “God loves me, and God’s love is enough.” You have to choose the solid place over and over again and return to it after every failure.",
+      "date": "April 14, 2026"
     }
   ]
 }
