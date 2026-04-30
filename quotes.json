@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T07:21:56.912Z",
+  "updatedAt": "2026-04-30T07:26:41.451Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Absence is Not Destructive",
-      "body": "When the place where God dwells in you is intimately connected with the place where God dwells in the other, the absence of the other person is not destructive. On the contrary, it will challenge you to enter more deeply into communion with God, the source of all unity and communion among people.",
-      "date": "April 28, 2026"
+      "title": "You Belong to God",
+      "body": "Your true identity is as a child of God. This is the identity you have to accept. Once you have claimed it and settled in it, you can live in a world that gives you much joy as well as pain. You can receive the praise as well as the blame that comes to you as an opportunity for strengthening your basic identity, because the identity that makes you free is anchored beyond all human praise and blame. You belong to God, and it is as a child of God that you are sent into the world.",
+      "date": "April 30, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Going Deeper",
-      "body": "There are many doors…. that give you chances to leave the journey. But you have been closing these doors one after the other, making yourself go deeper and deeper into your center. You know that Jesus is waiting for you at the end, just as you know that he is guiding you as you move in that direction. Every time you close another - be it the door of immediate satisfaction, the door of distracting entertainment, the door of busyness, the door of guilt and worry, or the door of self rejection - you commit yourself to go deeper into your heart and thus deeper into the heart of God.",
-      "date": "April 27, 2026"
+      "title": "When the Body Says No",
+      "body": "When you get exhausted, frustrated, overwhelmed, or rundown, your body is saying that you are doing things that are none of your business. God does not require of you what is beyond your ability, what leads you away from God, or what makes you depressed or sad. God wants you to live for others and to live that presence well. Doing so might include suffering, fatigue, and even moments of great physical or emotional pain, but none of this must ever pull you away from your deepest self and God.",
+      "date": "April 29, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,38 @@
     },
     {
       "src": "nouwen",
+      "title": "Absence is Not Destructive",
+      "body": "When the place where God dwells in you is intimately connected with the place where God dwells in the other, the absence of the other person is not destructive. On the contrary, it will challenge you to enter more deeply into communion with God, the source of all unity and communion among people.",
+      "date": "April 28, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Going Deeper",
+      "body": "There are many doors…. that give you chances to leave the journey. But you have been closing these doors one after the other, making yourself go deeper and deeper into your center. You know that Jesus is waiting for you at the end, just as you know that he is guiding you as you move in that direction. Every time you close another - be it the door of immediate satisfaction, the door of distracting entertainment, the door of busyness, the door of guilt and worry, or the door of self rejection - you commit yourself to go deeper into your heart and thus deeper into the heart of God.",
+      "date": "April 27, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Seeing Jesus in Your True Self",
       "body": "You complain that it is hard for you to pray, to experience the love of Jesus. But Jesus dwells in your fearful, never fully received self. When you befriend your true self and discover that it is good and beautiful, you will see Jesus there. Where you are most human, most yourself, weakest, there Jesus lives. Bringing your fearful self home is bringing Jesus home.",
       "date": "April 26, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -84,22 +108,10 @@
       "date": "April 22, 2026"
     },
     {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
       "src": "nouwen",
       "title": "Just Stay There",
       "body": "A seed only flourishes by staying in the ground in which it is sown. When you keep digging the seed up to check whether it is growing, it will never bear fruit. Think about yourself as a little seed planted in rich soil. All you have to do is stay there and trust that the soil contains everything you need to grow. This growth takes place even when you do not feel it. Be quiet, acknowledge your powerlessness, and have faith that one day you will know how much you have received.",
       "date": "April 21, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -130,18 +142,6 @@
       "title": "Called to Inner Unity",
       "body": "Right now you experience an inner duality; your emotions, passions, and feelings seem separate from your heart. The needs of your body seem separate from your deeper self. Your thoughts and dreams seem separate from your spiritual longing. You are called to unity. That is the good news of the Incarnation. The word becomes flesh, and thus a new place is made where all of you and all of God can dwell. When you have found that unity, you will be truly free.",
       "date": "April 16, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Safe at Home",
-      "body": "Home is where you are truly safe. It is where you can receive what you desire. You need human hands to hold you there so you don’t run away again. But when you come home and stay home, you will find the love that will bring rest to your heart.",
-      "date": "April 15, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "God’s Love is Enough",
-      "body": "You have to trust the place that is solid, the place where you can say yes to God’s love even when you do not feel it. Right now you feel nothing except emptiness and the lack of strength to choose. But keep saying, “God loves me, and God’s love is enough.” You have to choose the solid place over and over again and return to it after every failure.",
-      "date": "April 14, 2026"
     }
   ]
 }
