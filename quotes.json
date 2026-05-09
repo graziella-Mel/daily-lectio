@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T06:50:57.833Z",
+  "updatedAt": "2026-05-09T07:05:58.653Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "God’s Gentle Guidance",
-      "body": "Theological reflection is reflecting on the painful and joyful realities of every day with the mind of Jesus and thereby raising human consciousness to the knowledge of God’s gentle guidance. This is a hard discipline, since God’s presence is often a hidden presence, a presence that needs to be discovered. The loud, boisterous noises of the world make us deaf to the soft, gentle, and loving voice of God.",
-      "date": "May 7, 2026"
+      "title": "Keep Listening and Keep Looking",
+      "body": "Poverty in all its forms, physical, intellectual, and emotional, is not decreasing. To the contrary, the poor are everywhere around us and beyond – more than ever. As the powers of darkness show their hideous intentions with increasing crudeness, the weeping of the poor becomes louder and louder and their misery more and more visible. We who yearn for peace must strive to keep listening and to keep looking. We must not run away from this painful sight.",
+      "date": "May 9, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Caregiving and Mutuality",
-      "body": "To care is the most human of human gestures. It is a gesture that comes forth from a courageous confession of our common need for one another and the grace of compassion that binds us together with brothers and sisters like ourselves who share with us the wonderful and painful journey of life. In the very act of our caring for another, you and I possess a great treasure. One of the great riches of caregiving is that it embraces something more than simply a focus on cure. Caregiving carries within it an opportunity for inner healing, liberation and transformation for the one being cared for and the one who cares. And because we who offer care and we who receive care are both strong and vulnerable, though in different ways, our coming together in a caregiving relationship is an occasion to open ourselves to receive an unexpected gift.",
-      "date": "May 6, 2026"
+      "title": "Different Forms of Love",
+      "body": "Discipleship – giving expression to God’s love – takes many forms. Some people are passionate lovers. Others have an indignant love. They see injustice and immediately go to it. Others have a very gentle love. They radiate welcoming. Wherever they are they create community. There are others with a quiet love that is very hidden. These are all forms of love, and we each have our own way. God’s love is so rich and broad that it takes many people to make it visible. The many forms of love support each other.",
+      "date": "May 8, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,38 @@
     },
     {
       "src": "nouwen",
+      "title": "God’s Gentle Guidance",
+      "body": "Theological reflection is reflecting on the painful and joyful realities of every day with the mind of Jesus and thereby raising human consciousness to the knowledge of God’s gentle guidance. This is a hard discipline, since God’s presence is often a hidden presence, a presence that needs to be discovered. The loud, boisterous noises of the world make us deaf to the soft, gentle, and loving voice of God.",
+      "date": "May 7, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Caregiving and Mutuality",
+      "body": "To care is the most human of human gestures. It is a gesture that comes forth from a courageous confession of our common need for one another and the grace of compassion that binds us together with brothers and sisters like ourselves who share with us the wonderful and painful journey of life. In the very act of our caring for another, you and I possess a great treasure. One of the great riches of caregiving is that it embraces something more than simply a focus on cure. Caregiving carries within it an opportunity for inner healing, liberation and transformation for the one being cared for and the one who cares. And because we who offer care and we who receive care are both strong and vulnerable, though in different ways, our coming together in a caregiving relationship is an occasion to open ourselves to receive an unexpected gift.",
+      "date": "May 6, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Christ In Us Brings Healing",
       "body": "To be living reminders of God, we must be concerned first of all with our own intimacy with God. Once we have heard, seen, watched and touched the Word who is life, we cannot do other than be living reminders. Once we are connected with him, we will speak about him, sing his praise and proclaim his great deeds, not out of obligation but as a free, spontaneous response. In order for this response to be lasting… we need discipline, formation and training. But these can do little more than offer channels for the lived experience of God… Ultimately, it is Christ in us from whom healing comes. Only Christ can break through our human alienation and restore the broken connections with each other and with God.",
       "date": "May 5, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -84,22 +108,10 @@
       "date": "May 1, 2026"
     },
     {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
       "src": "nouwen",
       "title": "You Belong to God",
       "body": "Your true identity is as a child of God. This is the identity you have to accept. Once you have claimed it and settled in it, you can live in a world that gives you much joy as well as pain. You can receive the praise as well as the blame that comes to you as an opportunity for strengthening your basic identity, because the identity that makes you free is anchored beyond all human praise and blame. You belong to God, and it is as a child of God that you are sent into the world.",
       "date": "April 30, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -130,18 +142,6 @@
       "title": "Receiving the Affection of Jesus",
       "body": "Do not despair, thinking that you cannot change yourself after so many years. Simply enter into the presence of Jesus as you are and ask him to give you a fearless heart where he can be with you. You cannot make yourself different. Jesus came to give you a new heart, a new spirit, a new mind, and a new body. Let him transform you by his love and so enable you to receive his affection in your whole being.",
       "date": "April 25, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Breaking Down Hierarchy",
-      "body": "Think about Jesus. He was totally free before the authorities of his time. He told people not to be guided by the behaviour of the Scribes and Pharisees. Jesus came among us as an equal, a brother. He broke down the pyramidal structures of relationship between God and people, as well as those among people and offered a new model: the circle where God lives in full solidarity with the people and the people with one another.",
-      "date": "April 24, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "A Task of the Heart",
-      "body": "The spiritual task is not to escape your loneliness, not to let yourself drown in it, but to find its source. This is not so easy to do, but when you can somehow identify the place from which these feelings emerge, they will lose some of their power over you. This identification is not an intellectual task; it is a task of the heart. With your heart, you must search for that place without fear. This is an important search because it leads you to discern something good about yourself.",
-      "date": "April 23, 2026"
     }
   ]
 }
