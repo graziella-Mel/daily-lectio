@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T08:25:11.967Z",
+  "updatedAt": "2026-05-20T08:24:11.249Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "The Gift of Joy and Peace",
-      "body": "When we enjoy a good atmosphere in the family, a peaceful mood among friends, or a spirit of cooperation and mutual support in a community, we intuitively know that we did not produce it. It cannot be made, imitated, or exported. To people who are jealous, and who would like to have our joy and peace, we cannot give a formula to produce it or a method to acquire it. It is always perceived as a gift, to which the only appropriate response is gratitude.",
-      "date": "May 18, 2026"
+      "title": "God’s Preparations in the Interruptions",
+      "body": "A few years ago I met an old professor at the University of Notre Dame. Looking back on his long life of teaching, he said with a funny twinkle in his eyes: “I have always been complaining that my work was constantly interrupted until I slowly discovered that my interruptions were my work.”",
+      "date": "May 20, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Our Heart: Center of Our Being",
-      "body": "I am speaking here about something very, very real. It is about the hidden mystery of the primacy of the heart in our true identity as human beings. Let me say here that by “heart” I do not mean the seat of human emotions in contrast to the mind as the seat of human thought. No, by heart I mean the center of our being where God comes to dwell with us and bring us the divine gifts of trust, hope, and love.",
-      "date": "May 17, 2026"
+      "title": "Choosing the Light",
+      "body": "I know quite well the difference between darkness and light but do not always have the courage to name them by their true names. There is a strong temptation to deal with the darkness as if it were light, and with the light as if it were darkness. Knowing Jesus, reading his words, and praying create increasing clarity about evil and good, sin and grace, Satan and God. This clarity calls me to choose the way to the light fearlessly and straightforwardly. The transparent life is a life in which heart, mind, and gut are united in choosing the light.",
+      "date": "May 19, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,38 @@
     },
     {
       "src": "nouwen",
+      "title": "The Gift of Joy and Peace",
+      "body": "When we enjoy a good atmosphere in the family, a peaceful mood among friends, or a spirit of cooperation and mutual support in a community, we intuitively know that we did not produce it. It cannot be made, imitated, or exported. To people who are jealous, and who would like to have our joy and peace, we cannot give a formula to produce it or a method to acquire it. It is always perceived as a gift, to which the only appropriate response is gratitude.",
+      "date": "May 18, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Our Heart: Center of Our Being",
+      "body": "I am speaking here about something very, very real. It is about the hidden mystery of the primacy of the heart in our true identity as human beings. Let me say here that by “heart” I do not mean the seat of human emotions in contrast to the mind as the seat of human thought. No, by heart I mean the center of our being where God comes to dwell with us and bring us the divine gifts of trust, hope, and love.",
+      "date": "May 17, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Living in the Light",
       "body": "I come to you to enter into the mystery of your way – the way of discipleship, the way that leads from the cross to new life. It is not an easy way, but it is a way of peace and joy. Help me to be here with a heart open to suffering, a mind open to understanding, and a will ready to follow.",
       "date": "May 16, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -84,22 +108,10 @@
       "date": "May 12, 2026"
     },
     {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
       "src": "nouwen",
       "title": "A Small and Hidden Life",
       "body": "Discernment reveals new priorities, directions, and gifts from God. We come to realize that what previously seemed so important for our lives, loses its power over us. Our desire to be successful, well liked, and influential becomes increasingly less important as we come closer to God’s heart. To our surprise, we even may experience a strange inner freedom to follow a new call or direction as previous concerns move into the background of our consciousness. We begin to see the beauty of the small and hidden life that Jesus lived in Nazareth. Most rewarding of all is the discovery that as we pray more each day, God’s will – that is, God’s concrete ways of loving us and our world – gradually is made known to us.",
       "date": "May 11, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -130,18 +142,6 @@
       "title": "Caregiving and Mutuality",
       "body": "To care is the most human of human gestures. It is a gesture that comes forth from a courageous confession of our common need for one another and the grace of compassion that binds us together with brothers and sisters like ourselves who share with us the wonderful and painful journey of life. In the very act of our caring for another, you and I possess a great treasure. One of the great riches of caregiving is that it embraces something more than simply a focus on cure. Caregiving carries within it an opportunity for inner healing, liberation and transformation for the one being cared for and the one who cares. And because we who offer care and we who receive care are both strong and vulnerable, though in different ways, our coming together in a caregiving relationship is an occasion to open ourselves to receive an unexpected gift.",
       "date": "May 6, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Christ In Us Brings Healing",
-      "body": "To be living reminders of God, we must be concerned first of all with our own intimacy with God. Once we have heard, seen, watched and touched the Word who is life, we cannot do other than be living reminders. Once we are connected with him, we will speak about him, sing his praise and proclaim his great deeds, not out of obligation but as a free, spontaneous response. In order for this response to be lasting… we need discipline, formation and training. But these can do little more than offer channels for the lived experience of God… Ultimately, it is Christ in us from whom healing comes. Only Christ can break through our human alienation and restore the broken connections with each other and with God.",
-      "date": "May 5, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Seeing in a New Light",
-      "body": "When Christian community provides sacred space and times for discernment, we will gradually be lifted up into God’s dwelling place and come to see ourselves, our neighbors, and our world in a new light. This “seeing” does not require intellectual knowledge, articulated insight, or a concrete opinion. No, it is a sharing in the knowledge of God’s heart, a deeper wisdom, a new way of living and loving.",
-      "date": "May 4, 2026"
     }
   ]
 }
