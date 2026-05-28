@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T08:37:22.862Z",
+  "updatedAt": "2026-05-28T08:41:10.104Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Letting Peace Grow",
-      "body": "As long as we imagine and live as if there is no peace in sight, and that it all depends on us to make it come about, we are on the road to self-destruction. But when we trust that the God of love has already given the peace we are searching for, we will see this peace breaking through the broken soil of our human condition and we will be able to let it grow fast and even heal the economic and political maladies of our time. With this trust in our hearts, we will be able to hear the words: “Blessed are the peacemakers, for they will be called children of God” (Matt. 5:9).",
-      "date": "May 27, 2026"
+      "title": "Death Does Not Have the Last Say",
+      "body": "The joy that Jesus offers his disciples is his own joy, which flows from his intimate communion with the One who sent him. It is a joy that does not separate happy days from sad days, successful moments from moments of failure, experiences of honor from experiences of dishonor, passion from resurrection. This joy is a divine gift that does not leave us during times of illness, poverty, oppression, or persecution. It is present even when the world laughs or tortures, robs or maims, fights or kills. It is truly ecstatic, always moving us away from the house of fear into the house of love, and always proclaiming that death no longer has the final say, though its noise remains loud and its devastation visible. The joy of Jesus lifts up life to be celebrated.",
+      "date": "May 28, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Let Nothing Disturb You",
-      "body": "I have found that Saint Teresa’s call to focus on the goodness of God when I need to discern helps me fight the demons of despair, self-rejection, and fear, and has overcome the powers of darkness with the power of God many times. I have often prayed the prayer of Saint Teresa, “ _Solo Dios basta,_ God alone is enough,” when I have needed to discern whether what I was hearing and experiencing was of God or not. Praying these words slowly and out loud can help me enter into God’s presence, where there is peace and certainty that God is always with me and loves me.",
-      "date": "May 26, 2026"
+      "title": "Letting Peace Grow",
+      "body": "As long as we imagine and live as if there is no peace in sight, and that it all depends on us to make it come about, we are on the road to self-destruction. But when we trust that the God of love has already given the peace we are searching for, we will see this peace breaking through the broken soil of our human condition and we will be able to let it grow fast and even heal the economic and political maladies of our time. With this trust in our hearts, we will be able to hear the words: “Blessed are the peacemakers, for they will be called children of God” (Matt. 5:9).",
+      "date": "May 27, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,26 @@
     },
     {
       "src": "nouwen",
+      "title": "Let Nothing Disturb You",
+      "body": "I have found that Saint Teresa’s call to focus on the goodness of God when I need to discern helps me fight the demons of despair, self-rejection, and fear, and has overcome the powers of darkness with the power of God many times. I have often prayed the prayer of Saint Teresa, “ _Solo Dios basta,_ God alone is enough,” when I have needed to discern whether what I was hearing and experiencing was of God or not. Praying these words slowly and out loud can help me enter into God’s presence, where there is peace and certainty that God is always with me and loves me.",
+      "date": "May 26, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Jesus Wants to Free Us",
       "body": "Jesus wants to free us from the chain that imprisons us. He wants to free us by revealing that we are loved before we can give or receive love from anybody. Jesus came to reveal to us the first love. The original love. We are called by Jesus to come in touch with that first love.",
       "date": "May 25, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +61,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -85,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -94,12 +106,6 @@
       "title": "God’s Preparations in the Interruptions",
       "body": "A few years ago I met an old professor at the University of Notre Dame. Looking back on his long life of teaching, he said with a funny twinkle in his eyes: “I have always been complaining that my work was constantly interrupted until I slowly discovered that my interruptions were my work.”",
       "date": "May 20, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -136,12 +142,6 @@
       "title": "Praying for Courage",
       "body": "Praying means being constantly ready to let go of your certainty and move on further than where you now are. It demands that you take to the road again and again, leaving your house and looking forward to a new land for yourself and your fellowman. This is why praying demands poverty, that is, the readiness to live a life in which you have nothing to lose so that you always begin afresh. Whenever you willingly choose this poverty you make yourself vulnerable, but you also become free to see the world and to let the world be seen in its true form. For you have no need to defend yourself and you can tell loudly what you know through your intimate contact with him who is the source of all life. But this demands courage. If you are to make real all the consequences of a prayerful life, you might well be frightened and wonder if you should dare. Then it is vital to remember that courage is also a gift from God for which you can pray.",
       "date": "May 14, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Freed From the Bounds of Time",
-      "body": "Celebrating means the affirmation of the present, which becomes fully possible only by remembering the past and expecting more to come in the future. But celebrating in this sense very seldom takes place. Nothing is as difficult as really accepting one’s own life. More often than not the present is denied, the past becomes a source of complaints, and the future is looked upon as a reason for despair or apathy.",
-      "date": "May 13, 2026"
     }
   ]
 }
