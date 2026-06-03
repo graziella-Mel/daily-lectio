@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T09:04:18.674Z",
+  "updatedAt": "2026-06-03T09:24:09.221Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Small Signs of God’s Presence",
-      "body": "Our salvation comes from something small, tender, and vulnerable, something hardly noticeable. God, who is the Creator of the Universe, comes to us in smallness, weakness, and hiddenness.",
-      "date": "June 1, 2026"
+      "title": "Letting God Define Our Life",
+      "body": "To wait with openness and trust is an enormously radical attitude toward life. It is choosing to hope that something is happening for us that is far beyond our own imaginings. It is giving up control over our future and letting God define our life. It is living with the conviction that God molds us in love, holds us in tenderness, and moves us away from the sources of our fear.",
+      "date": "June 3, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Celebrating God’s Love",
-      "body": "The divine ecstatic joy of the house of love becomes manifest in celebration. Celebration marks the life of the disciple of Jesus as well as the life of his new community. The disciple leaves behind the old life in search of a new life. For every disciple as well as for the entire fellowship, following the Lord involves celebration, the ongoing, unceasing lifting up of God’s love that has proved itself victorious. Celebration is the concrete way in which God’s ecstatic joy becomes visible among us.",
-      "date": "May 31, 2026"
+      "title": "You Are Accepted",
+      "body": "The first love says, “I loved you before you could love anyone or before you could receive love from anyone. I have accepted you. You are accepted. You are loved no matter what mother, father, brother, sister, school, church, society does. You are born out of my love. I have breathed you out of my love. I have spoken you out of my love. You are the incarnation of my love and in me there is no hatred, there is no revenge, there is no resentment. There is nothing that wants to reject you. I love you. Can you trust that love?",
+      "date": "June 2, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,38 @@
     },
     {
       "src": "nouwen",
+      "title": "Small Signs of God’s Presence",
+      "body": "Our salvation comes from something small, tender, and vulnerable, something hardly noticeable. God, who is the Creator of the Universe, comes to us in smallness, weakness, and hiddenness.",
+      "date": "June 1, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Celebrating God’s Love",
+      "body": "The divine ecstatic joy of the house of love becomes manifest in celebration. Celebration marks the life of the disciple of Jesus as well as the life of his new community. The disciple leaves behind the old life in search of a new life. For every disciple as well as for the entire fellowship, following the Lord involves celebration, the ongoing, unceasing lifting up of God’s love that has proved itself victorious. Celebration is the concrete way in which God’s ecstatic joy becomes visible among us.",
+      "date": "May 31, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Letting Go of My Wishes",
       "body": "I have found it very important in my own life to try to let go of my wishes and instead to live in hope. I am finding that when I choose to let go of my sometimes petty and superficial wishes and trust that my life is precious and meaningful in the eyes of God, something really new, something beyond my own expectations begins to happen for me.",
       "date": "May 30, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -84,22 +108,10 @@
       "date": "May 26, 2026"
     },
     {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
       "src": "nouwen",
       "title": "Jesus Wants to Free Us",
       "body": "Jesus wants to free us from the chain that imprisons us. He wants to free us by revealing that we are loved before we can give or receive love from anybody. Jesus came to reveal to us the first love. The original love. We are called by Jesus to come in touch with that first love.",
       "date": "May 25, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -130,18 +142,6 @@
       "title": "God’s Preparations in the Interruptions",
       "body": "A few years ago I met an old professor at the University of Notre Dame. Looking back on his long life of teaching, he said with a funny twinkle in his eyes: “I have always been complaining that my work was constantly interrupted until I slowly discovered that my interruptions were my work.”",
       "date": "May 20, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Choosing the Light",
-      "body": "I know quite well the difference between darkness and light but do not always have the courage to name them by their true names. There is a strong temptation to deal with the darkness as if it were light, and with the light as if it were darkness. Knowing Jesus, reading his words, and praying create increasing clarity about evil and good, sin and grace, Satan and God. This clarity calls me to choose the way to the light fearlessly and straightforwardly. The transparent life is a life in which heart, mind, and gut are united in choosing the light.",
-      "date": "May 19, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "The Gift of Joy and Peace",
-      "body": "When we enjoy a good atmosphere in the family, a peaceful mood among friends, or a spirit of cooperation and mutual support in a community, we intuitively know that we did not produce it. It cannot be made, imitated, or exported. To people who are jealous, and who would like to have our joy and peace, we cannot give a formula to produce it or a method to acquire it. It is always perceived as a gift, to which the only appropriate response is gratitude.",
-      "date": "May 18, 2026"
     }
   ]
 }
