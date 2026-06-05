@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-06-04T08:45:05.932Z",
+  "updatedAt": "2026-06-05T08:42:40.718Z",
   "counts": {
-    "nouwen": 15,
+    "nouwen": 14,
     "raiati": 8
   },
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Letting God Define Our Life",
-      "body": "To wait with openness and trust is an enormously radical attitude toward life. It is choosing to hope that something is happening for us that is far beyond our own imaginings. It is giving up control over our future and letting God define our life. It is living with the conviction that God molds us in love, holds us in tenderness, and moves us away from the sources of our fear.",
-      "date": "June 3, 2026"
+      "title": "Revolutionary & Mystic",
+      "body": "Jesus was a revolutionary, who did not become an extremist, since he did not offer an ideology, but Himself. He was also a mystic, who did not use his intimate relationship with God to avoid the social evils of his time, but shocked his milieu to the point of being executed as a rebel. In this sense, he also remains…. the way to liberation and freedom.",
+      "date": "June 5, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "You Are Accepted",
-      "body": "The first love says, “I loved you before you could love anyone or before you could receive love from anyone. I have accepted you. You are accepted. You are loved no matter what mother, father, brother, sister, school, church, society does. You are born out of my love. I have breathed you out of my love. I have spoken you out of my love. You are the incarnation of my love and in me there is no hatred, there is no revenge, there is no resentment. There is nothing that wants to reject you. I love you. Can you trust that love?",
-      "date": "June 2, 2026"
+      "title": "Compassionate Ministry",
+      "body": "The call to compassionate ministry is a great call. But we must not be fearful. We must not say, “I can’t do that.” When we are aware that we are the beloved, and when we have friends around us with whom we live in community, we can do anything. We’re not afraid anymore. We’re not afraid to knock on the door while somebody is dying. We’re not afraid to open a discussion with a person who underneath all the glitter is much in need of ministry. We’re free.",
+      "date": "June 4, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,38 @@
     },
     {
       "src": "nouwen",
+      "title": "Letting God Define Our Life",
+      "body": "To wait with openness and trust is an enormously radical attitude toward life. It is choosing to hope that something is happening for us that is far beyond our own imaginings. It is giving up control over our future and letting God define our life. It is living with the conviction that God molds us in love, holds us in tenderness, and moves us away from the sources of our fear.",
+      "date": "June 3, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "You Are Accepted",
+      "body": "The first love says, “I loved you before you could love anyone or before you could receive love from anyone. I have accepted you. You are accepted. You are loved no matter what mother, father, brother, sister, school, church, society does. You are born out of my love. I have breathed you out of my love. I have spoken you out of my love. You are the incarnation of my love and in me there is no hatred, there is no revenge, there is no resentment. There is nothing that wants to reject you. I love you. Can you trust that love?",
+      "date": "June 2, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Small Signs of God’s Presence",
       "body": "Our salvation comes from something small, tender, and vulnerable, something hardly noticeable. God, who is the Creator of the Universe, comes to us in smallness, weakness, and hiddenness.",
       "date": "June 1, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -82,24 +106,6 @@
       "title": "Death Does Not Have the Last Say",
       "body": "The joy that Jesus offers his disciples is his own joy, which flows from his intimate communion with the One who sent him. It is a joy that does not separate happy days from sad days, successful moments from moments of failure, experiences of honor from experiences of dishonor, passion from resurrection. This joy is a divine gift that does not leave us during times of illness, poverty, oppression, or persecution. It is present even when the world laughs or tortures, robs or maims, fights or kills. It is truly ecstatic, always moving us away from the house of fear into the house of love, and always proclaiming that death no longer has the final say, though its noise remains loud and its devastation visible. The joy of Jesus lifts up life to be celebrated.",
       "date": "May 28, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "Letting Peace Grow",
-      "body": "As long as we imagine and live as if there is no peace in sight, and that it all depends on us to make it come about, we are on the road to self-destruction. But when we trust that the God of love has already given the peace we are searching for, we will see this peace breaking through the broken soil of our human condition and we will be able to let it grow fast and even heal the economic and political maladies of our time. With this trust in our hearts, we will be able to hear the words: “Blessed are the peacemakers, for they will be called children of God” (Matt. 5:9).",
-      "date": "May 27, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -130,18 +136,6 @@
       "title": "Refreshing Our Memory",
       "body": "I am struck by the fact that the prophets speaking about the future of Israel always kept reminding their people of God's great works in the past. They could look forward with confidence because they could look backward with awe to Yahweh's great deeds.",
       "date": "May 22, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "The Source of All Peace",
-      "body": "Do not give up working for peace. Always remember that the peace for which you work is not of this world. Do not let yourself be distracted by the great noises of war, the dramatic descriptions of misery, and the sensational expressions of human cruelty. The newspapers, movies, and war novels may make you numb, but they do not create in you a true desire for peace. They tend to create feelings of shame, guilt, and powerlessness, and these feelings are the worst motives for peace work.",
-      "date": "May 21, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "God’s Preparations in the Interruptions",
-      "body": "A few years ago I met an old professor at the University of Notre Dame. Looking back on his long life of teaching, he said with a funny twinkle in his eyes: “I have always been complaining that my work was constantly interrupted until I slowly discovered that my interruptions were my work.”",
-      "date": "May 20, 2026"
     }
   ]
 }
