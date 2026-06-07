@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T07:44:20.690Z",
+  "updatedAt": "2026-06-07T08:22:20.722Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Revolutionary & Mystic",
-      "body": "Jesus was a revolutionary, who did not become an extremist, since he did not offer an ideology, but Himself. He was also a mystic, who did not use his intimate relationship with God to avoid the social evils of his time, but shocked his milieu to the point of being executed as a rebel. In this sense, he also remains…. the way to liberation and freedom.",
-      "date": "June 5, 2026"
+      "title": "The Eyes of Love",
+      "body": "I do believe deeply, that in order to live a spiritual life, we have to claim for ourselves that we are “taken” or “chosen.” Let me try to expand a bit on these words. When I know that I am chosen, I know that I have been seen as a special person. Someone has noticed me in my uniqueness and has expressed a desire to know me, to come closer to me, to love me. When I write to you that, as the beloved, we are God’s chosen ones, I mean that we have been seen by God from all eternity; long before you were born and became part of history, you existed in God’s heart. Long before your parents admired you or your friends acknowledged your gifts, or your teachers, colleagues and employers encouraged you, you were already “chosen.” The eyes of love had seen you as precious, as of infinite beauty of the chosen one, and it chooses without making anyone else feel excluded.",
+      "date": "June 6, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Compassionate Ministry",
-      "body": "The call to compassionate ministry is a great call. But we must not be fearful. We must not say, “I can’t do that.” When we are aware that we are the beloved, and when we have friends around us with whom we live in community, we can do anything. We’re not afraid anymore. We’re not afraid to knock on the door while somebody is dying. We’re not afraid to open a discussion with a person who underneath all the glitter is much in need of ministry. We’re free.",
-      "date": "June 4, 2026"
+      "title": "Revolutionary & Mystic",
+      "body": "Jesus was a revolutionary, who did not become an extremist, since he did not offer an ideology, but Himself. He was also a mystic, who did not use his intimate relationship with God to avoid the social evils of his time, but shocked his milieu to the point of being executed as a rebel. In this sense, he also remains…. the way to liberation and freedom.",
+      "date": "June 5, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,26 @@
     },
     {
       "src": "nouwen",
+      "title": "Compassionate Ministry",
+      "body": "The call to compassionate ministry is a great call. But we must not be fearful. We must not say, “I can’t do that.” When we are aware that we are the beloved, and when we have friends around us with whom we live in community, we can do anything. We’re not afraid anymore. We’re not afraid to knock on the door while somebody is dying. We’re not afraid to open a discussion with a person who underneath all the glitter is much in need of ministry. We’re free.",
+      "date": "June 4, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Letting God Define Our Life",
       "body": "To wait with openness and trust is an enormously radical attitude toward life. It is choosing to hope that something is happening for us that is far beyond our own imaginings. It is giving up control over our future and letting God define our life. It is living with the conviction that God molds us in love, holds us in tenderness, and moves us away from the sources of our fear.",
       "date": "June 3, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +61,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -85,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -94,12 +106,6 @@
       "title": "Living at the Place of Innocence",
       "body": "I know that I am called to live at the place of innocence – the place where Jesus chose to live. There he made his home and asks me to make mine. In that place I am loved and well held. There I do not have to be afraid. And from there I can forgive and heal and make things new….",
       "date": "May 29, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -136,12 +142,6 @@
       "title": "A Place to Dwell",
       "body": "Your heart, Jesus, is so full of the desire to love me, so aflame with a fire to warm me. You so much want to give me a home, a sense of belonging, a place to dwell, a shelter where I feel protected and a refuge in which I feel safe. You stand at so many squares and corners of my life and say with so much tenderness, “Come and see, come and stay with me. When you are thirsty, come to me…. you who put your trust in me, come and drink. Come, you who are tired, exhausted, depressed, discouraged and dispirited. Come, you who feel pain in your body, fatigue in your anxious mind and doubt and anguish in the depth of your heart.",
       "date": "May 23, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Refreshing Our Memory",
-      "body": "I am struck by the fact that the prophets speaking about the future of Israel always kept reminding their people of God's great works in the past. They could look forward with confidence because they could look backward with awe to Yahweh's great deeds.",
-      "date": "May 22, 2026"
     }
   ]
 }
