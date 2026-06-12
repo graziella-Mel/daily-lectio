@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T09:10:44.386Z",
+  "updatedAt": "2026-06-12T08:55:49.329Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Community Keeps the Flame of Hope Alive",
-      "body": "Christian community is the place where we keep the flame of hope alive among us and take it seriously so that it can grow and become stronger in us. In this way we can live with courage, trusting that there is a spiritual power in us when we are together that allows us to live in this world without surrendering to the powerful forces constantly seducing us toward despair. That is how we dare to say that God is a God of love even when we see hatred all around us. That is why we can claim that God is a God of life even when we see death and destruction and agony all around us. We say it together. We affirm it in each other. Waiting together, nurturing what has already begun, expecting its fulfillment – that is the meaning of marriage, friendship, community, and the Christian life.",
-      "date": "June 10, 2026"
+      "title": "Nothing Human Is Alien",
+      "body": "Through compassion it is possible to recognize that the craving for love that people feel resides also in our own hearts, that the cruelty that the world knows all too well is also rooted in our own impulses. Through compassion we also sense our hope for forgiveness in our friends’ eyes and our hatred in their bitter mouths. When they kill, we know that we could have done it; when they give life, we know that we can do the same. For a compassionate person nothing human is alien: no joy and no sorrow, no way of living and no way of dying.",
+      "date": "June 11, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "God Has Overcome the World",
-      "body": "An optimist says, “The war will be over; your wounds will be healed; the depression will go away; all will be better soon.” The optimist may be right, but unfortunately he or she may be wrong. For none of us can control our circumstances.",
-      "date": "June 9, 2026"
+      "title": "Community Keeps the Flame of Hope Alive",
+      "body": "Christian community is the place where we keep the flame of hope alive among us and take it seriously so that it can grow and become stronger in us. In this way we can live with courage, trusting that there is a spiritual power in us when we are together that allows us to live in this world without surrendering to the powerful forces constantly seducing us toward despair. That is how we dare to say that God is a God of love even when we see hatred all around us. That is why we can claim that God is a God of life even when we see death and destruction and agony all around us. We say it together. We affirm it in each other. Waiting together, nurturing what has already begun, expecting its fulfillment – that is the meaning of marriage, friendship, community, and the Christian life.",
+      "date": "June 10, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,26 @@
     },
     {
       "src": "nouwen",
+      "title": "God Has Overcome the World",
+      "body": "An optimist says, “The war will be over; your wounds will be healed; the depression will go away; all will be better soon.” The optimist may be right, but unfortunately he or she may be wrong. For none of us can control our circumstances.",
+      "date": "June 9, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Looking to the Divine Love",
       "body": "Dear Lord Jesus…. Through your human heart we can catch a glimpse of the divine love with which we are loved and with which you yourself love us, because you and your Father are one.",
       "date": "June 8, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +61,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -85,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -94,12 +106,6 @@
       "title": "Letting God Define Our Life",
       "body": "To wait with openness and trust is an enormously radical attitude toward life. It is choosing to hope that something is happening for us that is far beyond our own imaginings. It is giving up control over our future and letting God define our life. It is living with the conviction that God molds us in love, holds us in tenderness, and moves us away from the sources of our fear.",
       "date": "June 3, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -136,12 +142,6 @@
       "title": "Death Does Not Have the Last Say",
       "body": "The joy that Jesus offers his disciples is his own joy, which flows from his intimate communion with the One who sent him. It is a joy that does not separate happy days from sad days, successful moments from moments of failure, experiences of honor from experiences of dishonor, passion from resurrection. This joy is a divine gift that does not leave us during times of illness, poverty, oppression, or persecution. It is present even when the world laughs or tortures, robs or maims, fights or kills. It is truly ecstatic, always moving us away from the house of fear into the house of love, and always proclaiming that death no longer has the final say, though its noise remains loud and its devastation visible. The joy of Jesus lifts up life to be celebrated.",
       "date": "May 28, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Letting Peace Grow",
-      "body": "As long as we imagine and live as if there is no peace in sight, and that it all depends on us to make it come about, we are on the road to self-destruction. But when we trust that the God of love has already given the peace we are searching for, we will see this peace breaking through the broken soil of our human condition and we will be able to let it grow fast and even heal the economic and political maladies of our time. With this trust in our hearts, we will be able to hear the words: “Blessed are the peacemakers, for they will be called children of God” (Matt. 5:9).",
-      "date": "May 27, 2026"
     }
   ]
 }
