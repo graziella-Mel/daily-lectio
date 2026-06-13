@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T08:55:49.329Z",
+  "updatedAt": "2026-06-13T08:19:38.454Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Nothing Human Is Alien",
-      "body": "Through compassion it is possible to recognize that the craving for love that people feel resides also in our own hearts, that the cruelty that the world knows all too well is also rooted in our own impulses. Through compassion we also sense our hope for forgiveness in our friends’ eyes and our hatred in their bitter mouths. When they kill, we know that we could have done it; when they give life, we know that we can do the same. For a compassionate person nothing human is alien: no joy and no sorrow, no way of living and no way of dying.",
-      "date": "June 11, 2026"
+      "title": "Heart Speaks to Heart",
+      "body": "The spiritual life means that the Spirit of Love is given to us so that we can live with that Spirit within us. With that Spirit in us, we are able to recognize the same Spirit in the world. The Spirit blows where it wants, so the Spirit is everywhere. It’s in the people who are dying, people with AIDS, people who are broken, and people with disabilities.",
+      "date": "June 13, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Community Keeps the Flame of Hope Alive",
-      "body": "Christian community is the place where we keep the flame of hope alive among us and take it seriously so that it can grow and become stronger in us. In this way we can live with courage, trusting that there is a spiritual power in us when we are together that allows us to live in this world without surrendering to the powerful forces constantly seducing us toward despair. That is how we dare to say that God is a God of love even when we see hatred all around us. That is why we can claim that God is a God of life even when we see death and destruction and agony all around us. We say it together. We affirm it in each other. Waiting together, nurturing what has already begun, expecting its fulfillment – that is the meaning of marriage, friendship, community, and the Christian life.",
-      "date": "June 10, 2026"
+      "title": "Making Love Visible",
+      "body": "It is God’s love that allows us to love one another. It is that first love that is the basis for all creative human relationships. It is that love that we want to make visible to each other, among each other, and with each other.",
+      "date": "June 12, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,38 @@
     },
     {
       "src": "nouwen",
+      "title": "Nothing Human Is Alien",
+      "body": "Through compassion it is possible to recognize that the craving for love that people feel resides also in our own hearts, that the cruelty that the world knows all too well is also rooted in our own impulses. Through compassion we also sense our hope for forgiveness in our friends’ eyes and our hatred in their bitter mouths. When they kill, we know that we could have done it; when they give life, we know that we can do the same. For a compassionate person nothing human is alien: no joy and no sorrow, no way of living and no way of dying.",
+      "date": "June 11, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Community Keeps the Flame of Hope Alive",
+      "body": "Christian community is the place where we keep the flame of hope alive among us and take it seriously so that it can grow and become stronger in us. In this way we can live with courage, trusting that there is a spiritual power in us when we are together that allows us to live in this world without surrendering to the powerful forces constantly seducing us toward despair. That is how we dare to say that God is a God of love even when we see hatred all around us. That is why we can claim that God is a God of life even when we see death and destruction and agony all around us. We say it together. We affirm it in each other. Waiting together, nurturing what has already begun, expecting its fulfillment – that is the meaning of marriage, friendship, community, and the Christian life.",
+      "date": "June 10, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "God Has Overcome the World",
       "body": "An optimist says, “The war will be over; your wounds will be healed; the depression will go away; all will be better soon.” The optimist may be right, but unfortunately he or she may be wrong. For none of us can control our circumstances.",
       "date": "June 9, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -84,22 +108,10 @@
       "date": "June 5, 2026"
     },
     {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
       "src": "nouwen",
       "title": "Compassionate Ministry",
       "body": "The call to compassionate ministry is a great call. But we must not be fearful. We must not say, “I can’t do that.” When we are aware that we are the beloved, and when we have friends around us with whom we live in community, we can do anything. We’re not afraid anymore. We’re not afraid to knock on the door while somebody is dying. We’re not afraid to open a discussion with a person who underneath all the glitter is much in need of ministry. We’re free.",
       "date": "June 4, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -130,18 +142,6 @@
       "title": "Letting Go of My Wishes",
       "body": "I have found it very important in my own life to try to let go of my wishes and instead to live in hope. I am finding that when I choose to let go of my sometimes petty and superficial wishes and trust that my life is precious and meaningful in the eyes of God, something really new, something beyond my own expectations begins to happen for me.",
       "date": "May 30, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Living at the Place of Innocence",
-      "body": "I know that I am called to live at the place of innocence – the place where Jesus chose to live. There he made his home and asks me to make mine. In that place I am loved and well held. There I do not have to be afraid. And from there I can forgive and heal and make things new….",
-      "date": "May 29, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Death Does Not Have the Last Say",
-      "body": "The joy that Jesus offers his disciples is his own joy, which flows from his intimate communion with the One who sent him. It is a joy that does not separate happy days from sad days, successful moments from moments of failure, experiences of honor from experiences of dishonor, passion from resurrection. This joy is a divine gift that does not leave us during times of illness, poverty, oppression, or persecution. It is present even when the world laughs or tortures, robs or maims, fights or kills. It is truly ecstatic, always moving us away from the house of fear into the house of love, and always proclaiming that death no longer has the final say, though its noise remains loud and its devastation visible. The joy of Jesus lifts up life to be celebrated.",
-      "date": "May 28, 2026"
     }
   ]
 }
