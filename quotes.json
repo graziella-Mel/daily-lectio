@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T08:19:38.454Z",
+  "updatedAt": "2026-06-14T08:40:03.257Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Heart Speaks to Heart",
-      "body": "The spiritual life means that the Spirit of Love is given to us so that we can live with that Spirit within us. With that Spirit in us, we are able to recognize the same Spirit in the world. The Spirit blows where it wants, so the Spirit is everywhere. It’s in the people who are dying, people with AIDS, people who are broken, and people with disabilities.",
-      "date": "June 13, 2026"
+      "title": "Getting to the Heart of the Matter",
+      "body": "The contemplative is not needy or greedy for human contacts, but is guided by a vision of what he has seen beyond the trivial concerns of a possessive world. He does not bounce up and down with the fashions of the moment, because he is in contact with what is basic, central and ultimate. He does not allow anybody to worship idols, and he constantly invites his fellow man to ask real, often painful and upsetting questions, to look behind the surface of smooth behavior, and to take away all the obstacles that prevent him from getting to the heart of the matter. The contemplative critic takes away the illusory mask of the manipulative world and has the courage to show what the true situation is.",
+      "date": "June 14, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Making Love Visible",
-      "body": "It is God’s love that allows us to love one another. It is that first love that is the basis for all creative human relationships. It is that love that we want to make visible to each other, among each other, and with each other.",
-      "date": "June 12, 2026"
+      "title": "Heart Speaks to Heart",
+      "body": "The spiritual life means that the Spirit of Love is given to us so that we can live with that Spirit within us. With that Spirit in us, we are able to recognize the same Spirit in the world. The Spirit blows where it wants, so the Spirit is everywhere. It’s in the people who are dying, people with AIDS, people who are broken, and people with disabilities.",
+      "date": "June 13, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,26 @@
     },
     {
       "src": "nouwen",
+      "title": "Making Love Visible",
+      "body": "It is God’s love that allows us to love one another. It is that first love that is the basis for all creative human relationships. It is that love that we want to make visible to each other, among each other, and with each other.",
+      "date": "June 12, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Nothing Human Is Alien",
       "body": "Through compassion it is possible to recognize that the craving for love that people feel resides also in our own hearts, that the cruelty that the world knows all too well is also rooted in our own impulses. Through compassion we also sense our hope for forgiveness in our friends’ eyes and our hatred in their bitter mouths. When they kill, we know that we could have done it; when they give life, we know that we can do the same. For a compassionate person nothing human is alien: no joy and no sorrow, no way of living and no way of dying.",
       "date": "June 11, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +61,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -85,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -94,12 +106,6 @@
       "title": "The Eyes of Love",
       "body": "I do believe deeply, that in order to live a spiritual life, we have to claim for ourselves that we are “taken” or “chosen.” Let me try to expand a bit on these words. When I know that I am chosen, I know that I have been seen as a special person. Someone has noticed me in my uniqueness and has expressed a desire to know me, to come closer to me, to love me. When I write to you that, as the beloved, we are God’s chosen ones, I mean that we have been seen by God from all eternity; long before you were born and became part of history, you existed in God’s heart. Long before your parents admired you or your friends acknowledged your gifts, or your teachers, colleagues and employers encouraged you, you were already “chosen.” The eyes of love had seen you as precious, as of infinite beauty of the chosen one, and it chooses without making anyone else feel excluded.",
       "date": "June 6, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -136,12 +142,6 @@
       "title": "Celebrating God’s Love",
       "body": "The divine ecstatic joy of the house of love becomes manifest in celebration. Celebration marks the life of the disciple of Jesus as well as the life of his new community. The disciple leaves behind the old life in search of a new life. For every disciple as well as for the entire fellowship, following the Lord involves celebration, the ongoing, unceasing lifting up of God’s love that has proved itself victorious. Celebration is the concrete way in which God’s ecstatic joy becomes visible among us.",
       "date": "May 31, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Letting Go of My Wishes",
-      "body": "I have found it very important in my own life to try to let go of my wishes and instead to live in hope. I am finding that when I choose to let go of my sometimes petty and superficial wishes and trust that my life is precious and meaningful in the eyes of God, something really new, something beyond my own expectations begins to happen for me.",
-      "date": "May 30, 2026"
     }
   ]
 }
