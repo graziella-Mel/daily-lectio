@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T08:40:03.257Z",
+  "updatedAt": "2026-06-15T10:52:57.339Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Getting to the Heart of the Matter",
-      "body": "The contemplative is not needy or greedy for human contacts, but is guided by a vision of what he has seen beyond the trivial concerns of a possessive world. He does not bounce up and down with the fashions of the moment, because he is in contact with what is basic, central and ultimate. He does not allow anybody to worship idols, and he constantly invites his fellow man to ask real, often painful and upsetting questions, to look behind the surface of smooth behavior, and to take away all the obstacles that prevent him from getting to the heart of the matter. The contemplative critic takes away the illusory mask of the manipulative world and has the courage to show what the true situation is.",
-      "date": "June 14, 2026"
+      "title": "Looking for Signs of Hope and Promise",
+      "body": "More than anything else, \\[the contemplative critic\\] will look for signs of hope and promise in the situation in which he finds himself…. He knows that if there is hope for a better world in the future the signs must be visible in the present, and he will never curse the now in favor of the later. He is not a naive optimist who expects his frustrated desires to be satisfied in the future, nor a bitter pessimist who keeps repeating that the past has taught him that there is nothing new under the sun; he is rather a man of hope who lives with the unshakable conviction that now he is seeing a dim reflection in a mirror, but that one day he will see the future face to face.",
+      "date": "June 15, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Heart Speaks to Heart",
-      "body": "The spiritual life means that the Spirit of Love is given to us so that we can live with that Spirit within us. With that Spirit in us, we are able to recognize the same Spirit in the world. The Spirit blows where it wants, so the Spirit is everywhere. It’s in the people who are dying, people with AIDS, people who are broken, and people with disabilities.",
-      "date": "June 13, 2026"
+      "title": "Getting to the Heart of the Matter",
+      "body": "The contemplative is not needy or greedy for human contacts, but is guided by a vision of what he has seen beyond the trivial concerns of a possessive world. He does not bounce up and down with the fashions of the moment, because he is in contact with what is basic, central and ultimate. He does not allow anybody to worship idols, and he constantly invites his fellow man to ask real, often painful and upsetting questions, to look behind the surface of smooth behavior, and to take away all the obstacles that prevent him from getting to the heart of the matter. The contemplative critic takes away the illusory mask of the manipulative world and has the courage to show what the true situation is.",
+      "date": "June 14, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,26 @@
     },
     {
       "src": "nouwen",
+      "title": "Heart Speaks to Heart",
+      "body": "The spiritual life means that the Spirit of Love is given to us so that we can live with that Spirit within us. With that Spirit in us, we are able to recognize the same Spirit in the world. The Spirit blows where it wants, so the Spirit is everywhere. It’s in the people who are dying, people with AIDS, people who are broken, and people with disabilities.",
+      "date": "June 13, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Making Love Visible",
       "body": "It is God’s love that allows us to love one another. It is that first love that is the basis for all creative human relationships. It is that love that we want to make visible to each other, among each other, and with each other.",
       "date": "June 12, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +61,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -85,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -94,12 +106,6 @@
       "title": "The Authority of Compassion",
       "body": "If we now realize that the future generation is not only an inward generation asking for articulation but also a fatherless generation looking for a new kind of authority, we must consider what the nature of this authority will be. To name it, I cannot find a better word than compassion. Compassion must become the core and even the nature of authority.",
       "date": "June 7, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -136,12 +142,6 @@
       "title": "Small Signs of God’s Presence",
       "body": "Our salvation comes from something small, tender, and vulnerable, something hardly noticeable. God, who is the Creator of the Universe, comes to us in smallness, weakness, and hiddenness.",
       "date": "June 1, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Celebrating God’s Love",
-      "body": "The divine ecstatic joy of the house of love becomes manifest in celebration. Celebration marks the life of the disciple of Jesus as well as the life of his new community. The disciple leaves behind the old life in search of a new life. For every disciple as well as for the entire fellowship, following the Lord involves celebration, the ongoing, unceasing lifting up of God’s love that has proved itself victorious. Celebration is the concrete way in which God’s ecstatic joy becomes visible among us.",
-      "date": "May 31, 2026"
     }
   ]
 }
