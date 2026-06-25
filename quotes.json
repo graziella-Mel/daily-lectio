@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T08:19:56.519Z",
+  "updatedAt": "2026-06-25T08:20:53.394Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Moving Into the Unknown",
-      "body": "It takes courage to move away from the safe place into the unknown, even when we know that the safe place offers false safety and the unknown promises us a saving intimacy with God. We realize quite well that giving up the familiar and reaching out with open arms towards him who transcends all our mental grasping and clinging makes us very vulnerable. Somewhere we sense that, although holding on to our illusions might lead to a truncated life, the surrender in love leads to the cross.",
-      "date": "June 24, 2026"
+      "title": "Everything Holds Promise",
+      "body": "For a man with a deep-rooted faith in the value and meaning of life, every experience holds a new promise, every encounter carries a new insight, and every event brings a new message. But these promises, insights, and messages have to be discovered and made visible.",
+      "date": "June 25, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Standing Open to God",
-      "body": "The heart means the core of our being. It includes the deep recesses of our psyche, our moods and feelings, our emotions and passions, and also our intuitions, insights, and visions. The heart is the place where we are most human. A listening heart therefore means a heart in which we stand open to God with all we are and have. That is a great act of trust and confidence.",
-      "date": "June 23, 2026"
+      "title": "Moving Into the Unknown",
+      "body": "It takes courage to move away from the safe place into the unknown, even when we know that the safe place offers false safety and the unknown promises us a saving intimacy with God. We realize quite well that giving up the familiar and reaching out with open arms towards him who transcends all our mental grasping and clinging makes us very vulnerable. Somewhere we sense that, although holding on to our illusions might lead to a truncated life, the surrender in love leads to the cross.",
+      "date": "June 24, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,26 @@
     },
     {
       "src": "nouwen",
+      "title": "Standing Open to God",
+      "body": "The heart means the core of our being. It includes the deep recesses of our psyche, our moods and feelings, our emotions and passions, and also our intuitions, insights, and visions. The heart is the place where we are most human. A listening heart therefore means a heart in which we stand open to God with all we are and have. That is a great act of trust and confidence.",
+      "date": "June 23, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Live in the World as a Child of God",
       "body": "There is no promise that everything will be rosy. The first thing is not to play savior of the world but to keep living in the world as a child of God. I see all these things happening, but I do not allow them to seduce me into the darkness. I live in the world but belong to God.",
       "date": "June 22, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +61,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -85,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -94,12 +106,6 @@
       "title": "Come Home",
       "body": "Jesus is the host who wants to gather us around the table, the Good Shepherd who invites his people to a table where the cup is overflowing (Ps. 23). This is not a stern, harsh Lord, but the lamb of God who says, “Come into my home.” We can read the whole Bible with this image in mind. God is continually inviting us to dwell in the house of the Lord all the days of our life (Ps. 27:4). The Lord wants to be our home.",
       "date": "June 17, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -136,12 +142,6 @@
       "title": "Nothing Human Is Alien",
       "body": "Through compassion it is possible to recognize that the craving for love that people feel resides also in our own hearts, that the cruelty that the world knows all too well is also rooted in our own impulses. Through compassion we also sense our hope for forgiveness in our friends’ eyes and our hatred in their bitter mouths. When they kill, we know that we could have done it; when they give life, we know that we can do the same. For a compassionate person nothing human is alien: no joy and no sorrow, no way of living and no way of dying.",
       "date": "June 11, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Community Keeps the Flame of Hope Alive",
-      "body": "Christian community is the place where we keep the flame of hope alive among us and take it seriously so that it can grow and become stronger in us. In this way we can live with courage, trusting that there is a spiritual power in us when we are together that allows us to live in this world without surrendering to the powerful forces constantly seducing us toward despair. That is how we dare to say that God is a God of love even when we see hatred all around us. That is why we can claim that God is a God of life even when we see death and destruction and agony all around us. We say it together. We affirm it in each other. Waiting together, nurturing what has already begun, expecting its fulfillment – that is the meaning of marriage, friendship, community, and the Christian life.",
-      "date": "June 10, 2026"
     }
   ]
 }
