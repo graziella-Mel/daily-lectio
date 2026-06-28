@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T07:46:53.976Z",
+  "updatedAt": "2026-06-28T08:19:06.610Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Not Forced",
-      "body": "Jesus in his passion is the one who waits for our response. Precisely in that waiting the intensity of his love and God’s love is revealed to us. If we were forced to love Jesus and to respond to him only as he ordered, we would not really be lovers.",
-      "date": "June 26, 2026"
+      "title": "Praying to be Free",
+      "body": "We pray to know not only in our head, but in our heart, and in the center of our being that we are fully loved. That is why we pray. We pray so we can walk around this world and not be so needy, not be wounding others, and not be giving so we can get something in return. We pray to be free.",
+      "date": "June 28, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Everything Holds Promise",
-      "body": "For a man with a deep-rooted faith in the value and meaning of life, every experience holds a new promise, every encounter carries a new insight, and every event brings a new message. But these promises, insights, and messages have to be discovered and made visible.",
-      "date": "June 25, 2026"
+      "title": "Keep Pointing to New Life",
+      "body": "Hope makes it possible to look beyond the fulfillment of urgent wishes and pressing desires and offers a vision beyond human suffering and even death. A Christian leader is a person of hope whose strength in the final analysis is based neither on self-confidence derived from his personality, nor on specific expectations for the future, but on a promise given to him.",
+      "date": "June 27, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,38 @@
     },
     {
       "src": "nouwen",
+      "title": "Not Forced",
+      "body": "Jesus in his passion is the one who waits for our response. Precisely in that waiting the intensity of his love and God’s love is revealed to us. If we were forced to love Jesus and to respond to him only as he ordered, we would not really be lovers.",
+      "date": "June 26, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Everything Holds Promise",
+      "body": "For a man with a deep-rooted faith in the value and meaning of life, every experience holds a new promise, every encounter carries a new insight, and every event brings a new message. But these promises, insights, and messages have to be discovered and made visible.",
+      "date": "June 25, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Moving Into the Unknown",
       "body": "It takes courage to move away from the safe place into the unknown, even when we know that the safe place offers false safety and the unknown promises us a saving intimacy with God. We realize quite well that giving up the familiar and reaching out with open arms towards him who transcends all our mental grasping and clinging makes us very vulnerable. Somewhere we sense that, although holding on to our illusions might lead to a truncated life, the surrender in love leads to the cross.",
       "date": "June 24, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -84,22 +108,10 @@
       "date": "June 20, 2026"
     },
     {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
       "src": "nouwen",
       "title": "Being a Person of Prayer",
       "body": "For a man of prayer is, in the final analysis, the man who is able to recognize in others the face of the Messiah and make visible what was hidden, make touchable what was unreachable. The man of prayer is a leader precisely because through his articulation of God’s work within himself he can lead others out of confusion to clarification; through his compassion he can guide them out of the closed circuits of their ingroups to the wide world of humanity; and through his critical contemplation he can convert their compulsive destructiveness into creative work for the new world to come.",
       "date": "June 19, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -130,18 +142,6 @@
       "title": "Getting to the Heart of the Matter",
       "body": "The contemplative is not needy or greedy for human contacts, but is guided by a vision of what he has seen beyond the trivial concerns of a possessive world. He does not bounce up and down with the fashions of the moment, because he is in contact with what is basic, central and ultimate. He does not allow anybody to worship idols, and he constantly invites his fellow man to ask real, often painful and upsetting questions, to look behind the surface of smooth behavior, and to take away all the obstacles that prevent him from getting to the heart of the matter. The contemplative critic takes away the illusory mask of the manipulative world and has the courage to show what the true situation is.",
       "date": "June 14, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Heart Speaks to Heart",
-      "body": "The spiritual life means that the Spirit of Love is given to us so that we can live with that Spirit within us. With that Spirit in us, we are able to recognize the same Spirit in the world. The Spirit blows where it wants, so the Spirit is everywhere. It’s in the people who are dying, people with AIDS, people who are broken, and people with disabilities.",
-      "date": "June 13, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Making Love Visible",
-      "body": "It is God’s love that allows us to love one another. It is that first love that is the basis for all creative human relationships. It is that love that we want to make visible to each other, among each other, and with each other.",
-      "date": "June 12, 2026"
     }
   ]
 }
