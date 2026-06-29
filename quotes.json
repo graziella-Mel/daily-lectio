@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T08:19:06.610Z",
+  "updatedAt": "2026-06-29T09:24:25.812Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Praying to be Free",
-      "body": "We pray to know not only in our head, but in our heart, and in the center of our being that we are fully loved. That is why we pray. We pray so we can walk around this world and not be so needy, not be wounding others, and not be giving so we can get something in return. We pray to be free.",
-      "date": "June 28, 2026"
+      "title": "The Way Out is the Way In",
+      "body": "Christian leadership is accomplished only through service. This service requires the willingness to enter into a situation, with all the human vulnerabilities…. This is a painful and self-denying experience, but an experience which can indeed lead man out of his prison of confusion and fear. Indeed, the paradox of Christian leadership is that the way out is the way in, that only by entering into communion with human suffering can relief be found.",
+      "date": "June 29, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Keep Pointing to New Life",
-      "body": "Hope makes it possible to look beyond the fulfillment of urgent wishes and pressing desires and offers a vision beyond human suffering and even death. A Christian leader is a person of hope whose strength in the final analysis is based neither on self-confidence derived from his personality, nor on specific expectations for the future, but on a promise given to him.",
-      "date": "June 27, 2026"
+      "title": "Praying to be Free",
+      "body": "We pray to know not only in our head, but in our heart, and in the center of our being that we are fully loved. That is why we pray. We pray so we can walk around this world and not be so needy, not be wounding others, and not be giving so we can get something in return. We pray to be free.",
+      "date": "June 28, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,26 @@
     },
     {
       "src": "nouwen",
+      "title": "Keep Pointing to New Life",
+      "body": "Hope makes it possible to look beyond the fulfillment of urgent wishes and pressing desires and offers a vision beyond human suffering and even death. A Christian leader is a person of hope whose strength in the final analysis is based neither on self-confidence derived from his personality, nor on specific expectations for the future, but on a promise given to him.",
+      "date": "June 27, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Not Forced",
       "body": "Jesus in his passion is the one who waits for our response. Precisely in that waiting the intensity of his love and God’s love is revealed to us. If we were forced to love Jesus and to respond to him only as he ordered, we would not really be lovers.",
       "date": "June 26, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +61,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -85,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -94,12 +106,6 @@
       "title": "One at the Wellspring of Pain and Joy",
       "body": "When one has the courage to enter where life is experienced as most unique and most private, one touches the soul of the community. The man who has spent many hours trying to understand, feel, and clarify the alienation and confusion of one of his fellow men might well be the best equipped to speak to the needs of the many, because all men are one at the wellspring of pain and joy.",
       "date": "June 21, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -136,12 +142,6 @@
       "title": "Looking for Signs of Hope and Promise",
       "body": "More than anything else, \\[the contemplative critic\\] will look for signs of hope and promise in the situation in which he finds himself…. He knows that if there is hope for a better world in the future the signs must be visible in the present, and he will never curse the now in favor of the later. He is not a naive optimist who expects his frustrated desires to be satisfied in the future, nor a bitter pessimist who keeps repeating that the past has taught him that there is nothing new under the sun; he is rather a man of hope who lives with the unshakable conviction that now he is seeing a dim reflection in a mirror, but that one day he will see the future face to face.",
       "date": "June 15, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Getting to the Heart of the Matter",
-      "body": "The contemplative is not needy or greedy for human contacts, but is guided by a vision of what he has seen beyond the trivial concerns of a possessive world. He does not bounce up and down with the fashions of the moment, because he is in contact with what is basic, central and ultimate. He does not allow anybody to worship idols, and he constantly invites his fellow man to ask real, often painful and upsetting questions, to look behind the surface of smooth behavior, and to take away all the obstacles that prevent him from getting to the heart of the matter. The contemplative critic takes away the illusory mask of the manipulative world and has the courage to show what the true situation is.",
-      "date": "June 14, 2026"
     }
   ]
 }
