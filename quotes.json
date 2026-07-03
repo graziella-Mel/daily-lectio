@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T08:10:33.585Z",
+  "updatedAt": "2026-07-03T08:08:13.471Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Truth About All Human Beings",
-      "body": "Our many conversations led me to the inner conviction that the words “You are my Beloved” revealed the most intimate truth about all human beings, whether they belong to any particular tradition or not. All I want to say to you is “You are the Beloved,” and all I hope is that you can hear these words as spoken to you with all the tenderness and force that love can hold. My only desire is to make these words reverberate in every corner of your being - “You are the Beloved.”",
-      "date": "July 1, 2026"
+      "title": "God’s Home, Our Home",
+      "body": "God is not in the distant heavens or in the hidden depths of the future, but here and now. God has pitched a tent among us. Even more than that, God has made a home in us so that we can make God’s home our home.",
+      "date": "July 3, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Faithful to Your Call",
-      "body": "If you live a life of watching and waiting, you will know what kind of call you have. You are not called to solve every problem in the world. Jesus was not called to go all over the world. He was called to be faithful to his own people. Every human being has a call. I work with mentally handicapped people. Sometimes I spend hours with one person, and we barely speak. Does that help people in Bosnia, does that help people in Northern Ireland, does it help people in Somalia? I don’t know, but I think it does. I think that when I am faithful to one person who is given to me, when I am convinced that’s my vocation, then I am doing more than when I am anxiously trying to put out all the fires all over the world. And that gives me peace.",
-      "date": "June 30, 2026"
+      "title": "Confronting Our Fears",
+      "body": "There is so much fear in us. Fear of people, fear of God and much raw, undefined, free-floating anxiety. I wonder if fear is not our main obstacle to prayer. When we enter into the presence of God and start to sense that huge reservoir of fear in us, we want to run away into the many distractions which our busy world offers us so abundantly. But we should not be afraid of our fears. We can confront them, give words to them and lead them into the presence of him who says: “Do not be afraid, it is I.” Our inclination is to show our Lord only what we feel comfortable with. But the more we dare to reveal our whole trembling self to him, the more we will be able to sense that his love, which is perfect love, casts out all our fears.",
+      "date": "July 2, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,38 @@
     },
     {
       "src": "nouwen",
+      "title": "Truth About All Human Beings",
+      "body": "Our many conversations led me to the inner conviction that the words “You are my Beloved” revealed the most intimate truth about all human beings, whether they belong to any particular tradition or not. All I want to say to you is “You are the Beloved,” and all I hope is that you can hear these words as spoken to you with all the tenderness and force that love can hold. My only desire is to make these words reverberate in every corner of your being - “You are the Beloved.”",
+      "date": "July 1, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Faithful to Your Call",
+      "body": "If you live a life of watching and waiting, you will know what kind of call you have. You are not called to solve every problem in the world. Jesus was not called to go all over the world. He was called to be faithful to his own people. Every human being has a call. I work with mentally handicapped people. Sometimes I spend hours with one person, and we barely speak. Does that help people in Bosnia, does that help people in Northern Ireland, does it help people in Somalia? I don’t know, but I think it does. I think that when I am faithful to one person who is given to me, when I am convinced that’s my vocation, then I am doing more than when I am anxiously trying to put out all the fires all over the world. And that gives me peace.",
+      "date": "June 30, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "The Way Out is the Way In",
       "body": "Christian leadership is accomplished only through service. This service requires the willingness to enter into a situation, with all the human vulnerabilities…. This is a painful and self-denying experience, but an experience which can indeed lead man out of his prison of confusion and fear. Indeed, the paradox of Christian leadership is that the way out is the way in, that only by entering into communion with human suffering can relief be found.",
       "date": "June 29, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -84,22 +108,10 @@
       "date": "June 25, 2026"
     },
     {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
       "src": "nouwen",
       "title": "Moving Into the Unknown",
       "body": "It takes courage to move away from the safe place into the unknown, even when we know that the safe place offers false safety and the unknown promises us a saving intimacy with God. We realize quite well that giving up the familiar and reaching out with open arms towards him who transcends all our mental grasping and clinging makes us very vulnerable. Somewhere we sense that, although holding on to our illusions might lead to a truncated life, the surrender in love leads to the cross.",
       "date": "June 24, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -130,18 +142,6 @@
       "title": "Being a Person of Prayer",
       "body": "For a man of prayer is, in the final analysis, the man who is able to recognize in others the face of the Messiah and make visible what was hidden, make touchable what was unreachable. The man of prayer is a leader precisely because through his articulation of God’s work within himself he can lead others out of confusion to clarification; through his compassion he can guide them out of the closed circuits of their ingroups to the wide world of humanity; and through his critical contemplation he can convert their compulsive destructiveness into creative work for the new world to come.",
       "date": "June 19, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Alert to the Word of God",
-      "body": "Our waiting is always shaped by alertness to the Word of God that comes to us in such mysterious ways. It is waiting in the knowledge that Someone wants to address us. The question is, are we home? Are we at our address, ready to respond to the doorbell? We need to wait together to keep each other at home spiritually, so that when the Word comes it can become flesh in us. That is why the Book of God is always in the midst of those who gather. We read the Word so that the Word can become flesh and have a whole new life in us.",
-      "date": "June 18, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Come Home",
-      "body": "Jesus is the host who wants to gather us around the table, the Good Shepherd who invites his people to a table where the cup is overflowing (Ps. 23). This is not a stern, harsh Lord, but the lamb of God who says, “Come into my home.” We can read the whole Bible with this image in mind. God is continually inviting us to dwell in the house of the Lord all the days of our life (Ps. 27:4). The Lord wants to be our home.",
-      "date": "June 17, 2026"
     }
   ]
 }
