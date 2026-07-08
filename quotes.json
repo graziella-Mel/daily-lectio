@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T08:20:12.424Z",
+  "updatedAt": "2026-07-08T07:26:33.322Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Power to Love Enemies",
-      "body": "Following Jesus means to live a life in which we start loving one another with God’s original love and not with the needy wounded love that harms others. Original love is a love that has the power to love enemies as well as friends. It is a divine love that makes us “sons and daughters of the Most High, who is kind to the grateful and the wicked…. who causes the sun to rise on bad people as well as the good, and the rain to fall on honest and dishonest people” (Matthew 5:45).",
-      "date": "July 6, 2026"
+      "title": "God is Right Here",
+      "body": "Worship is coming together as a community of God to claim the presence of Christ. So we listen to the readings, we break the bread, we share the cup, we sing songs. They are all gestures in which we remind each other that no matter what we are experiencing – whether it is joy or pain or suffering – God is there. The world around us is trying to pull us away from that. It wants to say that nothing is happening here so why don’t you buy this or go here or find your happiness there? The worshipping community is saying God is right here with us…. The worship life of the church over the year is bringing Christ back into the center of our lives and realizing that we as a body of people are representing the living Christ in our world.",
+      "date": "July 8, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "The Voice that Speaks",
-      "body": "Yes, there is that voice, the voice that speaks from above and from within and that whispers softly or declares loudly: “You are my Beloved, on you my favor rests.” It certainly is not easy to hear that voice in a world filled with voices that shout: “You are no good, you are ugly; you are worthless; you are despicable, you are nobody - unless you demonstrate the opposite.” These negative voices are so loud and persistent that it is easy to believe them. That’s the great trap. It is the trap of self-rejection. Over the years, I have come to realize that the greatest trap in our life is not success, popularity, or power, but self-rejection.",
-      "date": "July 5, 2026"
+      "title": "Simple Quiet Rest",
+      "body": "Why, O Lord, is it so hard for me to keep my heart directed toward you? Why do the many little things I want to do, and the many people I know, keep crowding my mind, even during the hours that I am totally free to be with you and you alone? Why does my mind wander off in so many directions, and why does my heart desire the things that lead me astray?... The only thing you ask of me is not to hide from you, not to run away in despair, not to act as if you were a relentless despot. Take my tired body, my confused mind, and my restless soul into your arms and give me rest, simple quiet rest.",
+      "date": "July 7, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,38 @@
     },
     {
       "src": "nouwen",
+      "title": "Power to Love Enemies",
+      "body": "Following Jesus means to live a life in which we start loving one another with God’s original love and not with the needy wounded love that harms others. Original love is a love that has the power to love enemies as well as friends. It is a divine love that makes us “sons and daughters of the Most High, who is kind to the grateful and the wicked…. who causes the sun to rise on bad people as well as the good, and the rain to fall on honest and dishonest people” (Matthew 5:45).",
+      "date": "July 6, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "The Voice that Speaks",
+      "body": "Yes, there is that voice, the voice that speaks from above and from within and that whispers softly or declares loudly: “You are my Beloved, on you my favor rests.” It certainly is not easy to hear that voice in a world filled with voices that shout: “You are no good, you are ugly; you are worthless; you are despicable, you are nobody - unless you demonstrate the opposite.” These negative voices are so loud and persistent that it is easy to believe them. That’s the great trap. It is the trap of self-rejection. Over the years, I have come to realize that the greatest trap in our life is not success, popularity, or power, but self-rejection.",
+      "date": "July 5, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "The Fullness of Jesus’ Love",
       "body": "“The Son of Man,” Jesus says, “must be lifted up as Moses lifted up the serpent in the desert, so that everyone who believes may have eternal life in him” (John 3:14-15, JB). He is lifted up as a passive victim, making the cross a sign of desolation. And he is lifted up in glory, so the cross becomes at the same time a sign of hope. Suddenly we realize that the glory of God, the divinity of God, is bursting through in Jesus’ passion precisely when he is most victimized. So new life becomes visible not only in the resurrection on the third day, but already in the passion, in the being handed over. Why? This is because it is in the passion that the fullness of Jesus’ love shines through.",
       "date": "July 4, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -84,22 +108,10 @@
       "date": "June 30, 2026"
     },
     {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
       "src": "nouwen",
       "title": "The Way Out is the Way In",
       "body": "Christian leadership is accomplished only through service. This service requires the willingness to enter into a situation, with all the human vulnerabilities…. This is a painful and self-denying experience, but an experience which can indeed lead man out of his prison of confusion and fear. Indeed, the paradox of Christian leadership is that the way out is the way in, that only by entering into communion with human suffering can relief be found.",
       "date": "June 29, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -130,18 +142,6 @@
       "title": "Moving Into the Unknown",
       "body": "It takes courage to move away from the safe place into the unknown, even when we know that the safe place offers false safety and the unknown promises us a saving intimacy with God. We realize quite well that giving up the familiar and reaching out with open arms towards him who transcends all our mental grasping and clinging makes us very vulnerable. Somewhere we sense that, although holding on to our illusions might lead to a truncated life, the surrender in love leads to the cross.",
       "date": "June 24, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Standing Open to God",
-      "body": "The heart means the core of our being. It includes the deep recesses of our psyche, our moods and feelings, our emotions and passions, and also our intuitions, insights, and visions. The heart is the place where we are most human. A listening heart therefore means a heart in which we stand open to God with all we are and have. That is a great act of trust and confidence.",
-      "date": "June 23, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Live in the World as a Child of God",
-      "body": "There is no promise that everything will be rosy. The first thing is not to play savior of the world but to keep living in the world as a child of God. I see all these things happening, but I do not allow them to seduce me into the darkness. I live in the world but belong to God.",
-      "date": "June 22, 2026"
     }
   ]
 }
