@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T08:18:58.231Z",
+  "updatedAt": "2026-07-11T07:10:04.148Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "A Love that Holds Us Safe",
-      "body": "We belong to God from eternity to eternity. Indeed, we are God’s daughters and sons. As beloved children, our core identity is secure in the memory of God. Whether we do anything worthwhile, prove anything important, or give anything of value, God still loves us unconditionally. It is a strong, vital, and active fatherly and motherly kind of love that holds us safe and affirms our worth, wherever we go and whatever we do.",
-      "date": "July 9, 2026"
+      "title": "Dwelling With God",
+      "body": "John’s Gospel develops this image, and so we find Jesus saying, “Make your home in me, as I have made my home in you” (see John 15:4). Jesus came to make _us_ into his home and to invite us to dwell in his house. Suddenly all those biblical images of God’s hospitality come together and we realize that _we_ are God’s home and that we are invited to make our home where God has made God’s own home. Our bodies, our hands, our face, our heart are becoming the place where we and God can dwell together in freedom.",
+      "date": "July 11, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "God is Right Here",
-      "body": "Worship is coming together as a community of God to claim the presence of Christ. So we listen to the readings, we break the bread, we share the cup, we sing songs. They are all gestures in which we remind each other that no matter what we are experiencing – whether it is joy or pain or suffering – God is there. The world around us is trying to pull us away from that. It wants to say that nothing is happening here so why don’t you buy this or go here or find your happiness there? The worshipping community is saying God is right here with us…. The worship life of the church over the year is bringing Christ back into the center of our lives and realizing that we as a body of people are representing the living Christ in our world.",
-      "date": "July 8, 2026"
+      "title": "Entering Into God’s Intimacy",
+      "body": "Prayer, therefore, is far from sweet and easy. Being the expression of our greatest love, it does not keep pain away from us. Instead, it makes us suffer more since our love for God is a love for a suffering God and our entering into God’s intimacy is an entering into the intimacy where all of human suffering is embraced in divine compassion. To the degree that our prayer has become the prayer of our heart, we will love more and suffer more, we will see more light and more darkness, more grace and more sin, more of God and more of humanity. To the degree that we have descended into our heart and reached out to God from there, solitude can speak to solitude, deep to deep and heart to heart. It is there where love and pain are found together.",
+      "date": "July 10, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,38 @@
     },
     {
       "src": "nouwen",
+      "title": "A Love that Holds Us Safe",
+      "body": "We belong to God from eternity to eternity. Indeed, we are God’s daughters and sons. As beloved children, our core identity is secure in the memory of God. Whether we do anything worthwhile, prove anything important, or give anything of value, God still loves us unconditionally. It is a strong, vital, and active fatherly and motherly kind of love that holds us safe and affirms our worth, wherever we go and whatever we do.",
+      "date": "July 9, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "God is Right Here",
+      "body": "Worship is coming together as a community of God to claim the presence of Christ. So we listen to the readings, we break the bread, we share the cup, we sing songs. They are all gestures in which we remind each other that no matter what we are experiencing – whether it is joy or pain or suffering – God is there. The world around us is trying to pull us away from that. It wants to say that nothing is happening here so why don’t you buy this or go here or find your happiness there? The worshipping community is saying God is right here with us…. The worship life of the church over the year is bringing Christ back into the center of our lives and realizing that we as a body of people are representing the living Christ in our world.",
+      "date": "July 8, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Simple Quiet Rest",
       "body": "Why, O Lord, is it so hard for me to keep my heart directed toward you? Why do the many little things I want to do, and the many people I know, keep crowding my mind, even during the hours that I am totally free to be with you and you alone? Why does my mind wander off in so many directions, and why does my heart desire the things that lead me astray?... The only thing you ask of me is not to hide from you, not to run away in despair, not to act as if you were a relentless despot. Take my tired body, my confused mind, and my restless soul into your arms and give me rest, simple quiet rest.",
       "date": "July 7, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -84,22 +108,10 @@
       "date": "July 3, 2026"
     },
     {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
       "src": "nouwen",
       "title": "Confronting Our Fears",
       "body": "There is so much fear in us. Fear of people, fear of God and much raw, undefined, free-floating anxiety. I wonder if fear is not our main obstacle to prayer. When we enter into the presence of God and start to sense that huge reservoir of fear in us, we want to run away into the many distractions which our busy world offers us so abundantly. But we should not be afraid of our fears. We can confront them, give words to them and lead them into the presence of him who says: “Do not be afraid, it is I.” Our inclination is to show our Lord only what we feel comfortable with. But the more we dare to reveal our whole trembling self to him, the more we will be able to sense that his love, which is perfect love, casts out all our fears.",
       "date": "July 2, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -130,18 +142,6 @@
       "title": "Keep Pointing to New Life",
       "body": "Hope makes it possible to look beyond the fulfillment of urgent wishes and pressing desires and offers a vision beyond human suffering and even death. A Christian leader is a person of hope whose strength in the final analysis is based neither on self-confidence derived from his personality, nor on specific expectations for the future, but on a promise given to him.",
       "date": "June 27, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Not Forced",
-      "body": "Jesus in his passion is the one who waits for our response. Precisely in that waiting the intensity of his love and God’s love is revealed to us. If we were forced to love Jesus and to respond to him only as he ordered, we would not really be lovers.",
-      "date": "June 26, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Everything Holds Promise",
-      "body": "For a man with a deep-rooted faith in the value and meaning of life, every experience holds a new promise, every encounter carries a new insight, and every event brings a new message. But these promises, insights, and messages have to be discovered and made visible.",
-      "date": "June 25, 2026"
     }
   ]
 }
