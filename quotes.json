@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T07:26:57.940Z",
+  "updatedAt": "2026-07-13T08:14:21.175Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "A Fruitful Death",
-      "body": "What I appreciate as I read Scripture is that Jesus saw death, and his own death in particular, as _more_ than a way of getting from one place to another. He saw his death as potentially fruitful in itself, and of enormous benefit to his disciples. Death was not an ending for him but a passage to something much greater.",
-      "date": "July 12, 2026"
+      "title": "Truth About All Human Beings",
+      "body": "Our many conversations led me to the inner conviction that the words “You are my Beloved” revealed the most intimate truth about all human beings, whether they belong to any particular tradition or not. All I want to say to you is “You are the Beloved,” and all I hope is that you can hear these words as spoken to you with all the tenderness and force that love can hold. My only desire is to make these words reverberate in every corner of your being - “You are the Beloved.”",
+      "date": "July 13, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Dwelling With God",
-      "body": "John’s Gospel develops this image, and so we find Jesus saying, “Make your home in me, as I have made my home in you” (see John 15:4). Jesus came to make _us_ into his home and to invite us to dwell in his house. Suddenly all those biblical images of God’s hospitality come together and we realize that _we_ are God’s home and that we are invited to make our home where God has made God’s own home. Our bodies, our hands, our face, our heart are becoming the place where we and God can dwell together in freedom.",
-      "date": "July 11, 2026"
+      "title": "A Fruitful Death",
+      "body": "What I appreciate as I read Scripture is that Jesus saw death, and his own death in particular, as _more_ than a way of getting from one place to another. He saw his death as potentially fruitful in itself, and of enormous benefit to his disciples. Death was not an ending for him but a passage to something much greater.",
+      "date": "July 12, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,26 @@
     },
     {
       "src": "nouwen",
+      "title": "Dwelling With God",
+      "body": "John’s Gospel develops this image, and so we find Jesus saying, “Make your home in me, as I have made my home in you” (see John 15:4). Jesus came to make _us_ into his home and to invite us to dwell in his house. Suddenly all those biblical images of God’s hospitality come together and we realize that _we_ are God’s home and that we are invited to make our home where God has made God’s own home. Our bodies, our hands, our face, our heart are becoming the place where we and God can dwell together in freedom.",
+      "date": "July 11, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Entering Into God’s Intimacy",
       "body": "Prayer, therefore, is far from sweet and easy. Being the expression of our greatest love, it does not keep pain away from us. Instead, it makes us suffer more since our love for God is a love for a suffering God and our entering into God’s intimacy is an entering into the intimacy where all of human suffering is embraced in divine compassion. To the degree that our prayer has become the prayer of our heart, we will love more and suffer more, we will see more light and more darkness, more grace and more sin, more of God and more of humanity. To the degree that we have descended into our heart and reached out to God from there, solitude can speak to solitude, deep to deep and heart to heart. It is there where love and pain are found together.",
       "date": "July 10, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +61,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -85,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -94,12 +106,6 @@
       "title": "The Voice that Speaks",
       "body": "Yes, there is that voice, the voice that speaks from above and from within and that whispers softly or declares loudly: “You are my Beloved, on you my favor rests.” It certainly is not easy to hear that voice in a world filled with voices that shout: “You are no good, you are ugly; you are worthless; you are despicable, you are nobody - unless you demonstrate the opposite.” These negative voices are so loud and persistent that it is easy to believe them. That’s the great trap. It is the trap of self-rejection. Over the years, I have come to realize that the greatest trap in our life is not success, popularity, or power, but self-rejection.",
       "date": "July 5, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -136,12 +142,6 @@
       "title": "The Way Out is the Way In",
       "body": "Christian leadership is accomplished only through service. This service requires the willingness to enter into a situation, with all the human vulnerabilities…. This is a painful and self-denying experience, but an experience which can indeed lead man out of his prison of confusion and fear. Indeed, the paradox of Christian leadership is that the way out is the way in, that only by entering into communion with human suffering can relief be found.",
       "date": "June 29, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Praying to be Free",
-      "body": "We pray to know not only in our head, but in our heart, and in the center of our being that we are fully loved. That is why we pray. We pray so we can walk around this world and not be so needy, not be wounding others, and not be giving so we can get something in return. We pray to be free.",
-      "date": "June 28, 2026"
     }
   ]
 }
