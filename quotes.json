@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T07:12:48.189Z",
+  "updatedAt": "2026-07-16T07:21:27.741Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Our Unique Vocation",
-      "body": "Each individual Christian and each community of Christians has a unique call. Everybody can’t do everything. You get out and do what the gospel is saying… There are some people who go to prison, who develop a whole nonviolent strategy around that. There are people who live very simple lives of prayer. Some live in monasteries, some as hermits, some in families. There are doctors and lawyers who live as witnesses. There are people who use their wealth to bring about things that otherwise wouldn’t be possible. We have to get in touch with what is our unique vocation, to be a sign of hope in the world without being fanatical and thinking that everyone should do what we do. I need to trust that God will do God’s work through me if I am faithful to my vocation.",
-      "date": "July 15, 2026"
+      "title": "Praying When Afraid",
+      "body": "You, O Lord, have also known fear. You have been deeply troubled; your sweat and tears were signs of your fear. Make my fear, O Lord, part of yours, so that it will lead me not to darkness but to the light, and will give me a new understanding of the hope of your cross. Amen.",
+      "date": "July 16, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Building a New Community",
-      "body": "We can love others because the “I” in our innermost self has heard the first love – which is God’s unconditional, unlimited love. When we come together in relationships, we recognize that others are also loved with the first love. The first love incarnates in different ways in every person and calls us together to build a new home, a new community, a new dwelling place for God in this world.",
-      "date": "July 14, 2026"
+      "title": "Our Unique Vocation",
+      "body": "Each individual Christian and each community of Christians has a unique call. Everybody can’t do everything. You get out and do what the gospel is saying… There are some people who go to prison, who develop a whole nonviolent strategy around that. There are people who live very simple lives of prayer. Some live in monasteries, some as hermits, some in families. There are doctors and lawyers who live as witnesses. There are people who use their wealth to bring about things that otherwise wouldn’t be possible. We have to get in touch with what is our unique vocation, to be a sign of hope in the world without being fanatical and thinking that everyone should do what we do. I need to trust that God will do God’s work through me if I am faithful to my vocation.",
+      "date": "July 15, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,26 @@
     },
     {
       "src": "nouwen",
+      "title": "Building a New Community",
+      "body": "We can love others because the “I” in our innermost self has heard the first love – which is God’s unconditional, unlimited love. When we come together in relationships, we recognize that others are also loved with the first love. The first love incarnates in different ways in every person and calls us together to build a new home, a new community, a new dwelling place for God in this world.",
+      "date": "July 14, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Intimate Care",
       "body": "Listening to that voice with great inner attentiveness, I hear at my center words that say: “I have called you by name, from the very beginning. You are mine and I am yours. You are my Beloved, on you my favor rests. I have molded you in the depths of the earth and knitted you together in your mother‘s womb. I have carved you in the palms of my hands and hidden you in the shadow of my embrace. I look at you with infinite tenderness and care for you with a care more intimate than that of a mother for her child. I have counted every hair on your head and guided you at every step. Wherever you go, I go with you, and wherever you rest, I keep watch. I will give you food that will satisfy all your hunger and drink that will quench all your thirst. I will not hide my face from you. You know me as your own as I know you as my own. You belong to me. I am your father, your mother, your brother, your sister, your lover, and your spouse… Yes, even your child… Wherever you are, I will be. Nothing will ever separate us. We are one.”",
       "date": "July 13, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +61,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -85,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -94,12 +106,6 @@
       "title": "God is Right Here",
       "body": "Worship is coming together as a community of God to claim the presence of Christ. So we listen to the readings, we break the bread, we share the cup, we sing songs. They are all gestures in which we remind each other that no matter what we are experiencing – whether it is joy or pain or suffering – God is there. The world around us is trying to pull us away from that. It wants to say that nothing is happening here so why don’t you buy this or go here or find your happiness there? The worshipping community is saying God is right here with us…. The worship life of the church over the year is bringing Christ back into the center of our lives and realizing that we as a body of people are representing the living Christ in our world.",
       "date": "July 8, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -136,12 +142,6 @@
       "title": "Confronting Our Fears",
       "body": "There is so much fear in us. Fear of people, fear of God and much raw, undefined, free-floating anxiety. I wonder if fear is not our main obstacle to prayer. When we enter into the presence of God and start to sense that huge reservoir of fear in us, we want to run away into the many distractions which our busy world offers us so abundantly. But we should not be afraid of our fears. We can confront them, give words to them and lead them into the presence of him who says: “Do not be afraid, it is I.” Our inclination is to show our Lord only what we feel comfortable with. But the more we dare to reveal our whole trembling self to him, the more we will be able to sense that his love, which is perfect love, casts out all our fears.",
       "date": "July 2, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Truth About All Human Beings",
-      "body": "Our many conversations led me to the inner conviction that the words “You are my Beloved” revealed the most intimate truth about all human beings, whether they belong to any particular tradition or not. All I want to say to you is “You are the Beloved,” and all I hope is that you can hear these words as spoken to you with all the tenderness and force that love can hold. My only desire is to make these words reverberate in every corner of your being - “You are the Beloved.”",
-      "date": "July 1, 2026"
     }
   ]
 }
