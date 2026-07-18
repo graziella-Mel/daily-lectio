@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T07:13:37.151Z",
+  "updatedAt": "2026-07-18T06:59:03.185Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Praying When Afraid",
-      "body": "You, O Lord, have also known fear. You have been deeply troubled; your sweat and tears were signs of your fear. Make my fear, O Lord, part of yours, so that it will lead me not to darkness but to the light, and will give me a new understanding of the hope of your cross. Amen.",
-      "date": "July 16, 2026"
+      "title": "Letting Go",
+      "body": "Detachment is often understood as letting loose of what is attractive. But it sometimes also requires letting go of what is repulsive. You can indeed become attached to dark forces such as resentment and hatred. As long as you seek retaliation, you cling to your own past. Sometimes it seems as though you might lose yourself along with your revenge and hate – so you stand there with balled-up fists, closed to the other who wants to heal.",
+      "date": "July 18, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Our Unique Vocation",
-      "body": "Each individual Christian and each community of Christians has a unique call. Everybody can’t do everything. You get out and do what the gospel is saying… There are some people who go to prison, who develop a whole nonviolent strategy around that. There are people who live very simple lives of prayer. Some live in monasteries, some as hermits, some in families. There are doctors and lawyers who live as witnesses. There are people who use their wealth to bring about things that otherwise wouldn’t be possible. We have to get in touch with what is our unique vocation, to be a sign of hope in the world without being fanatical and thinking that everyone should do what we do. I need to trust that God will do God’s work through me if I am faithful to my vocation.",
-      "date": "July 15, 2026"
+      "title": "I Don’t Have to Prove Anything",
+      "body": "There was that voice, that incredible voice: “You are my beloved son and on you my favor rests.” That’s the voice at the Jordan River, where Jesus heard and believed that he was the beloved of God on whom God’s favor rests. It was as the beloved that Jesus lived his life even in front of the demon. The evil spirit said to him, “Prove that you are the beloved by changing stones into bread and becoming relevant. Prove that you are the beloved by being spectacular and throwing yourself down from the Temple to be saved by God’s angels. You’ll be in the news and on TV so everyone can see how wonderful you are! Prove you are the beloved by having power and influence so you can control the situation.” But Jesus answered, “I don’t have to prove anything. I _am_ the beloved because that’s the voice I heard in the Jordan River. I know that I am the beloved. I have heard the words, ‘You are my beloved. You are my beloved.’” Jesus believed the words and he knew who he was.",
+      "date": "July 17, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,38 @@
     },
     {
       "src": "nouwen",
+      "title": "Praying When Afraid",
+      "body": "You, O Lord, have also known fear. You have been deeply troubled; your sweat and tears were signs of your fear. Make my fear, O Lord, part of yours, so that it will lead me not to darkness but to the light, and will give me a new understanding of the hope of your cross. Amen.",
+      "date": "July 16, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Our Unique Vocation",
+      "body": "Each individual Christian and each community of Christians has a unique call. Everybody can’t do everything. You get out and do what the gospel is saying… There are some people who go to prison, who develop a whole nonviolent strategy around that. There are people who live very simple lives of prayer. Some live in monasteries, some as hermits, some in families. There are doctors and lawyers who live as witnesses. There are people who use their wealth to bring about things that otherwise wouldn’t be possible. We have to get in touch with what is our unique vocation, to be a sign of hope in the world without being fanatical and thinking that everyone should do what we do. I need to trust that God will do God’s work through me if I am faithful to my vocation.",
+      "date": "July 15, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Building a New Community",
       "body": "We can love others because the “I” in our innermost self has heard the first love – which is God’s unconditional, unlimited love. When we come together in relationships, we recognize that others are also loved with the first love. The first love incarnates in different ways in every person and calls us together to build a new home, a new community, a new dwelling place for God in this world.",
       "date": "July 14, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -84,22 +108,10 @@
       "date": "July 10, 2026"
     },
     {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
       "src": "nouwen",
       "title": "A Love that Holds Us Safe",
       "body": "We belong to God from eternity to eternity. Indeed, we are God’s daughters and sons. As beloved children, our core identity is secure in the memory of God. Whether we do anything worthwhile, prove anything important, or give anything of value, God still loves us unconditionally. It is a strong, vital, and active fatherly and motherly kind of love that holds us safe and affirms our worth, wherever we go and whatever we do.",
       "date": "July 9, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -130,18 +142,6 @@
       "title": "The Fullness of Jesus’ Love",
       "body": "“The Son of Man,” Jesus says, “must be lifted up as Moses lifted up the serpent in the desert, so that everyone who believes may have eternal life in him” (John 3:14-15, JB). He is lifted up as a passive victim, making the cross a sign of desolation. And he is lifted up in glory, so the cross becomes at the same time a sign of hope. Suddenly we realize that the glory of God, the divinity of God, is bursting through in Jesus’ passion precisely when he is most victimized. So new life becomes visible not only in the resurrection on the third day, but already in the passion, in the being handed over. Why? This is because it is in the passion that the fullness of Jesus’ love shines through.",
       "date": "July 4, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "God’s Home, Our Home",
-      "body": "God is not in the distant heavens or in the hidden depths of the future, but here and now. God has pitched a tent among us. Even more than that, God has made a home in us so that we can make God’s home our home.",
-      "date": "July 3, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Confronting Our Fears",
-      "body": "There is so much fear in us. Fear of people, fear of God and much raw, undefined, free-floating anxiety. I wonder if fear is not our main obstacle to prayer. When we enter into the presence of God and start to sense that huge reservoir of fear in us, we want to run away into the many distractions which our busy world offers us so abundantly. But we should not be afraid of our fears. We can confront them, give words to them and lead them into the presence of him who says: “Do not be afraid, it is I.” Our inclination is to show our Lord only what we feel comfortable with. But the more we dare to reveal our whole trembling self to him, the more we will be able to sense that his love, which is perfect love, casts out all our fears.",
-      "date": "July 2, 2026"
     }
   ]
 }
