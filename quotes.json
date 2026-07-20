@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T07:25:10.340Z",
+  "updatedAt": "2026-07-20T07:56:08.790Z",
   "counts": {
     "nouwen": 15,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "In the House of the Lord",
-      "body": "Be with Jesus. Be quiet. Listen to the one who invites you to his home. Gradually, we will notice that we are in his house not only for that half hour, but also throughout the day. We will discover that we are in the house of the Lord wherever we are and whatever we do. By dwelling with the Lord in prayer, we can live in a hostile, violent, competitive world and be at home.",
-      "date": "July 19, 2026"
+      "title": "To Be Silent Keeps Us Pilgrims",
+      "body": "Words often leave us with a sense of inner defeat. They can even create a sense of numbness and a feeling of being bogged down in swampy ground. Often they leave us in a slight depression, or in a fog that clouds the window of our mind. In short, words can give us the feeling of having stopped too long at one of the little villages that we pass on our journey, of having been motivated more by curiosity than by service. Words often make us forget that we are pilgrims called to invite others to join us on the journey. _Peregrinatio est tacere._ “To be silent keeps us pilgrims.”",
+      "date": "July 20, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Letting Go",
-      "body": "Detachment is often understood as letting loose of what is attractive. But it sometimes also requires letting go of what is repulsive. You can indeed become attached to dark forces such as resentment and hatred. As long as you seek retaliation, you cling to your own past. Sometimes it seems as though you might lose yourself along with your revenge and hate – so you stand there with balled-up fists, closed to the other who wants to heal.",
-      "date": "July 18, 2026"
+      "title": "In the House of the Lord",
+      "body": "Be with Jesus. Be quiet. Listen to the one who invites you to his home. Gradually, we will notice that we are in his house not only for that half hour, but also throughout the day. We will discover that we are in the house of the Lord wherever we are and whatever we do. By dwelling with the Lord in prayer, we can live in a hostile, violent, competitive world and be at home.",
+      "date": "July 19, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,26 @@
     },
     {
       "src": "nouwen",
+      "title": "Letting Go",
+      "body": "Detachment is often understood as letting loose of what is attractive. But it sometimes also requires letting go of what is repulsive. You can indeed become attached to dark forces such as resentment and hatred. As long as you seek retaliation, you cling to your own past. Sometimes it seems as though you might lose yourself along with your revenge and hate – so you stand there with balled-up fists, closed to the other who wants to heal.",
+      "date": "July 18, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "I Don’t Have to Prove Anything",
       "body": "There was that voice, that incredible voice: “You are my beloved son and on you my favor rests.” That’s the voice at the Jordan River, where Jesus heard and believed that he was the beloved of God on whom God’s favor rests. It was as the beloved that Jesus lived his life even in front of the demon. The evil spirit said to him, “Prove that you are the beloved by changing stones into bread and becoming relevant. Prove that you are the beloved by being spectacular and throwing yourself down from the Temple to be saved by God’s angels. You’ll be in the news and on TV so everyone can see how wonderful you are! Prove you are the beloved by having power and influence so you can control the situation.” But Jesus answered, “I don’t have to prove anything. I _am_ the beloved because that’s the voice I heard in the Jordan River. I know that I am the beloved. I have heard the words, ‘You are my beloved. You are my beloved.’” Jesus believed the words and he knew who he was.",
       "date": "July 17, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +61,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -85,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -94,12 +106,6 @@
       "title": "A Fruitful Death",
       "body": "What I appreciate as I read Scripture is that Jesus saw death, and his own death in particular, as _more_ than a way of getting from one place to another. He saw his death as potentially fruitful in itself, and of enormous benefit to his disciples. Death was not an ending for him but a passage to something much greater.",
       "date": "July 12, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -136,12 +142,6 @@
       "title": "Power to Love Enemies",
       "body": "Following Jesus means to live a life in which we start loving one another with God’s original love and not with the needy wounded love that harms others. Original love is a love that has the power to love enemies as well as friends. It is a divine love that makes us “sons and daughters of the Most High, who is kind to the grateful and the wicked…. who causes the sun to rise on bad people as well as the good, and the rain to fall on honest and dishonest people” (Matthew 5:45).",
       "date": "July 6, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "The Voice that Speaks",
-      "body": "Yes, there is that voice, the voice that speaks from above and from within and that whispers softly or declares loudly: “You are my Beloved, on you my favor rests.” It certainly is not easy to hear that voice in a world filled with voices that shout: “You are no good, you are ugly; you are worthless; you are despicable, you are nobody - unless you demonstrate the opposite.” These negative voices are so loud and persistent that it is easy to believe them. That’s the great trap. It is the trap of self-rejection. Over the years, I have come to realize that the greatest trap in our life is not success, popularity, or power, but self-rejection.",
-      "date": "July 5, 2026"
     }
   ]
 }
