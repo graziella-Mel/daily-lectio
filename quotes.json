@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-29T07:44:50.461Z",
+  "updatedAt": "2026-07-30T07:31:48.907Z",
   "counts": {
-    "nouwen": 13,
+    "nouwen": 8,
     "raiati": 8
   },
   "quotes": [
@@ -43,14 +43,26 @@
     },
     {
       "src": "nouwen",
+      "title": "Solitude Challenges Drivenness",
+      "body": "Solitude comes from the word _solus_, meaning to be alone. People have an enormous number of things to do in life. Many of us are driven. Solitude pokes a hole in that drivenness and helps us stop for a moment and ask: “What is it all for?” It means spending a little time with God to listen to the voice who says, “You are mine, I am yours, I love you. You don’t have to prove yourself. You are fine.”",
+      "date": "July 26, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Chosen to be Beloved",
       "body": "To become the Beloved we, first of all, have to claim that we are taken. That might sound very strange at first, and, still, to be taken is essential in becoming the Beloved. As I have mentioned already, we can desire to become the Beloved only when we know that we already are the Beloved. Therefore, the first step in the spiritual life is to acknowledge with our whole being that we already have been taken. It might help at this point if, instead of “take,” which is a somewhat cold and brittle word, we used a warmer, softer word with the same meaning: the word “choose.” As children of God, we are God’s chosen ones.",
       "date": "July 25, 2026"
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,63 +85,21 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "Taking, Blessing, Breaking, Giving",
-      "body": "To identify the movements of the Spirit in our lives, I have found it helpful to use four words: “taken,” “blessed,” “broken,” and “given.” These words summarize my life as a priest because each day, when I come together around the table with members of my community, I take bread, bless it, break it, and give it. These words also summarize my life as a Christian because, as a Christian, I am called to become bread for the world: bread that is taken, blessed, broken, and given. Most importantly, however, they summarize my life as a human being because in every moment of my life somewhere, somehow the taking, the blessing, the breaking, and the giving are happening.",
-      "date": "July 21, 2026"
-    },
-    {
-      "src": "raiati",
       "title": "[البيت الرعية",
       "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
-      "title": "To Be Silent Keeps Us Pilgrims",
-      "body": "Words often leave us with a sense of inner defeat. They can even create a sense of numbness and a feeling of being bogged down in swampy ground. Often they leave us in a slight depression, or in a fog that clouds the window of our mind. In short, words can give us the feeling of having stopped too long at one of the little villages that we pass on our journey, of having been motivated more by curiosity than by service. Words often make us forget that we are pilgrims called to invite others to join us on the journey. _Peregrinatio est tacere._ “To be silent keeps us pilgrims.”",
-      "date": "July 20, 2026"
+      "title": "A Greater Love than We Can Contain",
+      "body": "Love, as Jesus reveals it to us, is a relationship between persons. The word “person” is a wonderful word. It comes from the Latin words _per_, which means “through” and _sonare_, which means “to sound.” A person is someone who is sounding through.",
+      "date": "July 22, 2026"
     },
     {
       "src": "raiati",
       "title": "[وحدة العائلة",
       "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "In the House of the Lord",
-      "body": "Be with Jesus. Be quiet. Listen to the one who invites you to his home. Gradually, we will notice that we are in his house not only for that half hour, but also throughout the day. We will discover that we are in the house of the Lord wherever we are and whatever we do. By dwelling with the Lord in prayer, we can live in a hostile, violent, competitive world and be at home.",
-      "date": "July 19, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Letting Go",
-      "body": "Detachment is often understood as letting loose of what is attractive. But it sometimes also requires letting go of what is repulsive. You can indeed become attached to dark forces such as resentment and hatred. As long as you seek retaliation, you cling to your own past. Sometimes it seems as though you might lose yourself along with your revenge and hate – so you stand there with balled-up fists, closed to the other who wants to heal.",
-      "date": "July 18, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "I Don’t Have to Prove Anything",
-      "body": "There was that voice, that incredible voice: “You are my beloved son and on you my favor rests.” That’s the voice at the Jordan River, where Jesus heard and believed that he was the beloved of God on whom God’s favor rests. It was as the beloved that Jesus lived his life even in front of the demon. The evil spirit said to him, “Prove that you are the beloved by changing stones into bread and becoming relevant. Prove that you are the beloved by being spectacular and throwing yourself down from the Temple to be saved by God’s angels. You’ll be in the news and on TV so everyone can see how wonderful you are! Prove you are the beloved by having power and influence so you can control the situation.” But Jesus answered, “I don’t have to prove anything. I _am_ the beloved because that’s the voice I heard in the Jordan River. I know that I am the beloved. I have heard the words, ‘You are my beloved. You are my beloved.’” Jesus believed the words and he knew who he was.",
-      "date": "July 17, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Praying When Afraid",
-      "body": "You, O Lord, have also known fear. You have been deeply troubled; your sweat and tears were signs of your fear. Make my fear, O Lord, part of yours, so that it will lead me not to darkness but to the light, and will give me a new understanding of the hope of your cross. Amen.",
-      "date": "July 16, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Our Unique Vocation",
-      "body": "Each individual Christian and each community of Christians has a unique call. Everybody can’t do everything. You get out and do what the gospel is saying… There are some people who go to prison, who develop a whole nonviolent strategy around that. There are people who live very simple lives of prayer. Some live in monasteries, some as hermits, some in families. There are doctors and lawyers who live as witnesses. There are people who use their wealth to bring about things that otherwise wouldn’t be possible. We have to get in touch with what is our unique vocation, to be a sign of hope in the world without being fanatical and thinking that everyone should do what we do. I need to trust that God will do God’s work through me if I am faithful to my vocation.",
-      "date": "July 15, 2026"
     }
   ]
 }
