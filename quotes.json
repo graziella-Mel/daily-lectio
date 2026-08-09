@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T05:39:37.841Z",
+  "updatedAt": "2026-08-09T05:43:49.628Z",
   "counts": {
     "nouwen": 8,
     "raiati": 2
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Freedom In Letting Go",
-      "body": "To give a blessing is to affirm, to say “yes” to a person’s Belovedness. And more than that: To give a blessing creates the reality of which it speaks. There is a lot of mutual admiration in this world, just as there is a lot of mutual condemnation. A blessing goes beyond the distinction between admiration and condemnation, between virtues or vices, between good deeds or evil deeds. A blessing touches the original goodness of the other and calls forth his or her Belovedness.",
-      "date": "August 7, 2026"
+      "title": "Reborn in God",
+      "body": "Help me, O Lord, to let my old self die, to let die the thousand big and small ways in which I am still building up my false self and trying to cling to my false desires. Let me be reborn in you and see through you the world in the right way, so that all my actions, words, and thought can become a hymn of praise to you.",
+      "date": "August 8, 2026"
     },
     {
       "src": "raiati",
@@ -19,15 +19,21 @@
     },
     {
       "src": "nouwen",
-      "title": "Giving a Blessing",
+      "title": "Freedom In Letting Go",
       "body": "To give a blessing is to affirm, to say “yes” to a person’s Belovedness. And more than that: To give a blessing creates the reality of which it speaks. There is a lot of mutual admiration in this world, just as there is a lot of mutual condemnation. A blessing goes beyond the distinction between admiration and condemnation, between virtues or vices, between good deeds or evil deeds. A blessing touches the original goodness of the other and calls forth his or her Belovedness.",
-      "date": "August 6, 2026"
+      "date": "August 7, 2026"
     },
     {
       "src": "raiati",
       "title": "What can I do to resolve this?",
       "body": "You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
       "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Giving a Blessing",
+      "body": "To give a blessing is to affirm, to say “yes” to a person’s Belovedness. And more than that: To give a blessing creates the reality of which it speaks. There is a lot of mutual admiration in this world, just as there is a lot of mutual condemnation. A blessing goes beyond the distinction between admiration and condemnation, between virtues or vices, between good deeds or evil deeds. A blessing touches the original goodness of the other and calls forth his or her Belovedness.",
+      "date": "August 6, 2026"
     },
     {
       "src": "nouwen",
@@ -58,12 +64,6 @@
       "title": "The Jesus Prayer",
       "body": "One simple way to practice solitude is to take a simple prayer like, “Lord Jesus Christ, have mercy on me.” Sit down, light a candle, look at an icon, be in front of the blessed sacrament or the Bible, depending on your tradition. Simply be there and repeat the prayer for five minutes. Let each word sink from your mind into your heart and then carry all of them through the day.",
       "date": "August 1, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Nobody Can Be Excluded",
-      "body": "Enemies are enemies by the way we exclude them from the love of God. When we love with God’s love we can no longer divide people into those who deserve God’s love and those who don’t. When we come to know God’s first love nobody can be excluded from that love.",
-      "date": "July 31, 2026"
     }
   ]
 }
