@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-08-19T05:25:42.399Z",
+  "updatedAt": "2026-08-20T05:26:10.978Z",
   "counts": {
     "nouwen": 8,
-    "raiati": 2
+    "raiati": 8
   },
   "quotes": [
+    {
+      "src": "nouwen",
+      "title": "You Alone, O Lord",
+      "body": "Am I destined to excite others to reach the promised land while remaining unable to enter there myself? Sometimes I feel imprisoned by my own insights and “spiritual competence.” You alone, Lord, can reach out to me and save me. You alone.",
+      "date": "August 19, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[السلوك الفصحيّ",
+      "body": "يوم الفصح ظـهر السيد للتلاميذ مجتمعين “وقال لهم: السلام لكم. ولما قال هـذا أراهم يديه وجنبه فـفرح التلاميذ حين أبـصروا الرب”. وكان توما غائـبًا فلم يؤمن. ولكن في الأحـد اللاحـق للـقـيامة ظـهـر السيد لهم ثانية وتوما معهم. وتكـرر المـشهد نفسه عند دخول الرب: السلام لكم، والرب مشـرق بالـنور الفـصحي وآثار آلامه عليه.",
+      "date": "رعيتي — 4 أيار 1997"
+    },
     {
       "src": "nouwen",
       "title": "Letting Go",
@@ -13,9 +25,9 @@
     },
     {
       "src": "raiati",
-      "title": "Why have I been blocked?",
-      "body": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.",
-      "date": "رعيتي — المطران جورج خضر"
+      "title": "[نشوء الزواج",
+      "body": "الزواج عهد مؤسس على الطبيعة. ينشأ بالحب الذي يجمع رجلًا وامرأة. ولكن هناك مجتمعات قديمة لا تطلب الحب شرطًا ولكن لا بدّ له ان يتكوّن قبل الزواج أو بعده. هناك جاذب يكشفه القول الإلهي منذ التكوين: «ليس جيدًا أن يكون الإنسان وحده على الأرض. فلنصنعنَّ له مُعينًا على شبهه». فاللقاء بين شخصين من الجنسين يضع مبدئيًّا حدًّا لهذه الوحدة.",
+      "date": "رعيتي — 9 آب 1992"
     },
     {
       "src": "nouwen",
@@ -25,8 +37,8 @@
     },
     {
       "src": "raiati",
-      "title": "What can I do to resolve this?",
-      "body": "You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -36,10 +48,22 @@
       "date": "August 16, 2026"
     },
     {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
       "src": "nouwen",
       "title": "Life in Communion",
       "body": "Life, as many of us know, can actually become more difficult – more painful – when we choose to follow Jesus. Yet at the same time we gain a certain strength because we no longer live our life or our agony alone. We no longer live our struggle in isolation. We no longer live our pains as if nobody cares. Indeed, following Jesus means walking in his path, taking steps behind the One who shows us the way in our dark, broken, painful world.",
       "date": "August 15, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -48,10 +72,22 @@
       "date": "August 14, 2026"
     },
     {
+      "src": "raiati",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
       "src": "nouwen",
       "title": "People of Reconciliation",
       "body": "If you dare to believe that you are beloved before you were born, you may suddenly realize that your life is very, very special. You become conscious that you were sent here just for a short time, for twenty, forty, or eighty years, to discover and believe that you are a beloved child of God. The length of time doesn’t matter. You are sent into this world to believe in yourself as God’s chosen one and then to help your brothers and sisters know that they are also beloved sons and daughters of God who belong together. You’re sent into this world to be a people of reconciliation. You are sent to heal, to break down the walls between you and your neighbors, locally, nationally, and globally. Before all the distinctions, the separations, and the walls built on the foundations of fear, there was unity in the mind and heart of God. Out of that unity, you are sent into this world for a little while to claim that you and every other human being belongs to that same God of Love who lives from eternity to eternity.",
       "date": "August 13, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
+      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -60,10 +96,10 @@
       "date": "August 12, 2026"
     },
     {
-      "src": "nouwen",
-      "title": "Kingdom Logic",
-      "body": "Remember the big crowd, five loaves, and two fish (Matt. 14:15-21)? Jesus said, “Give them something to eat.” The disciples responded, “Lord, five loaves, two fish, big crowd? It doesn’t fit.” Jesus said, “Give them something to eat.” And he said, “Throw out your nets.” They did and caught fish, but not just as many as they needed. They caught so many their nets could not hold all the fish. It is the same with the crowd. Jesus didn’t just want to be sure everyone got a little piece of bread. There were twelve big baskets of leftovers! And the boat was so full of fish that Simon didn’t know what to do with them.",
-      "date": "August 11, 2026"
+      "src": "raiati",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
+      "date": "رعيتي — المطران جورج خضر"
     }
   ]
 }
