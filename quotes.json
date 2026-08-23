@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T05:23:01.039Z",
+  "updatedAt": "2026-08-23T05:25:14.534Z",
   "counts": {
     "nouwen": 8,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Called Back to that First Love",
-      "body": "I am a limited, partial, broken reflection of a love that is unlimited, impartial, whole. If I say, “I love you,” then what I am really saying is that we are communicating to each other in a broken and limited way a love that has no limit, that is not broken. You keep calling me back to that first divine love. I call you back to it. That is what marriage is about. That is what friendship is about. That is what community is about. In each case, we are calling each other back to that first love. We are saying to each other: “We are broken people. But we are embraced by one who says to us: “Do not be afraid, I have loved you first. And that is where you are secure.”",
-      "date": "August 20, 2026"
+      "title": "Deep Friendship",
+      "body": "Deep friendship is a calling forth of each other’s chosenness and a mutual affirmation of being precious in God’s eyes. Your life and my life are, each of them, one of a kind. No one has lived your life or my life before, and no one will ever live them again. Our lives are unique stones in the mosaic of human existence - priceless and irreplaceable.",
+      "date": "August 22, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "You Alone, O Lord",
-      "body": "Am I destined to excite others to reach the promised land while remaining unable to enter there myself? Sometimes I feel imprisoned by my own insights and “spiritual competence.” You alone, Lord, can reach out to me and save me. You alone.",
-      "date": "August 19, 2026"
+      "title": "Chosen and Blessed",
+      "body": "In this world when you are chosen, you know that somebody else is not chosen. When you are the best, you know that somebody is not the best. When you win and receive a prize, you know there is somebody who lost. But this is not so in the heart of God. If you are chosen in the heart of God, you have eyes to see the chosenness of others. If the Love of God blesses you, you have eyes to see the blessedness of others.",
+      "date": "August 21, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,38 @@
     },
     {
       "src": "nouwen",
+      "title": "Called Back to that First Love",
+      "body": "I am a limited, partial, broken reflection of a love that is unlimited, impartial, whole. If I say, “I love you,” then what I am really saying is that we are communicating to each other in a broken and limited way a love that has no limit, that is not broken. You keep calling me back to that first divine love. I call you back to it. That is what marriage is about. That is what friendship is about. That is what community is about. In each case, we are calling each other back to that first love. We are saying to each other: “We are broken people. But we are embraced by one who says to us: “Do not be afraid, I have loved you first. And that is where you are secure.”",
+      "date": "August 20, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "You Alone, O Lord",
+      "body": "Am I destined to excite others to reach the promised land while remaining unable to enter there myself? Sometimes I feel imprisoned by my own insights and “spiritual competence.” You alone, Lord, can reach out to me and save me. You alone.",
+      "date": "August 19, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Letting Go",
       "body": "Detachment is often understood as letting loose of what is attractive. But it sometimes also requires letting go of what is repulsive. You can indeed become attached to dark forces such as resentment and hatred. As long as you seek retaliation, you cling to your own past. Sometimes it seems as though you might lose yourself along with your revenge and hate – so you stand there with balled-up fists, closed to the other who wants to heal.",
       "date": "August 18, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -70,30 +94,6 @@
       "title": "Life in Communion",
       "body": "Life, as many of us know, can actually become more difficult – more painful – when we choose to follow Jesus. Yet at the same time we gain a certain strength because we no longer live our life or our agony alone. We no longer live our struggle in isolation. We no longer live our pains as if nobody cares. Indeed, following Jesus means walking in his path, taking steps behind the One who shows us the way in our dark, broken, painful world.",
       "date": "August 15, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "Discovering the Small Intimate Voice",
-      "body": "Have you ever tried to spend a whole hour doing nothing but listening to the voice that dwells deep in your heart? Where there is no radio to listen to, no TV to watch, no book to read, no person to talk to, no project to finish, no phone call to make, how does that make you feel? Often it does no more than make us so aware of how much there is still to do that we haven’t yet done that we decide to leave that fearful silence and go back to work! It is not easy to enter into the silence and reach beyond the many boisterous and demanding voices of our world and to discover there the small intimate voice saying: “You are my Beloved Child, on you my favor rests.” Still, if we dare to embrace our solitude and befriend our silence, we will come to know that voice.",
-      "date": "August 14, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "People of Reconciliation",
-      "body": "If you dare to believe that you are beloved before you were born, you may suddenly realize that your life is very, very special. You become conscious that you were sent here just for a short time, for twenty, forty, or eighty years, to discover and believe that you are a beloved child of God. The length of time doesn’t matter. You are sent into this world to believe in yourself as God’s chosen one and then to help your brothers and sisters know that they are also beloved sons and daughters of God who belong together. You’re sent into this world to be a people of reconciliation. You are sent to heal, to break down the walls between you and your neighbors, locally, nationally, and globally. Before all the distinctions, the separations, and the walls built on the foundations of fear, there was unity in the mind and heart of God. Out of that unity, you are sent into this world for a little while to claim that you and every other human being belongs to that same God of Love who lives from eternity to eternity.",
-      "date": "August 13, 2026"
     },
     {
       "src": "raiati",
