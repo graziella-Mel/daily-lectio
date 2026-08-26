@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-08-25T05:27:54.036Z",
+  "updatedAt": "2026-08-26T05:32:02.325Z",
   "counts": {
-    "nouwen": 8,
+    "nouwen": 14,
     "raiati": 8
   },
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Our Fellow Traveller",
-      "body": "When we walk with Jesus we can know that we have a fellow traveller, someone-with-us. Jesus is God-with-us, the one we can trust with our whole life, the one who shows us the way.",
-      "date": "August 23, 2026"
+      "title": "Useless Time",
+      "body": "The world says, “If you are not making good use of your time, you are useless.” Jesus says, “Come spend some useless time with me.” If we think about prayer in terms of its _usefulness_ to us – what prayer will do for us, what spiritual benefits we will gain, what insights we will gain, what divine presence we may feel – God cannot easily speak to us. But if we can detach ourselves from the idea of the usefulness of prayer and the results of prayer, we become free to “waste” a precious hour with God in prayer. Gradually, we may find, our “useless” time will transform us, and everything around us will be different.",
+      "date": "August 25, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Deep Friendship",
-      "body": "Deep friendship is a calling forth of each other’s chosenness and a mutual affirmation of being precious in God’s eyes. Your life and my life are, each of them, one of a kind. No one has lived your life or my life before, and no one will ever live them again. Our lives are unique stones in the mosaic of human existence - priceless and irreplaceable.",
-      "date": "August 22, 2026"
+      "title": "Children of the Light",
+      "body": "… As children of the darkness that rules through fear, self-interest, greed, and power, our great motivators are survival and self-preservation. But as children of the light, who know that perfect love casts out all fear, it becomes possible to give away all that we have for others.",
+      "date": "August 24, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,38 @@
     },
     {
       "src": "nouwen",
+      "title": "Our Fellow Traveller",
+      "body": "When we walk with Jesus we can know that we have a fellow traveller, someone-with-us. Jesus is God-with-us, the one we can trust with our whole life, the one who shows us the way.",
+      "date": "August 23, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Deep Friendship",
+      "body": "Deep friendship is a calling forth of each other’s chosenness and a mutual affirmation of being precious in God’s eyes. Your life and my life are, each of them, one of a kind. No one has lived your life or my life before, and no one will ever live them again. Our lives are unique stones in the mosaic of human existence - priceless and irreplaceable.",
+      "date": "August 22, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Chosen and Blessed",
       "body": "In this world when you are chosen, you know that somebody else is not chosen. When you are the best, you know that somebody is not the best. When you win and receive a prize, you know there is somebody who lost. But this is not so in the heart of God. If you are chosen in the heart of God, you have eyes to see the chosenness of others. If the Love of God blesses you, you have eyes to see the blessedness of others.",
       "date": "August 21, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +97,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -84,22 +108,34 @@
       "date": "August 17, 2026"
     },
     {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
       "src": "nouwen",
       "title": "Endless Embrace",
       "body": "Out of that grave of despair, Jesus comes to us, as he came out of his place of despair, the tomb. He encounters us. He says something we keep forgetting, the core of his message: “Love one another because I have loved you first.” Jesus proclaims the first love. Jesus proclaims that God loved us long before we could ever begin to love one another. This love is total. It is full and unconditional. “I love you with all my divine heart. I embrace you with all that I have. I send you my inmost self. I want you to breathe my breath. I want you to live in the endless embrace of my love. Here you can find your home. I have made my home in you. You can make your home in me.”",
       "date": "August 16, 2026"
     },
     {
-      "src": "raiati",
-      "title": "[وحدة العائلة",
-      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
-      "date": "رعيتي — المطران جورج خضر"
+      "src": "nouwen",
+      "title": "Life in Communion",
+      "body": "Life, as many of us know, can actually become more difficult – more painful – when we choose to follow Jesus. Yet at the same time we gain a certain strength because we no longer live our life or our agony alone. We no longer live our struggle in isolation. We no longer live our pains as if nobody cares. Indeed, following Jesus means walking in his path, taking steps behind the One who shows us the way in our dark, broken, painful world.",
+      "date": "August 15, 2026"
+    },
+    {
+      "src": "nouwen",
+      "title": "Discovering the Small Intimate Voice",
+      "body": "Have you ever tried to spend a whole hour doing nothing but listening to the voice that dwells deep in your heart? Where there is no radio to listen to, no TV to watch, no book to read, no person to talk to, no project to finish, no phone call to make, how does that make you feel? Often it does no more than make us so aware of how much there is still to do that we haven’t yet done that we decide to leave that fearful silence and go back to work! It is not easy to enter into the silence and reach beyond the many boisterous and demanding voices of our world and to discover there the small intimate voice saying: “You are my Beloved Child, on you my favor rests.” Still, if we dare to embrace our solitude and befriend our silence, we will come to know that voice.",
+      "date": "August 14, 2026"
+    },
+    {
+      "src": "nouwen",
+      "title": "People of Reconciliation",
+      "body": "If you dare to believe that you are beloved before you were born, you may suddenly realize that your life is very, very special. You become conscious that you were sent here just for a short time, for twenty, forty, or eighty years, to discover and believe that you are a beloved child of God. The length of time doesn’t matter. You are sent into this world to believe in yourself as God’s chosen one and then to help your brothers and sisters know that they are also beloved sons and daughters of God who belong together. You’re sent into this world to be a people of reconciliation. You are sent to heal, to break down the walls between you and your neighbors, locally, nationally, and globally. Before all the distinctions, the separations, and the walls built on the foundations of fear, there was unity in the mind and heart of God. Out of that unity, you are sent into this world for a little while to claim that you and every other human being belongs to that same God of Love who lives from eternity to eternity.",
+      "date": "August 13, 2026"
+    },
+    {
+      "src": "nouwen",
+      "title": "Hope Built on Promise",
+      "body": "Optimism arranges reality in a way that enables us to say things will get better. Pessimism arranges the same reality so that we can say things will probably get worse. When it rains, the optimist says, “How wonderful! Things will grow.” Seeing the same rain, the pessimist says, “Everything will drown.”",
+      "date": "August 12, 2026"
     }
   ]
 }
