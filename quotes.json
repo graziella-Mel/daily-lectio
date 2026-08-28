@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T16:04:56.140Z",
+  "updatedAt": "2026-08-28T17:08:10.982Z",
   "counts": {
     "nouwen": 8,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Never Be Lonely",
-      "body": "The whole spiritual life can be seen as a life in which we reclaim that first divine love. Prayer, contemplation, meditation, solitude, silence – they are all meant to develop an awareness of the voice in your heart that says, “I loved you long before you could have loved one another. I accepted you long before you could accept one another. I embraced you long before you could hold one another.”",
-      "date": "August 27, 2026"
+      "title": "Living a Mystical Life",
+      "body": "Freedom is the core of the spiritual life. It comes from claiming in your heart that unconditional first love that allows you to love your neighbors freely and unpossessively. Jesus shares this word of hope in our world full of violence – violence in our families, in our communities. In our personal relationships, a moral life is not enough. We must also live the mystical life, a life which is embraced by the God who says, “I love you fully and unconditionally.”",
+      "date": "August 28, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Fellowship of the Broken",
-      "body": "Let us not underestimate how hard it is to be compassionate. Compassion is hard because it requires the inner disposition to go with others to the place where they are weak, vulnerable, lonely, and broken. But this is not our spontaneous response to suffering. What we desire most is to do away with suffering by fleeing from it or finding a quick cure for it. As busy, active, relevant \\[people\\], we want to earn our bread by making a real contribution. This means first and foremost doing something to show that our presence makes a difference. And so we ignore our greatest gift, which is our ability to enter into solidarity with those who suffer. . . .",
-      "date": "August 26, 2026"
+      "title": "Never Be Lonely",
+      "body": "The whole spiritual life can be seen as a life in which we reclaim that first divine love. Prayer, contemplation, meditation, solitude, silence – they are all meant to develop an awareness of the voice in your heart that says, “I loved you long before you could have loved one another. I accepted you long before you could accept one another. I embraced you long before you could hold one another.”",
+      "date": "August 27, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,26 @@
     },
     {
       "src": "nouwen",
+      "title": "Fellowship of the Broken",
+      "body": "Let us not underestimate how hard it is to be compassionate. Compassion is hard because it requires the inner disposition to go with others to the place where they are weak, vulnerable, lonely, and broken. But this is not our spontaneous response to suffering. What we desire most is to do away with suffering by fleeing from it or finding a quick cure for it. As busy, active, relevant \\[people\\], we want to earn our bread by making a real contribution. This means first and foremost doing something to show that our presence makes a difference. And so we ignore our greatest gift, which is our ability to enter into solidarity with those who suffer. . . .",
+      "date": "August 26, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Useless Time",
       "body": "The world says, “If you are not making good use of your time, you are useless.” Jesus says, “Come spend some useless time with me.” If we think about prayer in terms of its _usefulness_ to us – what prayer will do for us, what spiritual benefits we will gain, what insights we will gain, what divine presence we may feel – God cannot easily speak to us. But if we can detach ourselves from the idea of the usefulness of prayer and the results of prayer, we become free to “waste” a precious hour with God in prayer. Gradually, we may find, our “useless” time will transform us, and everything around us will be different.",
       "date": "August 25, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +61,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -82,18 +94,6 @@
       "title": "Chosen and Blessed",
       "body": "In this world when you are chosen, you know that somebody else is not chosen. When you are the best, you know that somebody is not the best. When you win and receive a prize, you know there is somebody who lost. But this is not so in the heart of God. If you are chosen in the heart of God, you have eyes to see the chosenness of others. If the Love of God blesses you, you have eyes to see the blessedness of others.",
       "date": "August 21, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "Called Back to that First Love",
-      "body": "I am a limited, partial, broken reflection of a love that is unlimited, impartial, whole. If I say, “I love you,” then what I am really saying is that we are communicating to each other in a broken and limited way a love that has no limit, that is not broken. You keep calling me back to that first divine love. I call you back to it. That is what marriage is about. That is what friendship is about. That is what community is about. In each case, we are calling each other back to that first love. We are saying to each other: “We are broken people. But we are embraced by one who says to us: “Do not be afraid, I have loved you first. And that is where you are secure.”",
-      "date": "August 20, 2026"
     },
     {
       "src": "raiati",
