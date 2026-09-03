@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T09:16:30.378Z",
+  "updatedAt": "2026-09-03T09:25:24.865Z",
   "counts": {
     "nouwen": 8,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Life is Small",
-      "body": "Living without judgment is very difficult. It means trusting that new life can emerge even in a world full of distrust, violence, destruction, and war.",
-      "date": "September 2, 2026"
+      "title": "People of Hope",
+      "body": "We are called to be a people of hope. Together, we can face our despairs – personal, global, or ecclesiastic. Together, too, we can find the risen Lord, emerged from his tomb of despair, ready once again to love us first. In embracing us, Jesus gives us the hope we need to find and live the life he has hidden in us and in the world.",
+      "date": "September 3, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Sending Our Spirit of Love",
-      "body": "After a very short visit to earth the time comes for each of us to pass from this world to the next. We have been sent into the world as God’s beloved children, and in our passages and losses we learn to love each other as spouse, parent, brother, or sister. We support one another through the passages of life, and together we grow in love. Finally we ourselves are called to exodus, and we leave the world for full communion with God. It is possible for us, like Jesus, to send our spirit of love to our friends when we leave them. Our spirit, the love we leave behind, is deeply in God’s Spirit. It is our greatest gift to those we love.",
-      "date": "September 1, 2026"
+      "title": "Life is Small",
+      "body": "Living without judgment is very difficult. It means trusting that new life can emerge even in a world full of distrust, violence, destruction, and war.",
+      "date": "September 2, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,26 @@
     },
     {
       "src": "nouwen",
+      "title": "Sending Our Spirit of Love",
+      "body": "After a very short visit to earth the time comes for each of us to pass from this world to the next. We have been sent into the world as God’s beloved children, and in our passages and losses we learn to love each other as spouse, parent, brother, or sister. We support one another through the passages of life, and together we grow in love. Finally we ourselves are called to exodus, and we leave the world for full communion with God. It is possible for us, like Jesus, to send our spirit of love to our friends when we leave them. Our spirit, the love we leave behind, is deeply in God’s Spirit. It is our greatest gift to those we love.",
+      "date": "September 1, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Being Attentive",
       "body": "Free me from the many things that occupy and preoccupy me. Help me just to be with you. To pray with you, glorify you, thank you, worship you. I want to be attentive, more ready to hear you, more willing to understand the mystery of your birth and life, your dying and your rising. Make me still, Lord, make me quiet, and speak to me in that silence.",
       "date": "August 31, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +61,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -82,18 +94,6 @@
       "title": "Never Be Lonely",
       "body": "The whole spiritual life can be seen as a life in which we reclaim that first divine love. Prayer, contemplation, meditation, solitude, silence – they are all meant to develop an awareness of the voice in your heart that says, “I loved you long before you could have loved one another. I accepted you long before you could accept one another. I embraced you long before you could hold one another.”",
       "date": "August 27, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "Fellowship of the Broken",
-      "body": "Let us not underestimate how hard it is to be compassionate. Compassion is hard because it requires the inner disposition to go with others to the place where they are weak, vulnerable, lonely, and broken. But this is not our spontaneous response to suffering. What we desire most is to do away with suffering by fleeing from it or finding a quick cure for it. As busy, active, relevant \\[people\\], we want to earn our bread by making a real contribution. This means first and foremost doing something to show that our presence makes a difference. And so we ignore our greatest gift, which is our ability to enter into solidarity with those who suffer. . . .",
-      "date": "August 26, 2026"
     },
     {
       "src": "raiati",
