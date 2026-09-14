@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T09:57:39.278Z",
+  "updatedAt": "2026-09-14T10:18:19.227Z",
   "counts": {
     "nouwen": 8,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Prayer is Personal",
-      "body": "Issues easily imprison; a person can set free. Issues easily divide us; a person can unite. Issues easily exhaust; a person can give rest. Issues easily destroy; a person can offer new life. Despair is caused by orientation toward issues, but hope emerges when we direct ourselves with heart and mind to the person of a saving God. That is prayer.",
-      "date": "September 13, 2026"
+      "title": "When Prayer Descends",
+      "body": "How do we concretely move from head to heart? When I lie in my bed, not able to fall asleep because of my many words and worries; when I am preoccupied with all the things that I must do or that can go wrong; when I can’t take my mind off my concern for a needy or dying friend – what am I supposed to do? Pray? Fine, but how do I do this?",
+      "date": "September 14, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "The Saving Lord of History",
-      "body": "Why has the world become such a heavy burden? We can’t simply blame the media. I suspect that while we become more informed about the world, we become less transformed by the living Christ. The strategy of the power of evil is to make us think of life as a huge stack of very complicated issues, too many to respond to, too complex to understand, and too frustrating to deal with. The more entangled we become in issues the harder it is to recognize Jesus as the saving Lord of history.",
-      "date": "September 12, 2026"
+      "title": "Prayer is Personal",
+      "body": "Issues easily imprison; a person can set free. Issues easily divide us; a person can unite. Issues easily exhaust; a person can give rest. Issues easily destroy; a person can offer new life. Despair is caused by orientation toward issues, but hope emerges when we direct ourselves with heart and mind to the person of a saving God. That is prayer.",
+      "date": "September 13, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,26 @@
     },
     {
       "src": "nouwen",
+      "title": "The Saving Lord of History",
+      "body": "Why has the world become such a heavy burden? We can’t simply blame the media. I suspect that while we become more informed about the world, we become less transformed by the living Christ. The strategy of the power of evil is to make us think of life as a huge stack of very complicated issues, too many to respond to, too complex to understand, and too frustrating to deal with. The more entangled we become in issues the harder it is to recognize Jesus as the saving Lord of history.",
+      "date": "September 12, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "The Value of a Human Person",
       "body": "We are living in a culture that measures the value of the human person by degrees of success and productivity. What is your title? How much money do you make? How many friends do you have? What are your accomplishments? How busy are you? What do your children do? But it is important for us to remember that as we grow older our ability to succeed in this way gradually diminishes. We lose our titles, our friends, our accomplishments, and our ability to do many things, because we begin to feel weaker, more vulnerable, and more dependent. If we continue to look at ourselves from the point of view of success, our condition is not a good one! Because of our strong cultural vision, it is a huge challenge to look at vulnerability not as a negative thing but as a positive thing. Do we dare to look at weakness as an opportunity to become fruitful? Fruitfulness in the spiritual life is about love, and this fruitfulness is very different from success or productivity.",
       "date": "September 11, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +61,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -82,18 +94,6 @@
       "title": "The Call for Patience",
       "body": "If we are patient, we can look at all the events of each day – expected and unexpected – as holding promise for us. Patience is the attitude that says we cannot force life but have to let it grow in its own time. Patience lets us see the people we meet, the events of the day, and the unfolding of history of our times as all part of the slow process of development and final liberation.",
       "date": "September 7, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "Returning Again and Again",
-      "body": "Lord, give me faith, faith in your endless mercy, your boundless forgiveness, your unfathomable goodness. Let me not be tempted to think that my sins are too great to be forgiven, too abominable to be touched by your mercy. Let me never run away from you but return to you again and again, asking you to be my Lord, my Shepherd, my Stronghold, and my Refuge. Take me under your wing, O Lord….",
-      "date": "September 6, 2026"
     },
     {
       "src": "raiati",
