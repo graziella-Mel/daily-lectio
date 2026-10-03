@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T10:52:11.804Z",
+  "updatedAt": "2026-10-03T10:11:34.405Z",
   "counts": {
     "nouwen": 8,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Hearing the Voice that Gives Life",
-      "body": "Home is the center of my being where I can hear the voice that says: “You are my Beloved, on you my favor rests” - the same voice that gave life to the first Adam and spoke to Jesus, the second Adam; that same voice that speaks to all the children of God and set them free to live in the midst of a dark world while remaining in the light.",
-      "date": "October 1, 2026"
+      "title": "Mercy Supplants Bitterness",
+      "body": "Prayer is leading every sorrow to the source of all healing: it is letting the warmth of Jesus’ love melt the cold anger of resentment; it is opening a space where joy replaces sadness, mercy supplants bitterness, love displaces fear, gentleness and care overcome hatred and indifference. But, most of all, prayer is the way to become and remain part of Jesus’ mission to draw all peoples to the intimacy of God’s love.",
+      "date": "October 3, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "The Pruning Hands of God",
-      "body": "Gratitude is not a simple emotion or an obvious attitude. It is a difficult discipline in which I constantly reclaim my whole past as the concrete way God has led me to this moment and is sending me into the future. It is hard precisely because it challenges me to face my painful moments – experiences of rejection and abandonment, feelings of loss and failure – and gradually to discover in them the pruning hands of God purifying my heart for deeper love, stronger hope, and broader faith.",
-      "date": "September 30, 2026"
+      "title": "Cry for Mercy",
+      "body": "Here the deeper meaning of prayer becomes manifest. To pray is to unite ourselves with Jesus and lift up the whole world through him to God in a cry for forgiveness, reconciliation, healing, and mercy. To pray, therefore, is to connect whatever human struggle or pain we encounter – whether starvation, torture, displacement of peoples, or any form of physical and mental anguish – with the gentle and humble heart of Jesus.",
+      "date": "October 2, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,38 @@
     },
     {
       "src": "nouwen",
+      "title": "Hearing the Voice that Gives Life",
+      "body": "Home is the center of my being where I can hear the voice that says: “You are my Beloved, on you my favor rests” - the same voice that gave life to the first Adam and spoke to Jesus, the second Adam; that same voice that speaks to all the children of God and set them free to live in the midst of a dark world while remaining in the light.",
+      "date": "October 1, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "The Pruning Hands of God",
+      "body": "Gratitude is not a simple emotion or an obvious attitude. It is a difficult discipline in which I constantly reclaim my whole past as the concrete way God has led me to this moment and is sending me into the future. It is hard precisely because it challenges me to face my painful moments – experiences of rejection and abandonment, feelings of loss and failure – and gradually to discover in them the pruning hands of God purifying my heart for deeper love, stronger hope, and broader faith.",
+      "date": "September 30, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Both Mourning And Dancing",
       "body": "Gratitude at its deepest level embraces _all_ of life with thanksgiving: the good and the bad, the joyful and the painful, the holy and the not so holy. Jesus calls us to recognize that gladness and sadness are never separate, that joy and sorrow really belong together, and that mourning and dancing are part of the same movement. That is why Jesus calls us to be grateful for every moment we have lived and to claim our unique journey as God’s way to mold our hearts to greater conformity with God’s own.",
       "date": "September 29, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -70,30 +94,6 @@
       "title": "Connected with God",
       "body": "This is the mystery of the Christian life. It is not that God came to take our burden away or to take our cross away or to take our agony away. No. God came to invite us to connect our burden with God’s burden, to connect our suffering with God’s suffering, to connect our pain to God’s pain.",
       "date": "September 26, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "The Suffering of the World",
-      "body": "How then do we deal with the flood of problems we now know but would prefer not to know? The answer is simple, but difficult. We have to discover the suffering of the world in the heart of Jesus. There we can face it and stay alive. Apart from Jesus, the agonies of our world make us run away and hide. But when we are connected with Jesus we can come to the recognition that all that we see – though painful – draws us always to a more intimate communion with God.",
-      "date": "September 25, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "Send Me",
-      "body": "Each of us has a mission in life. Jesus prays to his Father for his followers, saying, “As you have sent me into the world, so I have sent them into the world” (John 17:18 NRSV). We seldom fully realize that we are sent to fulfill God-given tasks. We act as if we have to choose how, where, and with whom to live. We act as if we were simply dropped down in creation and have to decide how to entertain ourselves until we die. But we were sent into the world by God, just as Jesus was. Once we start living our lives with that conviction, we will soon know what we were sent to do.",
-      "date": "September 24, 2026"
     },
     {
       "src": "raiati",
