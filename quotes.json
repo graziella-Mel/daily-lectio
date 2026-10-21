@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T09:47:05.303Z",
+  "updatedAt": "2026-10-21T09:48:18.129Z",
   "counts": {
     "nouwen": 8,
     "raiati": 2
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Open to the Great Mystery",
-      "body": "Please, Lord, join me on the road, enter into my closed room, and take my foolishness away. Open my mind and heart to the great mystery of your active presence in my life, and give me the courage to help others discover your presence in their lives. Amen.",
-      "date": "October 19, 2026"
+      "title": "Before Birth and After Death",
+      "body": "I am a human being who was loved by God before I was born and whom God will love after I die. This brief lifetime is my opportunity to receive love, deepen love, grow in love, and give love. When I die love continues to be active, and from full communion with God I am present by love to those I leave behind.",
+      "date": "October 21, 2026"
     },
     {
       "src": "raiati",
@@ -19,15 +19,27 @@
     },
     {
       "src": "nouwen",
-      "title": "Our Suffering God",
-      "body": "God’s compassion for all human suffering is exactly what becomes visible on the cross. What this means is that we are called to see God’s suffering in the people. Every time we see someone in pain and we wonder how that person is going to live through it, know that God suffered that pain and is suffering that pain with that person. In a way, the whole of history is the showing of the depth of God’s suffering. From a Christian perspective, history is the unfolding of the intensity and immensity of God’s suffering, but also of God’s resurrection, because in the midst of all the suffering, you can see signs of hope again and again and again.",
-      "date": "October 18, 2026"
+      "title": "Of Peace and Reconciliation",
+      "body": "The experience of peace and reconciliation comes when people are very honest and compassionate with one another, when they are vulnerable and open about their mistakes and weaknesses. The seed that falls into broken ground bears much fruit. So perhaps it is wise to begin to shift our thinking. We want to move away from emulating successfulness and begin to dream about a life of fruitfulness.",
+      "date": "October 20, 2026"
     },
     {
       "src": "raiati",
       "title": "What can I do?",
       "body": "Please refer to the [Error 526](https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-526/) article:",
       "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Open to the Great Mystery",
+      "body": "Please, Lord, join me on the road, enter into my closed room, and take my foolishness away. Open my mind and heart to the great mystery of your active presence in my life, and give me the courage to help others discover your presence in their lives. Amen.",
+      "date": "October 19, 2026"
+    },
+    {
+      "src": "nouwen",
+      "title": "Our Suffering God",
+      "body": "God’s compassion for all human suffering is exactly what becomes visible on the cross. What this means is that we are called to see God’s suffering in the people. Every time we see someone in pain and we wonder how that person is going to live through it, know that God suffered that pain and is suffering that pain with that person. In a way, the whole of history is the showing of the depth of God’s suffering. From a Christian perspective, history is the unfolding of the intensity and immensity of God’s suffering, but also of God’s resurrection, because in the midst of all the suffering, you can see signs of hope again and again and again.",
+      "date": "October 18, 2026"
     },
     {
       "src": "nouwen",
@@ -52,18 +64,6 @@
       "title": "Sent By the Community",
       "body": "How do we concretely move from head to heart? When I lie in my bed, not able to fall asleep because of my many words and worries; when I am preoccupied with all the things that I must do or that can go wrong; when I can’t take my mind off my concern for a needy or dying friend – what am I supposed to do? Pray? Fine, but how do I do this?",
       "date": "October 14, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Incarnational Living",
-      "body": "Confession and forgiveness are precisely the disciplines by which spiritualization and carnality can be avoided and true incarnation lived. Through confession, the dark powers are taken out of their carnal isolation, brought into the light, and made visible to the community. Through forgiveness, they are disarmed and dispelled and a new integration between body and spirit is made possible.",
-      "date": "October 13, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "The Saving Lord of History",
-      "body": "Why has the world become such a heavy burden? We can’t simply blame the media. I suspect that while we become more informed about the world, we become less transformed by the living Christ. The strategy of the power of evil is to make us think of life as a huge stack of very complicated issues, too many to respond to, too complex to understand, and too frustrating to deal with. The more entangled we become in issues the harder it is to recognize Jesus as the saving Lord of history.",
-      "date": "October 12, 2026"
     }
   ]
 }
