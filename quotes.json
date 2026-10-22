@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T09:48:18.129Z",
+  "updatedAt": "2026-10-22T09:48:59.679Z",
   "counts": {
     "nouwen": 8,
     "raiati": 2
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Before Birth and After Death",
-      "body": "I am a human being who was loved by God before I was born and whom God will love after I die. This brief lifetime is my opportunity to receive love, deepen love, grow in love, and give love. When I die love continues to be active, and from full communion with God I am present by love to those I leave behind.",
-      "date": "October 21, 2026"
+      "title": "Return from Fear to Love",
+      "body": "The challenge is to let go of fear and claim the deeper truth of who I am. When you forget your true identity as a beloved child of God, you lose your way in life. You become scared and start doing things not freely, but because of fear. But when you make space for God in your life and begin to listen to God’s loving voice, you suddenly start to realize perfect love. You can claim it, and you can gradually let go of your fear. The fear may come back tomorrow and you will have to struggle, and you can again return from fear to love. Every time you feel afraid, you can open yourself to God’s presence, hear God’s voice again, and be brought back to perfect love that casts out fear and brings in greater freedom.",
+      "date": "October 22, 2026"
     },
     {
       "src": "raiati",
@@ -19,15 +19,21 @@
     },
     {
       "src": "nouwen",
-      "title": "Of Peace and Reconciliation",
-      "body": "The experience of peace and reconciliation comes when people are very honest and compassionate with one another, when they are vulnerable and open about their mistakes and weaknesses. The seed that falls into broken ground bears much fruit. So perhaps it is wise to begin to shift our thinking. We want to move away from emulating successfulness and begin to dream about a life of fruitfulness.",
-      "date": "October 20, 2026"
+      "title": "Leaping Toward Life",
+      "body": "Joy is that ongoing movement out of the places of death, out of the places where things remain the same and are not moving. Everything in life changes. Where we see life we see change. And as soon as things stop changing, death appears. We become rigid, stiff, dead. It is very important for us to realize that joy is precisely that leaping toward life and moving away from the places that are the same. Joy is always about an experience of life as new.",
+      "date": "October 21, 2026"
     },
     {
       "src": "raiati",
       "title": "What can I do?",
       "body": "Please refer to the [Error 526](https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-526/) article:",
       "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Of Peace and Reconciliation",
+      "body": "The experience of peace and reconciliation comes when people are very honest and compassionate with one another, when they are vulnerable and open about their mistakes and weaknesses. The seed that falls into broken ground bears much fruit. So perhaps it is wise to begin to shift our thinking. We want to move away from emulating successfulness and begin to dream about a life of fruitfulness.",
+      "date": "October 20, 2026"
     },
     {
       "src": "nouwen",
@@ -58,12 +64,6 @@
       "title": "When God Intervenes",
       "body": "If you claim nothing as your own, including your own life, you can expose the illusion of control and the false basis of war and violence by refusing any compromise with evil. Thus the self-emptied person is the true revolutionary in the world. How might we stand aside from all our demands and desires in this age of consumerism and militarism and seek peace within – peace for our immediate community and peace for the world?",
       "date": "October 15, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Sent By the Community",
-      "body": "How do we concretely move from head to heart? When I lie in my bed, not able to fall asleep because of my many words and worries; when I am preoccupied with all the things that I must do or that can go wrong; when I can’t take my mind off my concern for a needy or dying friend – what am I supposed to do? Pray? Fine, but how do I do this?",
-      "date": "October 14, 2026"
     }
   ]
 }
