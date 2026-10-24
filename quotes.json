@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T09:43:22.441Z",
+  "updatedAt": "2026-10-24T09:16:51.109Z",
   "counts": {
     "nouwen": 8,
     "raiati": 2
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Return from Fear to Love",
-      "body": "The challenge is to let go of fear and claim the deeper truth of who I am. When you forget your true identity as a beloved child of God, you lose your way in life. You become scared and start doing things not freely, but because of fear. But when you make space for God in your life and begin to listen to God’s loving voice, you suddenly start to realize perfect love. You can claim it, and you can gradually let go of your fear. The fear may come back tomorrow and you will have to struggle, and you can again return from fear to love. Every time you feel afraid, you can open yourself to God’s presence, hear God’s voice again, and be brought back to perfect love that casts out fear and brings in greater freedom.",
-      "date": "October 22, 2026"
+      "title": "Send Me",
+      "body": "Each of us has a mission in life. Jesus prays to his Father for his followers, saying, “As you have sent me into the world, so I have sent them into the world” (John 17:18 NRSV). We seldom fully realize that we are sent to fulfill God-given tasks. We act as if we have to choose how, where, and with whom to live. We act as if we were simply dropped down in creation and have to decide how to entertain ourselves until we die. But we were sent into the world by God, just as Jesus was. Once we start living our lives with that conviction, we will soon know what we were sent to do.",
+      "date": "October 24, 2026"
     },
     {
       "src": "raiati",
@@ -19,15 +19,27 @@
     },
     {
       "src": "nouwen",
-      "title": "Leaping Toward Life",
-      "body": "Joy is that ongoing movement out of the places of death, out of the places where things remain the same and are not moving. Everything in life changes. Where we see life we see change. And as soon as things stop changing, death appears. We become rigid, stiff, dead. It is very important for us to realize that joy is precisely that leaping toward life and moving away from the places that are the same. Joy is always about an experience of life as new.",
-      "date": "October 21, 2026"
+      "title": "Regular Spiritual Practice",
+      "body": "Yes, it is possible _not_ to belong to the dark powers, _not_ to build our dwelling place among them, but to choose the house of love as our true home. This choice is made not just once and for all but by intentionally living a spiritual life – praying at all times, practicing _lectio divina_, and breathing God’s breath each moment. These spiritual practices and other disciplines remind us that we are the Beloved. The classical disciplines are hospitality, spiritual friendship, contemplative prayer, community forgiveness, and the celebration of life. Through regular spiritual practice we gradually move from the house of fear to the house of love.",
+      "date": "October 23, 2026"
     },
     {
       "src": "raiati",
       "title": "What can I do?",
       "body": "Please refer to the [Error 526](https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-526/) article:",
       "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Return from Fear to Love",
+      "body": "The challenge is to let go of fear and claim the deeper truth of who I am. When you forget your true identity as a beloved child of God, you lose your way in life. You become scared and start doing things not freely, but because of fear. But when you make space for God in your life and begin to listen to God’s loving voice, you suddenly start to realize perfect love. You can claim it, and you can gradually let go of your fear. The fear may come back tomorrow and you will have to struggle, and you can again return from fear to love. Every time you feel afraid, you can open yourself to God’s presence, hear God’s voice again, and be brought back to perfect love that casts out fear and brings in greater freedom.",
+      "date": "October 22, 2026"
+    },
+    {
+      "src": "nouwen",
+      "title": "Leaping Toward Life",
+      "body": "Joy is that ongoing movement out of the places of death, out of the places where things remain the same and are not moving. Everything in life changes. Where we see life we see change. And as soon as things stop changing, death appears. We become rigid, stiff, dead. It is very important for us to realize that joy is precisely that leaping toward life and moving away from the places that are the same. Joy is always about an experience of life as new.",
+      "date": "October 21, 2026"
     },
     {
       "src": "nouwen",
@@ -52,18 +64,6 @@
       "title": "Infinite Mercy",
       "body": "To relearn what praying for the world means, we have to realize that the burden of the world has become a light burden because of Jesus. When God saw how humanity’s sin made the world an unbearable burden – a burden of painful birth and hard labor, competition and rivalry, anger and resentment, violence and war, sickness and death – God showed us infinite mercy in sending Jesus, not to take our burden away but to transform it.",
       "date": "October 17, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "Unbearable Burdens",
-      "body": "Life becomes an unbearable burden whenever we lose touch with the presence of a loving Savior and see only hunger to be alleviated, injustice to be addressed, violence to overcome, wars to be stopped, and loneliness to be removed. All these are _critical_ issues and Christians must try to solve them; however, when our concern no longer flows from our personal encounter with the living Christ, we feel an oppressive weight.",
-      "date": "October 16, 2026"
-    },
-    {
-      "src": "nouwen",
-      "title": "When God Intervenes",
-      "body": "If you claim nothing as your own, including your own life, you can expose the illusion of control and the false basis of war and violence by refusing any compromise with evil. Thus the self-emptied person is the true revolutionary in the world. How might we stand aside from all our demands and desires in this age of consumerism and militarism and seek peace within – peace for our immediate community and peace for the world?",
-      "date": "October 15, 2026"
     }
   ]
 }
