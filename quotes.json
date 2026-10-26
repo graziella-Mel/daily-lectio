@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-10-25T09:33:00.904Z",
+  "updatedAt": "2026-10-26T10:44:17.895Z",
   "counts": {
     "nouwen": 8,
-    "raiati": 2
+    "raiati": 8
   },
   "quotes": [
+    {
+      "src": "nouwen",
+      "title": "Toward the Real",
+      "body": "The mystical life is the life by which I grow toward what is real and away from illusion, the life that grows into true relationship. The future of Christianity in the West depends on our ability to live mystically, that is, in touch with that core reality that is the center of events. Without claiming this truth that everything is _in God_, Christianity loses its transforming power and becomes something like “behaving decently,” a series of rights and wrongs.",
+      "date": "October 26, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[السلوك الفصحيّ",
+      "body": "يوم الفصح ظـهر السيد للتلاميذ مجتمعين “وقال لهم: السلام لكم. ولما قال هـذا أراهم يديه وجنبه فـفرح التلاميذ حين أبـصروا الرب”. وكان توما غائـبًا فلم يؤمن. ولكن في الأحـد اللاحـق للـقـيامة ظـهـر السيد لهم ثانية وتوما معهم. وتكـرر المـشهد نفسه عند دخول الرب: السلام لكم، والرب مشـرق بالـنور الفـصحي وآثار آلامه عليه.",
+      "date": "رعيتي — 4 أيار 1997"
+    },
     {
       "src": "nouwen",
       "title": "Living Fully Each Day",
@@ -13,9 +25,9 @@
     },
     {
       "src": "raiati",
-      "title": "What happened?",
-      "body": "Cloudflare cannot validate the SSL certificate on the origin web server. The certificate may be expired, self-signed, or may not cover the requested domain name.",
-      "date": "رعيتي — المطران جورج خضر"
+      "title": "[نشوء الزواج",
+      "body": "الزواج عهد مؤسس على الطبيعة. ينشأ بالحب الذي يجمع رجلًا وامرأة. ولكن هناك مجتمعات قديمة لا تطلب الحب شرطًا ولكن لا بدّ له ان يتكوّن قبل الزواج أو بعده. هناك جاذب يكشفه القول الإلهي منذ التكوين: «ليس جيدًا أن يكون الإنسان وحده على الأرض. فلنصنعنَّ له مُعينًا على شبهه». فاللقاء بين شخصين من الجنسين يضع مبدئيًّا حدًّا لهذه الوحدة.",
+      "date": "رعيتي — 9 آب 1992"
     },
     {
       "src": "nouwen",
@@ -25,8 +37,8 @@
     },
     {
       "src": "raiati",
-      "title": "What can I do?",
-      "body": "Please refer to the [Error 526](https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-526/) article:",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -36,10 +48,22 @@
       "date": "October 23, 2026"
     },
     {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
       "src": "nouwen",
       "title": "Return from Fear to Love",
       "body": "The challenge is to let go of fear and claim the deeper truth of who I am. When you forget your true identity as a beloved child of God, you lose your way in life. You become scared and start doing things not freely, but because of fear. But when you make space for God in your life and begin to listen to God’s loving voice, you suddenly start to realize perfect love. You can claim it, and you can gradually let go of your fear. The fear may come back tomorrow and you will have to struggle, and you can again return from fear to love. Every time you feel afraid, you can open yourself to God’s presence, hear God’s voice again, and be brought back to perfect love that casts out fear and brings in greater freedom.",
       "date": "October 22, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -48,10 +72,22 @@
       "date": "October 21, 2026"
     },
     {
+      "src": "raiati",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
       "src": "nouwen",
       "title": "Of Peace and Reconciliation",
       "body": "The experience of peace and reconciliation comes when people are very honest and compassionate with one another, when they are vulnerable and open about their mistakes and weaknesses. The seed that falls into broken ground bears much fruit. So perhaps it is wise to begin to shift our thinking. We want to move away from emulating successfulness and begin to dream about a life of fruitfulness.",
       "date": "October 20, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
+      "date": "رعيتي — المطران جورج خضر"
     },
     {
       "src": "nouwen",
@@ -60,10 +96,10 @@
       "date": "October 19, 2026"
     },
     {
-      "src": "nouwen",
-      "title": "Our Suffering God",
-      "body": "God’s compassion for all human suffering is exactly what becomes visible on the cross. What this means is that we are called to see God’s suffering in the people. Every time we see someone in pain and we wonder how that person is going to live through it, know that God suffered that pain and is suffering that pain with that person. In a way, the whole of history is the showing of the depth of God’s suffering. From a Christian perspective, history is the unfolding of the intensity and immensity of God’s suffering, but also of God’s resurrection, because in the midst of all the suffering, you can see signs of hope again and again and again.",
-      "date": "October 18, 2026"
+      "src": "raiati",
+      "title": "[وحدة العائلة",
+      "body": "التفاتة الكل الى الكل، هذه هي الوحدة. ولكن يلتفت الى الآخرين من التفت الله اليه، من عرف نفسه ابنا لله حبيبا. ينشئ الآخر بالرعاية، بدوام اللطف لأنه ذاق لطف الله. ومن خلال رعايته لنا، نعرف الله راعيا. يجب أن تذوق المرأة أن زوجها مُحبّ لأن هذا يُحييها، ولكن الأهم من كل ذلك أن تكتشف أن محبته هذه آتية من إيمانه وان لها استمراره، فتعرف من خلال زوجها وجه الله.",
+      "date": "رعيتي — المطران جورج خضر"
     }
   ]
 }
