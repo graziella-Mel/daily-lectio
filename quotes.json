@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T10:57:14.115Z",
+  "updatedAt": "2026-10-29T11:16:54.099Z",
   "counts": {
     "nouwen": 8,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Claiming Joy",
-      "body": "The great challenge is to claim the joy that Jesus offers us. Jesus is God of the living. Jesus came to bring life, and life in abundance. Jesus came to break the chain of wounds and needs and to overcome death. He came to give life, and life is joy. “I want my joy to be yours and for your joy to be complete” (John 15:11). Jesus says, “I came to overcome death and to give you life that does not end.”",
-      "date": "October 28, 2026"
+      "title": "Open Hearts",
+      "body": "When I relate to my past with remorse, shame, or guilt, the danger is that I will harden my heart and be unable to discern the divine presence within and without. When my heart is hardened, it is closed, unavailable, and cold. A hardened heart is a heart in which remorse has turned into morbid introspection, shame into low self-esteem, and guilt into defensiveness. When I keep thinking about myself and my motivations, constantly comparing myself with others and trying to defend my behavior, I am becoming more and more self-centered, and the divine love diminishes in me…. Awakening to the presence of Christ can heal the wounds of my memory. Opening our hearts to the divine presence in the present moment, thus transforming our emotions and healing our memories, is a great challenge of the spiritual life. The memory of the image of God in the soul can turn my stone heart into a heart of flesh, making it flexible, receptive, open, and free.",
+      "date": "October 29, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Making True What is True",
-      "body": "Spiritual discipline involves following the Lord, in the sense of becoming who he says we are, making true what is true, that is, claiming our connected relationship with God and one another and living it out. This is something that is foolish in the eyes of the world, since the world makes us believe that we need all kinds of things that we really don’t.",
-      "date": "October 27, 2026"
+      "title": "Claiming Joy",
+      "body": "The great challenge is to claim the joy that Jesus offers us. Jesus is God of the living. Jesus came to bring life, and life in abundance. Jesus came to break the chain of wounds and needs and to overcome death. He came to give life, and life is joy. “I want my joy to be yours and for your joy to be complete” (John 15:11). Jesus says, “I came to overcome death and to give you life that does not end.”",
+      "date": "October 28, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,26 @@
     },
     {
       "src": "nouwen",
+      "title": "Making True What is True",
+      "body": "Spiritual discipline involves following the Lord, in the sense of becoming who he says we are, making true what is true, that is, claiming our connected relationship with God and one another and living it out. This is something that is foolish in the eyes of the world, since the world makes us believe that we need all kinds of things that we really don’t.",
+      "date": "October 27, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Toward the Real",
       "body": "The mystical life is the life by which I grow toward what is real and away from illusion, the life that grows into true relationship. The future of Christianity in the West depends on our ability to live mystically, that is, in touch with that core reality that is the center of events. Without claiming this truth that everything is _in God_, Christianity loses its transforming power and becomes something like “behaving decently,” a series of rights and wrongs.",
       "date": "October 26, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +61,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -82,18 +94,6 @@
       "title": "Return from Fear to Love",
       "body": "The challenge is to let go of fear and claim the deeper truth of who I am. When you forget your true identity as a beloved child of God, you lose your way in life. You become scared and start doing things not freely, but because of fear. But when you make space for God in your life and begin to listen to God’s loving voice, you suddenly start to realize perfect love. You can claim it, and you can gradually let go of your fear. The fear may come back tomorrow and you will have to struggle, and you can again return from fear to love. Every time you feel afraid, you can open yourself to God’s presence, hear God’s voice again, and be brought back to perfect love that casts out fear and brings in greater freedom.",
       "date": "October 22, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "Leaping Toward Life",
-      "body": "Joy is that ongoing movement out of the places of death, out of the places where things remain the same and are not moving. Everything in life changes. Where we see life we see change. And as soon as things stop changing, death appears. We become rigid, stiff, dead. It is very important for us to realize that joy is precisely that leaping toward life and moving away from the places that are the same. Joy is always about an experience of life as new.",
-      "date": "October 21, 2026"
     },
     {
       "src": "raiati",
