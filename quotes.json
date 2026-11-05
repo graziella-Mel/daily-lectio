@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T12:45:12.208Z",
+  "updatedAt": "2026-11-05T12:54:49.900Z",
   "counts": {
     "nouwen": 8,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Seeing God",
-      "body": "The Spirit of God in us recognizes God in the world. The eyes and ears by which we see God in others are in fact spiritual sensitivities that allow us to receive our neighbors as messengers of God. Thus, to go to the poor is to go to the Lord.",
-      "date": "November 4, 2026"
+      "title": "Moving From Death Toward Life",
+      "body": "Jesus is able to move around in the most difficult situations, not only physically and emotionally, but spiritually. He can explore new ways of loving because he is rooted in God. He breaks right through routines when they become rigid and no longer serve God. He criticizes the Pharisees who were stuck in routines.",
+      "date": "November 5, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "New Life and Hope",
-      "body": "The knowledge of Jesus’ heart is a knowledge of the heart. And when we live in the world with that knowledge, we cannot do other than bring healing, reconciliation, new life and hope wherever we go. The desire to be relevant and successful will gradually disappear, and our only desire will be to say with our whole being to our brothers and sisters of the human race, “You are loved. There is no reason to be afraid. In love God created your inmost self and knit you together in your mother’s womb” (see Psalm 139:13).",
-      "date": "November 3, 2026"
+      "title": "Seeing God",
+      "body": "The Spirit of God in us recognizes God in the world. The eyes and ears by which we see God in others are in fact spiritual sensitivities that allow us to receive our neighbors as messengers of God. Thus, to go to the poor is to go to the Lord.",
+      "date": "November 4, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,26 @@
     },
     {
       "src": "nouwen",
+      "title": "New Life and Hope",
+      "body": "The knowledge of Jesus’ heart is a knowledge of the heart. And when we live in the world with that knowledge, we cannot do other than bring healing, reconciliation, new life and hope wherever we go. The desire to be relevant and successful will gradually disappear, and our only desire will be to say with our whole being to our brothers and sisters of the human race, “You are loved. There is no reason to be afraid. In love God created your inmost self and knit you together in your mother’s womb” (see Psalm 139:13).",
+      "date": "November 3, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Love is Stronger than Death",
       "body": "The seeds of death are at work in us, but love is stronger than death. Your death and mine is our final passage, our exodus to the full realization of our identity as God’s beloved children and to full communion with the God of love. Jesus walked the path ahead of us and invites us to choose the same path during our lifetime. He calls to us, “Follow Me.” He assures us. “Do not be afraid.” This is our faith.",
       "date": "November 2, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +61,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -82,18 +94,6 @@
       "title": "Open Hearts",
       "body": "When I relate to my past with remorse, shame, or guilt, the danger is that I will harden my heart and be unable to discern the divine presence within and without. When my heart is hardened, it is closed, unavailable, and cold. A hardened heart is a heart in which remorse has turned into morbid introspection, shame into low self-esteem, and guilt into defensiveness. When I keep thinking about myself and my motivations, constantly comparing myself with others and trying to defend my behavior, I am becoming more and more self-centered, and the divine love diminishes in me…. Awakening to the presence of Christ can heal the wounds of my memory. Opening our hearts to the divine presence in the present moment, thus transforming our emotions and healing our memories, is a great challenge of the spiritual life. The memory of the image of God in the soul can turn my stone heart into a heart of flesh, making it flexible, receptive, open, and free.",
       "date": "October 29, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "Claiming Joy",
-      "body": "The great challenge is to claim the joy that Jesus offers us. Jesus is God of the living. Jesus came to bring life, and life in abundance. Jesus came to break the chain of wounds and needs and to overcome death. He came to give life, and life is joy. “I want my joy to be yours and for your joy to be complete” (John 15:11). Jesus says, “I came to overcome death and to give you life that does not end.”",
-      "date": "October 28, 2026"
     },
     {
       "src": "raiati",
