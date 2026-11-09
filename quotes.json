@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T11:40:19.203Z",
+  "updatedAt": "2026-11-09T13:35:09.642Z",
   "counts": {
     "nouwen": 8,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "The Vocation of Peace-Making",
-      "body": "What we are called to is a _life_ of peacemaking in which all that we do, say, think, or dream is part of our concern to bring peace to this world. Just as Jesus’ command to love one another cannot be seen as a part-time obligation, but requires our total dedication, so too Jesus’ call to peacemaking is unconditional, unlimited, and uncompromising. None of us is excused! It isn’t limited to specialists who are competent in military matters, or to radicals who have dedicated themselves to leafletting, demonstrating, and civil disobedience. No specialist or radical can diminish the undeniable vocation of each Christian to be a peacemaker. Peacemaking is a full-time vocation that includes each member of God’s people.",
-      "date": "November 8, 2026"
+      "title": "At Home in Your Body",
+      "body": "Human embodiment does present an earthly challenge to our restless bodies and souls. I confess that I have never felt completely at home in my body, and this is a scary thing for me to talk about. As a Christian and a celibate, I sometimes get resentful or judgmental when I encounter others who do not seem to share my convictions or value my commitments. I know that I need to be more comfortable in my own body in order to celebrate fully the way other people may be in theirs. Affirming the goodness and beauty of the body, mine and others, I have come to believe, is a spiritual activity. To be intimate with God I need to come home to my body, where God is pleased to dwell.",
+      "date": "November 9, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "A Fearless Space",
-      "body": "God alone is free enough from wounds to offer us a fearless space. In and through God we can be faithful to each other: in friendship, marriage, and community. This intimate bond with God, constantly nurtured by prayer, offers us a true home. We can live together in this home without asking for much more than a willingness to constantly confess our weaknesses to each other. We can only stay together when the “staying power” comes from the One who comes to stay. When we know ourselves to be deeply anchored in that divine covenant, we can build homes together. Only then can our limited and broken love reflect the unlimited and unbroken love of God.",
-      "date": "November 7, 2026"
+      "title": "The Vocation of Peace-Making",
+      "body": "What we are called to is a _life_ of peacemaking in which all that we do, say, think, or dream is part of our concern to bring peace to this world. Just as Jesus’ command to love one another cannot be seen as a part-time obligation, but requires our total dedication, so too Jesus’ call to peacemaking is unconditional, unlimited, and uncompromising. None of us is excused! It isn’t limited to specialists who are competent in military matters, or to radicals who have dedicated themselves to leafletting, demonstrating, and civil disobedience. No specialist or radical can diminish the undeniable vocation of each Christian to be a peacemaker. Peacemaking is a full-time vocation that includes each member of God’s people.",
+      "date": "November 8, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,26 @@
     },
     {
       "src": "nouwen",
+      "title": "A Fearless Space",
+      "body": "God alone is free enough from wounds to offer us a fearless space. In and through God we can be faithful to each other: in friendship, marriage, and community. This intimate bond with God, constantly nurtured by prayer, offers us a true home. We can live together in this home without asking for much more than a willingness to constantly confess our weaknesses to each other. We can only stay together when the “staying power” comes from the One who comes to stay. When we know ourselves to be deeply anchored in that divine covenant, we can build homes together. Only then can our limited and broken love reflect the unlimited and unbroken love of God.",
+      "date": "November 7, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "A Liberating and Creative Presence",
       "body": "Our true self is in God. As we are told again and again in John’s Gospel, we can love others because God first loves us. The spiritual life is coming into touch with that _first_ love, which says that we belong to God. As Jesus said, “Just as I don’t belong to the world, neither do you” – but you, rather, belong to the Lover who gives you to yourself. We can be a liberating and creative presence in the world only if we don’t belong to the world, if we don’t depend on the world for our real identity. This is the real paradox of ministry: that we can minister to the world only if we don’t belong to it.",
       "date": "November 6, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +61,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -82,18 +94,6 @@
       "title": "Love is Stronger than Death",
       "body": "The seeds of death are at work in us, but love is stronger than death. Your death and mine is our final passage, our exodus to the full realization of our identity as God’s beloved children and to full communion with the God of love. Jesus walked the path ahead of us and invites us to choose the same path during our lifetime. He calls to us, “Follow Me.” He assures us. “Do not be afraid.” This is our faith.",
       "date": "November 2, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "Our True Identity",
-      "body": "Our identity is in the One who loves us. This saves us from our false self, which is anxiously dependent on others’ opinions and leads us to sell our souls to the world and to the Evil One who rules the world. The spiritual task is to say that a self defined by other is illusion.",
-      "date": "November 1, 2026"
     },
     {
       "src": "raiati",
