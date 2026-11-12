@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T12:24:20.647Z",
+  "updatedAt": "2026-11-12T13:30:31.757Z",
   "counts": {
     "nouwen": 8,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Letting God Transform Our Hurt",
-      "body": "Look at the wonderful exuberant flowers painted by the famous Dutch artist Vincent van Gogh. What grief, what sadness, what melancholy he experienced in his difficult life! Yet what beauty, what ecstasy!... Our glory is hidden in our pain, if we allow God to bring the gift of himself in our experience of it. If we turn to God, not rebelling against our hurt, we let God transform it into greater good. We let others join us and discover it with us.",
-      "date": "November 11, 2026"
+      "title": "All is Grace",
+      "body": "All is grace. Light and water, shelter and food, work and free time, children, parents, and grandparents, birth and death – it is all given to us. Our very first vocation is to receive these gifts and say thanks.",
+      "date": "November 12, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Already Free",
-      "body": "Contemplative prayer deepens in us the knowledge that we are already free, that we have already found a place to dwell, that we already belong to God, even though everything and everyone around us keeps suggesting the opposite….",
-      "date": "November 10, 2026"
+      "title": "Letting God Transform Our Hurt",
+      "body": "Look at the wonderful exuberant flowers painted by the famous Dutch artist Vincent van Gogh. What grief, what sadness, what melancholy he experienced in his difficult life! Yet what beauty, what ecstasy!... Our glory is hidden in our pain, if we allow God to bring the gift of himself in our experience of it. If we turn to God, not rebelling against our hurt, we let God transform it into greater good. We let others join us and discover it with us.",
+      "date": "November 11, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,26 @@
     },
     {
       "src": "nouwen",
+      "title": "Already Free",
+      "body": "Contemplative prayer deepens in us the knowledge that we are already free, that we have already found a place to dwell, that we already belong to God, even though everything and everyone around us keeps suggesting the opposite….",
+      "date": "November 10, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "At Home in Your Body",
       "body": "Human embodiment does present an earthly challenge to our restless bodies and souls. I confess that I have never felt completely at home in my body, and this is a scary thing for me to talk about. As a Christian and a celibate, I sometimes get resentful or judgmental when I encounter others who do not seem to share my convictions or value my commitments. I know that I need to be more comfortable in my own body in order to celebrate fully the way other people may be in theirs. Affirming the goodness and beauty of the body, mine and others, I have come to believe, is a spiritual activity. To be intimate with God I need to come home to my body, where God is pleased to dwell.",
       "date": "November 9, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +61,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -82,18 +94,6 @@
       "title": "Moving From Death Toward Life",
       "body": "Jesus is able to move around in the most difficult situations, not only physically and emotionally, but spiritually. He can explore new ways of loving because he is rooted in God. He breaks right through routines when they become rigid and no longer serve God. He criticizes the Pharisees who were stuck in routines.",
       "date": "November 5, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "Seeing God",
-      "body": "The Spirit of God in us recognizes God in the world. The eyes and ears by which we see God in others are in fact spiritual sensitivities that allow us to receive our neighbors as messengers of God. Thus, to go to the poor is to go to the Lord.",
-      "date": "November 4, 2026"
     },
     {
       "src": "raiati",
