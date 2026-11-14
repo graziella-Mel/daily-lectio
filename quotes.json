@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T12:50:33.273Z",
+  "updatedAt": "2026-11-14T11:55:11.102Z",
   "counts": {
     "nouwen": 8,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "All is Grace",
-      "body": "All is grace. Light and water, shelter and food, work and free time, children, parents, and grandparents, birth and death – it is all given to us. Our very first vocation is to receive these gifts and say thanks.",
-      "date": "November 12, 2026"
+      "title": "To Pray is to Live",
+      "body": "Maybe someone will say to you, “You have to forgive yourself.” But that isn’t possible. What is possible is to open your hands without fear, so that the One who loves you can blow your sins away. Then the coins you considered indispensable for your life prove to be little more than light dust that a soft breeze will whirl away, leaving only a grin or a chuckle behind. Then you feel a bit of new freedom and praying becomes a joy, a spontaneous reaction to the world and the people around you. Praying then becomes effortless, inspired and lively, or peaceful and quiet. When you recognize the festive and the still moments as moments of prayer, then you gradually realize that to pray is to live.",
+      "date": "November 14, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Letting God Transform Our Hurt",
-      "body": "Look at the wonderful exuberant flowers painted by the famous Dutch artist Vincent van Gogh. What grief, what sadness, what melancholy he experienced in his difficult life! Yet what beauty, what ecstasy!... Our glory is hidden in our pain, if we allow God to bring the gift of himself in our experience of it. If we turn to God, not rebelling against our hurt, we let God transform it into greater good. We let others join us and discover it with us.",
-      "date": "November 11, 2026"
+      "title": "Joy Remains",
+      "body": "What we have to start sensing is that in the spiritual life, joy is embracing sorrow and happiness, pain and pleasure. It is deeper, fuller. It is more. It is something that remains with us. It is something of God that is very profound. It is something we can experience even when we are in touch with very painful things in our lives. If there is anything the church wants to teach us it is that the joy of God can be with us always – in moments of sickness, in moments of health, in moments of success, in moments of failure, in moments of birth, in moments of death. The joy of God is never going to leave us.",
+      "date": "November 13, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,38 @@
     },
     {
       "src": "nouwen",
+      "title": "All is Grace",
+      "body": "All is grace. Light and water, shelter and food, work and free time, children, parents, and grandparents, birth and death – it is all given to us. Our very first vocation is to receive these gifts and say thanks.",
+      "date": "November 12, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Letting God Transform Our Hurt",
+      "body": "Look at the wonderful exuberant flowers painted by the famous Dutch artist Vincent van Gogh. What grief, what sadness, what melancholy he experienced in his difficult life! Yet what beauty, what ecstasy!... Our glory is hidden in our pain, if we allow God to bring the gift of himself in our experience of it. If we turn to God, not rebelling against our hurt, we let God transform it into greater good. We let others join us and discover it with us.",
+      "date": "November 11, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Already Free",
       "body": "Contemplative prayer deepens in us the knowledge that we are already free, that we have already found a place to dwell, that we already belong to God, even though everything and everyone around us keeps suggesting the opposite….",
       "date": "November 10, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -70,30 +94,6 @@
       "title": "A Fearless Space",
       "body": "God alone is free enough from wounds to offer us a fearless space. In and through God we can be faithful to each other: in friendship, marriage, and community. This intimate bond with God, constantly nurtured by prayer, offers us a true home. We can live together in this home without asking for much more than a willingness to constantly confess our weaknesses to each other. We can only stay together when the “staying power” comes from the One who comes to stay. When we know ourselves to be deeply anchored in that divine covenant, we can build homes together. Only then can our limited and broken love reflect the unlimited and unbroken love of God.",
       "date": "November 7, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "A Liberating and Creative Presence",
-      "body": "Our true self is in God. As we are told again and again in John’s Gospel, we can love others because God first loves us. The spiritual life is coming into touch with that _first_ love, which says that we belong to God. As Jesus said, “Just as I don’t belong to the world, neither do you” – but you, rather, belong to the Lover who gives you to yourself. We can be a liberating and creative presence in the world only if we don’t belong to the world, if we don’t depend on the world for our real identity. This is the real paradox of ministry: that we can minister to the world only if we don’t belong to it.",
-      "date": "November 6, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "Moving From Death Toward Life",
-      "body": "Jesus is able to move around in the most difficult situations, not only physically and emotionally, but spiritually. He can explore new ways of loving because he is rooted in God. He breaks right through routines when they become rigid and no longer serve God. He criticizes the Pharisees who were stuck in routines.",
-      "date": "November 5, 2026"
     },
     {
       "src": "raiati",
