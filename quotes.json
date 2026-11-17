@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T13:19:55.724Z",
+  "updatedAt": "2026-11-17T14:05:02.963Z",
   "counts": {
     "nouwen": 8,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Confession and Peacemaking",
-      "body": "Nobody can escape the agonizing losses that are part of our everyday existence – the loss of our dreams. We had thought so long of ourselves as successful, liked and deeply loved. We had hoped for a life of generosity, service and self-sacrifice. We had planned to become forgiving, caring and always gentle people. We had a vision of ourselves as reconcilers and peacemakers. But somehow – we aren’t even sure of what happened – we lost our dreams. We became worrying, anxious people clinging to the few things we had collected and exchanging with one another news of the political, social and ecclesiastical scandals of our day. It is this loss of spirit that is often hardest to acknowledge and most difficult to confess.",
-      "date": "November 16, 2026"
+      "title": "The Power of Remembering",
+      "body": "When we “remember” God, we are touching the divine nature within our very souls. For God knows us from eternity to eternity, has loved us with an unconditional love, and has carved us on the palm of his hands. Through the spiritual practice of learning to be aware and expectant, we _remember_ God as love and ourselves as God’s beloved.",
+      "date": "November 17, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Compassion Grows a New World",
-      "body": "As disciples of Jesus, we are sent to wherever there is poverty, loneliness, suffering of any kind. We are given the courage to be with suffering people. We can trust by entering into places of pain, we will find the joy of Jesus. A new world grows out of compassion.",
-      "date": "November 15, 2026"
+      "title": "Confession and Peacemaking",
+      "body": "Nobody can escape the agonizing losses that are part of our everyday existence – the loss of our dreams. We had thought so long of ourselves as successful, liked and deeply loved. We had hoped for a life of generosity, service and self-sacrifice. We had planned to become forgiving, caring and always gentle people. We had a vision of ourselves as reconcilers and peacemakers. But somehow – we aren’t even sure of what happened – we lost our dreams. We became worrying, anxious people clinging to the few things we had collected and exchanging with one another news of the political, social and ecclesiastical scandals of our day. It is this loss of spirit that is often hardest to acknowledge and most difficult to confess.",
+      "date": "November 16, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,26 @@
     },
     {
       "src": "nouwen",
+      "title": "Compassion Grows a New World",
+      "body": "As disciples of Jesus, we are sent to wherever there is poverty, loneliness, suffering of any kind. We are given the courage to be with suffering people. We can trust by entering into places of pain, we will find the joy of Jesus. A new world grows out of compassion.",
+      "date": "November 15, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "To Pray is to Live",
       "body": "Maybe someone will say to you, “You have to forgive yourself.” But that isn’t possible. What is possible is to open your hands without fear, so that the One who loves you can blow your sins away. Then the coins you considered indispensable for your life prove to be little more than light dust that a soft breeze will whirl away, leaving only a grin or a chuckle behind. Then you feel a bit of new freedom and praying becomes a joy, a spontaneous reaction to the world and the people around you. Praying then becomes effortless, inspired and lively, or peaceful and quiet. When you recognize the festive and the still moments as moments of prayer, then you gradually realize that to pray is to live.",
       "date": "November 14, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +61,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -73,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -82,18 +94,6 @@
       "title": "Already Free",
       "body": "Contemplative prayer deepens in us the knowledge that we are already free, that we have already found a place to dwell, that we already belong to God, even though everything and everyone around us keeps suggesting the opposite….",
       "date": "November 10, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "At Home in Your Body",
-      "body": "Human embodiment does present an earthly challenge to our restless bodies and souls. I confess that I have never felt completely at home in my body, and this is a scary thing for me to talk about. As a Christian and a celibate, I sometimes get resentful or judgmental when I encounter others who do not seem to share my convictions or value my commitments. I know that I need to be more comfortable in my own body in order to celebrate fully the way other people may be in theirs. Affirming the goodness and beauty of the body, mine and others, I have come to believe, is a spiritual activity. To be intimate with God I need to come home to my body, where God is pleased to dwell.",
-      "date": "November 9, 2026"
     },
     {
       "src": "raiati",
