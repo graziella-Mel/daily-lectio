@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T13:38:35.961Z",
+  "updatedAt": "2026-11-19T14:05:45.447Z",
   "counts": {
     "nouwen": 8,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "The Power of Remembering",
-      "body": "When we “remember” God, we are touching the divine nature within our very souls. For God knows us from eternity to eternity, has loved us with an unconditional love, and has carved us on the palm of his hands. Through the spiritual practice of learning to be aware and expectant, we _remember_ God as love and ourselves as God’s beloved.",
-      "date": "November 17, 2026"
+      "title": "How to Perceive the World",
+      "body": "Spiritually we are _in_ God, _in_ the Lord, _at home_ in God. Our true identity is that we are God’s children. It is from that perspective – from God’s perspective – that we perceive the world. We are called to see the world as God sees it; that is what theology is all about. Therefore, we are continually diagnosing the illusory quality of anything outside this perspective.",
+      "date": "November 19, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Confession and Peacemaking",
-      "body": "Nobody can escape the agonizing losses that are part of our everyday existence – the loss of our dreams. We had thought so long of ourselves as successful, liked and deeply loved. We had hoped for a life of generosity, service and self-sacrifice. We had planned to become forgiving, caring and always gentle people. We had a vision of ourselves as reconcilers and peacemakers. But somehow – we aren’t even sure of what happened – we lost our dreams. We became worrying, anxious people clinging to the few things we had collected and exchanging with one another news of the political, social and ecclesiastical scandals of our day. It is this loss of spirit that is often hardest to acknowledge and most difficult to confess.",
-      "date": "November 16, 2026"
+      "title": "We Belong to God",
+      "body": "The depth of our belonging to God is revealed by Jesus. His relation with God through the Holy Spirit is one of total openness. Everything Jesus owns is a gift from the Father. He never claims anything as just his apart from God. He says that we are called to enter the same relationship with the Father that he has, doing all that he does. In sending us the Holy Spirit, he says that we will be led into a full, intimate relationship with God, so that we won’t have to be victims of the world’s spirit.",
+      "date": "November 18, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,38 @@
     },
     {
       "src": "nouwen",
+      "title": "The Power of Remembering",
+      "body": "When we “remember” God, we are touching the divine nature within our very souls. For God knows us from eternity to eternity, has loved us with an unconditional love, and has carved us on the palm of his hands. Through the spiritual practice of learning to be aware and expectant, we _remember_ God as love and ourselves as God’s beloved.",
+      "date": "November 17, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Confession and Peacemaking",
+      "body": "Nobody can escape the agonizing losses that are part of our everyday existence – the loss of our dreams. We had thought so long of ourselves as successful, liked and deeply loved. We had hoped for a life of generosity, service and self-sacrifice. We had planned to become forgiving, caring and always gentle people. We had a vision of ourselves as reconcilers and peacemakers. But somehow – we aren’t even sure of what happened – we lost our dreams. We became worrying, anxious people clinging to the few things we had collected and exchanging with one another news of the political, social and ecclesiastical scandals of our day. It is this loss of spirit that is often hardest to acknowledge and most difficult to confess.",
+      "date": "November 16, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "Compassion Grows a New World",
       "body": "As disciples of Jesus, we are sent to wherever there is poverty, loneliness, suffering of any kind. We are given the courage to be with suffering people. We can trust by entering into places of pain, we will find the joy of Jesus. A new world grows out of compassion.",
       "date": "November 15, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -70,30 +94,6 @@
       "title": "All is Grace",
       "body": "All is grace. Light and water, shelter and food, work and free time, children, parents, and grandparents, birth and death – it is all given to us. Our very first vocation is to receive these gifts and say thanks.",
       "date": "November 12, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "Letting God Transform Our Hurt",
-      "body": "Look at the wonderful exuberant flowers painted by the famous Dutch artist Vincent van Gogh. What grief, what sadness, what melancholy he experienced in his difficult life! Yet what beauty, what ecstasy!... Our glory is hidden in our pain, if we allow God to bring the gift of himself in our experience of it. If we turn to God, not rebelling against our hurt, we let God transform it into greater good. We let others join us and discover it with us.",
-      "date": "November 11, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "Already Free",
-      "body": "Contemplative prayer deepens in us the knowledge that we are already free, that we have already found a place to dwell, that we already belong to God, even though everything and everyone around us keeps suggesting the opposite….",
-      "date": "November 10, 2026"
     },
     {
       "src": "raiati",
