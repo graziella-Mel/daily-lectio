@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T13:02:25.369Z",
+  "updatedAt": "2026-11-23T15:39:15.442Z",
   "counts": {
     "nouwen": 8,
     "raiati": 8
@@ -7,9 +7,9 @@
   "quotes": [
     {
       "src": "nouwen",
-      "title": "Moving to the Mystical",
-      "body": "When we are securely rooted in personal intimacy with the source of life, it will be possible to remain flexible without being relativistic, convinced without being rigid, willing to confront without being offensive, gentle and forgiving without being soft, and true witnesses without being manipulative. For Christian leadership to be truly fruitful in the future, a movement from the moral to the mystical is required.",
-      "date": "November 21, 2026"
+      "title": "Less Judgmental",
+      "body": "I am challenged by my community to claim a new freedom to love and accept others who may have different understandings of how to live a faithful and spiritual life. Rather than blame, judge, or compare, I can choose to accept, affirm, and celebrate another. Rather than avoiding persons who do not live the way I do or believe what I believe, I can learn to be with them in a personal, compassionate, and creative way. If I am rooted in my own spirit and comfortable in my own body, I will be less judgmental.",
+      "date": "November 23, 2026"
     },
     {
       "src": "raiati",
@@ -19,9 +19,9 @@
     },
     {
       "src": "nouwen",
-      "title": "Free to be a Pilgrim",
-      "body": "The question of where to live and what to do is really insignificant compared to the question of how to keep the eyes of my heart focused on the Lord… There is no such thing as the right place or the right job. I can be miserable or joyful, restless or at peace, in all situations. It is a simple truth that came to me in a time when I had to decide about my future. Living in Lima or not for five, ten, twenty years was no great decision. Turning to the Lord fully, unconditionally, and without fear _is._ He reminds me that I have no lasting dwelling on this earth, that I am a traveler on the way to a sacred place where God holds me in the palm of his hand. This deeper awareness sets me free to be a pilgrim, to pray without ceasing, and to be grateful.",
-      "date": "November 20, 2026"
+      "title": "Joy Hidden in Sorrow",
+      "body": "We have to realize that in the spiritual life there is something very different going on from what the world teaches us. We are surrounded by voices telling us that we have to have worldly success, but Jesus is saying, “Go with me to where the poor are, to where the broken are, and there you will find joy. Happy are the poor, happy are the mourning, happy are those who are persecuted. Joyful are the poor, those who are making peace, and those who are persecuted.” The whole thing is upside down, because in the eyes of God the joy is hidden right in the center of the sorrow.",
+      "date": "November 22, 2026"
     },
     {
       "src": "raiati",
@@ -31,14 +31,38 @@
     },
     {
       "src": "nouwen",
+      "title": "Moving to the Mystical",
+      "body": "When we are securely rooted in personal intimacy with the source of life, it will be possible to remain flexible without being relativistic, convinced without being rigid, willing to confront without being offensive, gentle and forgiving without being soft, and true witnesses without being manipulative. For Christian leadership to be truly fruitful in the future, a movement from the moral to the mystical is required.",
+      "date": "November 21, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[اللبّ والقشور",
+      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
+      "title": "Free to be a Pilgrim",
+      "body": "The question of where to live and what to do is really insignificant compared to the question of how to keep the eyes of my heart focused on the Lord… There is no such thing as the right place or the right job. I can be miserable or joyful, restless or at peace, in all situations. It is a simple truth that came to me in a time when I had to decide about my future. Living in Lima or not for five, ten, twenty years was no great decision. Turning to the Lord fully, unconditionally, and without fear _is._ He reminds me that I have no lasting dwelling on this earth, that I am a traveler on the way to a sacred place where God holds me in the palm of his hand. This deeper awareness sets me free to be a pilgrim, to pray without ceasing, and to be grateful.",
+      "date": "November 20, 2026"
+    },
+    {
+      "src": "raiati",
+      "title": "[هل القداس طويل؟",
+      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "date": "رعيتي — المطران جورج خضر"
+    },
+    {
+      "src": "nouwen",
       "title": "How to Perceive the World",
       "body": "Spiritually we are _in_ God, _in_ the Lord, _at home_ in God. Our true identity is that we are God’s children. It is from that perspective – from God’s perspective – that we perceive the world. We are called to see the world as God sees it; that is what theology is all about. Therefore, we are continually diagnosing the illusory quality of anything outside this perspective.",
       "date": "November 19, 2026"
     },
     {
       "src": "raiati",
-      "title": "[اللبّ والقشور",
-      "body": "إنجيل اليوم يُحدّثنا عن شفاء قام به السيد يوم السبت. وقضيةُ حِفظ السبت لعبت دورًا هاما جدا في حياة السيد. فمؤامرة اليهود لقتله ابتدأت عندما شفى يسوع الرجُل ذا اليد اليابسة يوم السبت (إنجيل متى 12: 10-13).",
+      "title": "[إن أردت أنْ تكون كاملاً",
+      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -49,8 +73,8 @@
     },
     {
       "src": "raiati",
-      "title": "[هل القداس طويل؟",
-      "body": "كثيرا ما نسمع هذا السؤال في أوساطنا: لماذا لا تقصّرون القداس الذي يطول ثلاث ساعات؟ الحقيقة ان القداس يبدأ من إعلان الكاهن: مباركة مملكة الآب والابن والروح القدس، وانه في إداء صحيح، لا يدوم أكثر من ساعة بما فيه العظة، وقد يمتد بضع دقائق لو كثرت المناولات. فإذا جاء الترتيل بلا إطالة مستهجنة بالتأدية المألوفة عندنا لا تستغرق الخدمة أكثر من ذلك. ولو حضر المؤمن صلاة السَحَر من أوّلها يكون رقم ثلاث ساعات أيضًا مبالغًا فيه.",
+      "title": "[صوم الميلاد",
+      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -61,8 +85,8 @@
     },
     {
       "src": "raiati",
-      "title": "[إن أردت أنْ تكون كاملاً",
-      "body": "لا شك ان هذا الإنجيل صعب جدا. السيد يقول عن الأغنياء ان دخولهم إلى ملكوت السموات عسير، بل انه يعسره إلى حد انه يقول: “ان دخول الجمل ثقب الابرة لأسهل من دخول غني ملكوت الله”.",
+      "title": "[البيت الرعية",
+      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
       "date": "رعيتي — المطران جورج خضر"
     },
     {
@@ -70,30 +94,6 @@
       "title": "Confession and Peacemaking",
       "body": "Nobody can escape the agonizing losses that are part of our everyday existence – the loss of our dreams. We had thought so long of ourselves as successful, liked and deeply loved. We had hoped for a life of generosity, service and self-sacrifice. We had planned to become forgiving, caring and always gentle people. We had a vision of ourselves as reconcilers and peacemakers. But somehow – we aren’t even sure of what happened – we lost our dreams. We became worrying, anxious people clinging to the few things we had collected and exchanging with one another news of the political, social and ecclesiastical scandals of our day. It is this loss of spirit that is often hardest to acknowledge and most difficult to confess.",
       "date": "November 16, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[صوم الميلاد",
-      "body": "منذ ثمانية قرون تبنّى الكرسي الأنطاكي صوم الميلاد الذي بدأناه منذ يومين في ١٥ تشرين الثاني. وروحه كروح الصوم الأربعينين، أعني رياضة النفس وتجميلها لاستقبال المسيح، فمن أساسات الصيام أن نوفّر ثمن طعام ونعطيه للمساكين.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "Compassion Grows a New World",
-      "body": "As disciples of Jesus, we are sent to wherever there is poverty, loneliness, suffering of any kind. We are given the courage to be with suffering people. We can trust by entering into places of pain, we will find the joy of Jesus. A new world grows out of compassion.",
-      "date": "November 15, 2026"
-    },
-    {
-      "src": "raiati",
-      "title": "[البيت الرعية",
-      "body": "كل منا دعاه الله أن يكون راعيا لمن هم حوله، الأقربين اليه بالمسكن والعمل. ومسؤوليتنا تأتي من هذه المحبة الصادرة من القلب والشافية لمن لامسته فاستدفأ بها. والمحبة أوّلا انتباه ثم خدمة فاستمرار خدمة ليظهر صدقها ونحسّ من خلالها أن الرب ذاته يفتقدنا بها من خلال الوجوه التي تحنو علينا.",
-      "date": "رعيتي — المطران جورج خضر"
-    },
-    {
-      "src": "nouwen",
-      "title": "To Pray is to Live",
-      "body": "Maybe someone will say to you, “You have to forgive yourself.” But that isn’t possible. What is possible is to open your hands without fear, so that the One who loves you can blow your sins away. Then the coins you considered indispensable for your life prove to be little more than light dust that a soft breeze will whirl away, leaving only a grin or a chuckle behind. Then you feel a bit of new freedom and praying becomes a joy, a spontaneous reaction to the world and the people around you. Praying then becomes effortless, inspired and lively, or peaceful and quiet. When you recognize the festive and the still moments as moments of prayer, then you gradually realize that to pray is to live.",
-      "date": "November 14, 2026"
     },
     {
       "src": "raiati",
